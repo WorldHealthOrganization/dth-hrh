@@ -176,7 +176,7 @@
   "remoteGraphs": [
     {
       "id": "hrhis-registry-2015-glossary",
-      "url": "https://litlfred.github.io/who-iris/v0/ns/glossary/hrhis-registry-2015/",
+      "url": "https://worldhealthorganization.github.io/who-iris/v0/ns/glossary/hrhis-registry-2015/",
       "graphTypologies": [
         "glossary"
       ],
