@@ -1,6 +1,6 @@
 {
   "@context": [
-    "https://litlfred.github.io/dth-hrh/ns/context/v1.jsonld",
+    "https://worldhealthorganization.github.io/dth-hrh/ns/context/v1.jsonld",
     {
       "@base": "https://litlfred.github.io/folio/",
       "smart-base": "https://litlfred.github.io/smart-base/v0/ns/"
@@ -56,7 +56,7 @@
     },
     "glossaryTerms": [
       "https://litlfred.github.io/smart-ra/v0/ns#glossary/dpi-h-ra/client",
-      "https://litlfred.github.io/dth-hrh/v0/ns#glossary/dth-hrh/regulation"
+      "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/dth-hrh/regulation"
     ],
     "relatedBlocks": [
       "bp:hrh-bp-03-renew-licence-and-verify-status"

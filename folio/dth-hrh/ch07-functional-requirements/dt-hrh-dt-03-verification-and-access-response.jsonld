@@ -1,6 +1,6 @@
 {
   "@context": [
-    "https://litlfred.github.io/dth-hrh/ns/context/v1.jsonld",
+    "https://worldhealthorganization.github.io/dth-hrh/ns/context/v1.jsonld",
     {
       "@base": "https://litlfred.github.io/folio/",
       "smart-base": "https://litlfred.github.io/smart-base/v0/ns/"
@@ -72,9 +72,9 @@
       ]
     },
     "glossaryTerms": [
-      "https://litlfred.github.io/dth-hrh/v0/ns#glossary/dth-hrh/regulation",
-      "https://litlfred.github.io/dth-hrh/v0/ns#glossary/dth-hrh/scope-of-practice",
-      "https://litlfred.github.io/dth-hrh/v0/ns#glossary/dth-hrh/stewardship",
+      "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/dth-hrh/regulation",
+      "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/dth-hrh/scope-of-practice",
+      "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/dth-hrh/stewardship",
       "https://litlfred.github.io/smart-ra/v0/ns#glossary/dpi-h-ra/data-governance",
       "https://litlfred.github.io/smart-ra/v0/ns#glossary/dpi-h-ra/repository"
     ],

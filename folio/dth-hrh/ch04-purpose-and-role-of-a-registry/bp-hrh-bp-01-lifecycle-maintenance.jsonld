@@ -1,6 +1,6 @@
 {
   "@context": [
-    "https://litlfred.github.io/dth-hrh/ns/context/v1.jsonld",
+    "https://worldhealthorganization.github.io/dth-hrh/ns/context/v1.jsonld",
     {
       "@base": "https://litlfred.github.io/folio/",
       "smart-base": "https://litlfred.github.io/smart-base/v0/ns/"
@@ -85,12 +85,12 @@
       ]
     },
     "glossaryTerms": [
-      "https://litlfred.github.io/dth-hrh/v0/ns#glossary/dth-hrh/health-workforce-registry",
-      "https://litlfred.github.io/dth-hrh/v0/ns#glossary/dth-hrh/pre-service-education",
-      "https://litlfred.github.io/dth-hrh/v0/ns#glossary/dth-hrh/registration",
-      "https://litlfred.github.io/dth-hrh/v0/ns#glossary/dth-hrh/licensing",
-      "https://litlfred.github.io/dth-hrh/v0/ns#glossary/dth-hrh/recruitment",
-      "https://litlfred.github.io/dth-hrh/v0/ns#glossary/dth-hrh/attrition"
+      "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/dth-hrh/health-workforce-registry",
+      "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/dth-hrh/pre-service-education",
+      "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/dth-hrh/registration",
+      "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/dth-hrh/licensing",
+      "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/dth-hrh/recruitment",
+      "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/dth-hrh/attrition"
     ],
     "relatedBlocks": [
       "pers:training-institution-registrar",
