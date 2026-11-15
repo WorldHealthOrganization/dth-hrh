@@ -44,7 +44,7 @@
     {
       "harness": "dpi-h-ra",
       "repository": "litlfred/smart-ra",
-      "ref": "b40c425af54b66552c393812806b7c94c1c0380a"
+      "ref": "9c1e794e90d735859654c13553e5f642333e8a02"
     }
   ],
   "instances": [
@@ -191,28 +191,28 @@
     {
       "instance": "dpi-h-ra",
       "repository": "litlfred/smart-ra",
-      "sha": "b40c425af54b66552c393812806b7c94c1c0380a",
+      "sha": "9c1e794e90d735859654c13553e5f642333e8a02",
       "upstreamRoot": "",
       "path": "dpi-h-ra",
       "via": "dpi-h-ra",
       "pinnedBy": "declared",
       "declaration": {
         "file": "dpi-h-ra.json",
-        "sha256": "738f14118801a866a9c49010f24eeb11221fe1e0cd6bd1d8a1673e74cc75c9bd"
+        "sha256": "320b197db82dea2c37b0f3b13d3e51524c6280b154b2f21604944bda35d0125a"
       },
       "directories": [
         {
           "id": "glossary",
           "path": "dpi-h-ra/glossary",
           "upstreamPath": "glossary",
-          "treeDigest": "e5f183a09a2cf1cabacccdbba2f57c30ce6d77aa64bea95815160d16d4d29e36",
+          "treeDigest": "4942da99ead66952c7d55e6656620d640f041fc10408f26b83b41c7d5653e6bb",
           "files": 5
         },
         {
           "id": "archimate",
           "path": "dpi-h-ra/archimate",
           "upstreamPath": "archimate",
-          "treeDigest": "13a223fc61cb0f718016eed732159ec371a80c922b999fabf699f81756ff9b53",
+          "treeDigest": "b4dde9e1792f54e410424fc0f25b90f19d8646c30659fccda0545d29eae1d91b",
           "files": 8
         }
       ],
@@ -230,7 +230,7 @@
         "basis": "consent",
         "by": "litlfred",
         "on": "2026-11-15",
-        "ref": "b40c425af54b66552c393812806b7c94c1c0380a",
+        "ref": "9c1e794e90d735859654c13553e5f642333e8a02",
         "approver": "unverified"
       }
     },

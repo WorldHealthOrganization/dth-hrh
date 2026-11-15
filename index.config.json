@@ -338,7 +338,7 @@
       "source": {
         "remote": {
           "repository": "litlfred/smart-ra",
-          "ref": "b40c425af54b66552c393812806b7c94c1c0380a",
+          "ref": "9c1e794e90d735859654c13553e5f642333e8a02",
           "overrides": {
             "dpi-h-ra": {
               "directories": [
@@ -375,7 +375,7 @@
             "consent": {
               "by": "litlfred",
               "on": "2026-11-15",
-              "ref": "b40c425af54b66552c393812806b7c94c1c0380a",
+              "ref": "9c1e794e90d735859654c13553e5f642333e8a02",
               "evidence": "owner litlfred, 2026-11-13: \"2. Repin dth-hrh again\" (~17:15Z, session_01VQDpPfQjS6Ah9hRnot9HUp); card in merge manager session_01VQDpPffYARDQ8juksAZScf ~21:40Z \"A. I re-pin by hand now\""
             },
             "standing": {
