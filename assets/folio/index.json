@@ -1101,203 +1101,203 @@
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-emergency-coordinator.jsonld",
-          "bytes": 709,
-          "size": "709 B"
+          "bytes": 2194,
+          "size": "2.1 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-emergency-coordinator.md",
-          "bytes": 721,
-          "size": "721 B"
-        },
-        {
-          "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-emergency-coordinator.ts",
-          "bytes": 339,
-          "size": "339 B"
-        },
-        {
-          "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-employer-hr-manager.jsonld",
-          "bytes": 780,
-          "size": "780 B"
-        },
-        {
-          "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-employer-hr-manager.md",
-          "bytes": 909,
-          "size": "909 B"
-        },
-        {
-          "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-employer-hr-manager.ts",
-          "bytes": 410,
-          "size": "410 B"
-        },
-        {
-          "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-health-worker.jsonld",
-          "bytes": 753,
-          "size": "753 B"
-        },
-        {
-          "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-health-worker.md",
-          "bytes": 1331,
+          "bytes": 1349,
           "size": "1.3 KB"
         },
         {
+          "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-emergency-coordinator.ts",
+          "bytes": 1487,
+          "size": "1.5 KB"
+        },
+        {
+          "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-employer-hr-manager.jsonld",
+          "bytes": 2568,
+          "size": "2.5 KB"
+        },
+        {
+          "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-employer-hr-manager.md",
+          "bytes": 1622,
+          "size": "1.6 KB"
+        },
+        {
+          "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-employer-hr-manager.ts",
+          "bytes": 1798,
+          "size": "1.8 KB"
+        },
+        {
+          "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-health-worker.jsonld",
+          "bytes": 3225,
+          "size": "3.1 KB"
+        },
+        {
+          "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-health-worker.md",
+          "bytes": 2142,
+          "size": "2.1 KB"
+        },
+        {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-health-worker.ts",
-          "bytes": 395,
-          "size": "395 B"
+          "bytes": 2345,
+          "size": "2.3 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-member-of-public.jsonld",
-          "bytes": 734,
-          "size": "734 B"
+          "bytes": 2175,
+          "size": "2.1 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-member-of-public.md",
-          "bytes": 579,
-          "size": "579 B"
+          "bytes": 1157,
+          "size": "1.1 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-member-of-public.ts",
-          "bytes": 370,
-          "size": "370 B"
+          "bytes": 1472,
+          "size": "1.4 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-registration-officer.jsonld",
-          "bytes": 723,
-          "size": "723 B"
+          "bytes": 3285,
+          "size": "3.2 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-registration-officer.md",
-          "bytes": 980,
-          "size": "980 B"
+          "bytes": 1885,
+          "size": "1.8 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-registration-officer.ts",
-          "bytes": 355,
-          "size": "355 B"
+          "bytes": 2390,
+          "size": "2.3 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-system-emr.jsonld",
-          "bytes": 725,
-          "size": "725 B"
+          "bytes": 2001,
+          "size": "2.0 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-system-emr.md",
-          "bytes": 579,
-          "size": "579 B"
+          "bytes": 1104,
+          "size": "1.1 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-system-emr.ts",
-          "bytes": 373,
-          "size": "373 B"
+          "bytes": 1364,
+          "size": "1.3 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-system-facility-registry.jsonld",
-          "bytes": 714,
-          "size": "714 B"
+          "bytes": 2216,
+          "size": "2.2 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-system-facility-registry.md",
-          "bytes": 480,
-          "size": "480 B"
+          "bytes": 1130,
+          "size": "1.1 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-system-facility-registry.ts",
-          "bytes": 338,
-          "size": "338 B"
+          "bytes": 1503,
+          "size": "1.5 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-system-hris.jsonld",
-          "bytes": 699,
-          "size": "699 B"
+          "bytes": 2247,
+          "size": "2.2 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-system-hris.md",
-          "bytes": 769,
-          "size": "769 B"
+          "bytes": 1514,
+          "size": "1.5 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-system-hris.ts",
-          "bytes": 349,
-          "size": "349 B"
+          "bytes": 1560,
+          "size": "1.5 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-system-national-id.jsonld",
-          "bytes": 759,
-          "size": "759 B"
+          "bytes": 2263,
+          "size": "2.2 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-system-national-id.md",
-          "bytes": 649,
-          "size": "649 B"
+          "bytes": 1306,
+          "size": "1.3 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-system-national-id.ts",
-          "bytes": 391,
-          "size": "391 B"
+          "bytes": 1556,
+          "size": "1.5 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-system-nhwa-platform.jsonld",
-          "bytes": 744,
-          "size": "744 B"
+          "bytes": 2288,
+          "size": "2.2 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-system-nhwa-platform.md",
-          "bytes": 607,
-          "size": "607 B"
+          "bytes": 1296,
+          "size": "1.3 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-system-nhwa-platform.ts",
-          "bytes": 372,
-          "size": "372 B"
+          "bytes": 1577,
+          "size": "1.5 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-system-payroll.jsonld",
-          "bytes": 681,
-          "size": "681 B"
+          "bytes": 2202,
+          "size": "2.2 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-system-payroll.md",
-          "bytes": 469,
-          "size": "469 B"
+          "bytes": 1228,
+          "size": "1.2 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-system-payroll.ts",
-          "bytes": 325,
-          "size": "325 B"
+          "bytes": 1509,
+          "size": "1.5 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-training-institution-registrar.jsonld",
-          "bytes": 745,
-          "size": "745 B"
+          "bytes": 2349,
+          "size": "2.3 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-training-institution-registrar.md",
-          "bytes": 648,
-          "size": "648 B"
+          "bytes": 1262,
+          "size": "1.2 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-training-institution-registrar.ts",
-          "bytes": 357,
-          "size": "357 B"
+          "bytes": 1617,
+          "size": "1.6 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-workforce-planner.jsonld",
-          "bytes": 760,
-          "size": "760 B"
+          "bytes": 2298,
+          "size": "2.2 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-workforce-planner.md",
-          "bytes": 894,
-          "size": "894 B"
+          "bytes": 1577,
+          "size": "1.5 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-workforce-planner.ts",
-          "bytes": 394,
-          "size": "394 B"
+          "bytes": 1593,
+          "size": "1.6 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/scen-register-and-license-new-graduate.jsonld",
-          "bytes": 741,
-          "size": "741 B"
+          "bytes": 869,
+          "size": "869 B"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/scen-register-and-license-new-graduate.md",
@@ -1306,13 +1306,13 @@
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/scen-register-and-license-new-graduate.ts",
-          "bytes": 454,
-          "size": "454 B"
+          "bytes": 551,
+          "size": "551 B"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/scen-renew-licence.jsonld",
-          "bytes": 661,
-          "size": "661 B"
+          "bytes": 794,
+          "size": "794 B"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/scen-renew-licence.md",
@@ -1321,13 +1321,13 @@
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/scen-renew-licence.ts",
-          "bytes": 375,
-          "size": "375 B"
+          "bytes": 477,
+          "size": "477 B"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/scen-update-employment.jsonld",
-          "bytes": 696,
-          "size": "696 B"
+          "bytes": 830,
+          "size": "830 B"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/scen-update-employment.md",
@@ -1336,13 +1336,13 @@
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/scen-update-employment.ts",
-          "bytes": 454,
-          "size": "454 B"
+          "bytes": 557,
+          "size": "557 B"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/scen-verify-status.jsonld",
-          "bytes": 677,
-          "size": "677 B"
+          "bytes": 815,
+          "size": "815 B"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/scen-verify-status.md",
@@ -1351,13 +1351,13 @@
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/scen-verify-status.ts",
-          "bytes": 441,
-          "size": "441 B"
+          "bytes": 548,
+          "size": "548 B"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/scen-workforce-counts-and-nhwa-reporting.jsonld",
-          "bytes": 785,
-          "size": "785 B"
+          "bytes": 930,
+          "size": "930 B"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/scen-workforce-counts-and-nhwa-reporting.md",
@@ -1366,12 +1366,12 @@
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/scen-workforce-counts-and-nhwa-reporting.ts",
-          "bytes": 459,
-          "size": "459 B"
+          "bytes": 573,
+          "size": "573 B"
         },
         {
           "path": "dth-hrh/ch06-governance-and-stewardship/ch06-governance-and-stewardship.ts",
-          "bytes": 1103,
+          "bytes": 1163,
           "size": "1.1 KB"
         },
         {
@@ -1510,9 +1510,99 @@
           "size": "319 B"
         },
         {
+          "path": "dth-hrh/ch06-governance-and-stewardship/pers-registry-custodian.jsonld",
+          "bytes": 2286,
+          "size": "2.2 KB"
+        },
+        {
+          "path": "dth-hrh/ch06-governance-and-stewardship/pers-registry-custodian.md",
+          "bytes": 1947,
+          "size": "1.9 KB"
+        },
+        {
+          "path": "dth-hrh/ch06-governance-and-stewardship/pers-registry-custodian.ts",
+          "bytes": 1579,
+          "size": "1.5 KB"
+        },
+        {
+          "path": "dth-hrh/ch06-governance-and-stewardship/pers-registry-governance-body.jsonld",
+          "bytes": 2254,
+          "size": "2.2 KB"
+        },
+        {
+          "path": "dth-hrh/ch06-governance-and-stewardship/pers-registry-governance-body.md",
+          "bytes": 1737,
+          "size": "1.7 KB"
+        },
+        {
+          "path": "dth-hrh/ch06-governance-and-stewardship/pers-registry-governance-body.ts",
+          "bytes": 1535,
+          "size": "1.5 KB"
+        },
+        {
           "path": "dth-hrh/ch07-functional-requirements/ch07-functional-requirements.ts",
-          "bytes": 1661,
-          "size": "1.6 KB"
+          "bytes": 1795,
+          "size": "1.8 KB"
+        },
+        {
+          "path": "dth-hrh/ch07-functional-requirements/dt-hrh-dt-01-registration-eligibility.dmn",
+          "bytes": 8950,
+          "size": "8.7 KB"
+        },
+        {
+          "path": "dth-hrh/ch07-functional-requirements/dt-hrh-dt-01-registration-eligibility.jsonld",
+          "bytes": 3270,
+          "size": "3.2 KB"
+        },
+        {
+          "path": "dth-hrh/ch07-functional-requirements/dt-hrh-dt-01-registration-eligibility.md",
+          "bytes": 3058,
+          "size": "3.0 KB"
+        },
+        {
+          "path": "dth-hrh/ch07-functional-requirements/dt-hrh-dt-01-registration-eligibility.ts",
+          "bytes": 2391,
+          "size": "2.3 KB"
+        },
+        {
+          "path": "dth-hrh/ch07-functional-requirements/dt-hrh-dt-02-lifecycle-status-transition.dmn",
+          "bytes": 9474,
+          "size": "9.3 KB"
+        },
+        {
+          "path": "dth-hrh/ch07-functional-requirements/dt-hrh-dt-02-lifecycle-status-transition.jsonld",
+          "bytes": 3221,
+          "size": "3.1 KB"
+        },
+        {
+          "path": "dth-hrh/ch07-functional-requirements/dt-hrh-dt-02-lifecycle-status-transition.md",
+          "bytes": 2661,
+          "size": "2.6 KB"
+        },
+        {
+          "path": "dth-hrh/ch07-functional-requirements/dt-hrh-dt-02-lifecycle-status-transition.ts",
+          "bytes": 2345,
+          "size": "2.3 KB"
+        },
+        {
+          "path": "dth-hrh/ch07-functional-requirements/dt-hrh-dt-03-verification-and-access-response.dmn",
+          "bytes": 8128,
+          "size": "7.9 KB"
+        },
+        {
+          "path": "dth-hrh/ch07-functional-requirements/dt-hrh-dt-03-verification-and-access-response.jsonld",
+          "bytes": 3829,
+          "size": "3.7 KB"
+        },
+        {
+          "path": "dth-hrh/ch07-functional-requirements/dt-hrh-dt-03-verification-and-access-response.md",
+          "bytes": 3796,
+          "size": "3.7 KB"
+        },
+        {
+          "path": "dth-hrh/ch07-functional-requirements/dt-hrh-dt-03-verification-and-access-response.ts",
+          "bytes": 2801,
+          "size": "2.7 KB"
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/f-nhwa-hwr.jsonld",
@@ -5061,8 +5151,8 @@
         },
         {
           "path": "dth-hrh/review-anchors.json",
-          "bytes": 160786,
-          "size": "157.0 KB"
+          "bytes": 163061,
+          "size": "159.2 KB"
         },
         {
           "path": "schema/builders.ts",
