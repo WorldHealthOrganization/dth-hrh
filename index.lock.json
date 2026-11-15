@@ -44,7 +44,7 @@
     {
       "harness": "dpi-h-ra",
       "repository": "litlfred/smart-ra",
-      "ref": "33d262388927fa5dcf55148191f0d7acc411e2d0"
+      "ref": "b40c425af54b66552c393812806b7c94c1c0380a"
     }
   ],
   "instances": [
@@ -191,7 +191,7 @@
     {
       "instance": "dpi-h-ra",
       "repository": "litlfred/smart-ra",
-      "sha": "33d262388927fa5dcf55148191f0d7acc411e2d0",
+      "sha": "b40c425af54b66552c393812806b7c94c1c0380a",
       "upstreamRoot": "",
       "path": "dpi-h-ra",
       "via": "dpi-h-ra",
@@ -205,14 +205,14 @@
           "id": "glossary",
           "path": "dpi-h-ra/glossary",
           "upstreamPath": "glossary",
-          "treeDigest": "e256adbeff1ac43d3afa1190db5b8ea50769cfe2ac755a329fd7856097b546fa",
+          "treeDigest": "e5f183a09a2cf1cabacccdbba2f57c30ce6d77aa64bea95815160d16d4d29e36",
           "files": 5
         },
         {
           "id": "archimate",
           "path": "dpi-h-ra/archimate",
           "upstreamPath": "archimate",
-          "treeDigest": "12219078a5e28e8173a1516bfe4f76a8c56b6376f7f7201c9a3bfa06bfd96e91",
+          "treeDigest": "13a223fc61cb0f718016eed732159ec371a80c922b999fabf699f81756ff9b53",
           "files": 8
         }
       ],
@@ -230,7 +230,7 @@
         "basis": "consent",
         "by": "litlfred",
         "on": "2026-11-15",
-        "ref": "33d262388927fa5dcf55148191f0d7acc411e2d0",
+        "ref": "b40c425af54b66552c393812806b7c94c1c0380a",
         "approver": "unverified"
       }
     },
