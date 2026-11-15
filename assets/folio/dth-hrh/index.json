@@ -788,9 +788,29 @@
           "size": "373 B"
         },
         {
+          "path": "dth-hrh/ch04-purpose-and-role-of-a-registry/bp-hrh-bp-01-lifecycle-maintenance.bpmn",
+          "bytes": 10511,
+          "size": "10.3 KB"
+        },
+        {
+          "path": "dth-hrh/ch04-purpose-and-role-of-a-registry/bp-hrh-bp-01-lifecycle-maintenance.jsonld",
+          "bytes": 3898,
+          "size": "3.8 KB"
+        },
+        {
+          "path": "dth-hrh/ch04-purpose-and-role-of-a-registry/bp-hrh-bp-01-lifecycle-maintenance.md",
+          "bytes": 3830,
+          "size": "3.7 KB"
+        },
+        {
+          "path": "dth-hrh/ch04-purpose-and-role-of-a-registry/bp-hrh-bp-01-lifecycle-maintenance.ts",
+          "bytes": 2810,
+          "size": "2.7 KB"
+        },
+        {
           "path": "dth-hrh/ch04-purpose-and-role-of-a-registry/ch04-purpose-and-role-of-a-registry.ts",
-          "bytes": 1152,
-          "size": "1.1 KB"
+          "bytes": 1190,
+          "size": "1.2 KB"
         },
         {
           "path": "dth-hrh/ch04-purpose-and-role-of-a-registry/p-ch04-authoritative-source.jsonld",
@@ -943,9 +963,89 @@
           "size": "319 B"
         },
         {
+          "path": "dth-hrh/ch05-user-personas-and-use-cases/bp-hrh-bp-02-register-and-license-graduate.bpmn",
+          "bytes": 11160,
+          "size": "10.9 KB"
+        },
+        {
+          "path": "dth-hrh/ch05-user-personas-and-use-cases/bp-hrh-bp-02-register-and-license-graduate.jsonld",
+          "bytes": 3800,
+          "size": "3.7 KB"
+        },
+        {
+          "path": "dth-hrh/ch05-user-personas-and-use-cases/bp-hrh-bp-02-register-and-license-graduate.md",
+          "bytes": 3950,
+          "size": "3.9 KB"
+        },
+        {
+          "path": "dth-hrh/ch05-user-personas-and-use-cases/bp-hrh-bp-02-register-and-license-graduate.ts",
+          "bytes": 2739,
+          "size": "2.7 KB"
+        },
+        {
+          "path": "dth-hrh/ch05-user-personas-and-use-cases/bp-hrh-bp-03-renew-licence-and-verify-status.bpmn",
+          "bytes": 11079,
+          "size": "10.8 KB"
+        },
+        {
+          "path": "dth-hrh/ch05-user-personas-and-use-cases/bp-hrh-bp-03-renew-licence-and-verify-status.jsonld",
+          "bytes": 3809,
+          "size": "3.7 KB"
+        },
+        {
+          "path": "dth-hrh/ch05-user-personas-and-use-cases/bp-hrh-bp-03-renew-licence-and-verify-status.md",
+          "bytes": 4080,
+          "size": "4.0 KB"
+        },
+        {
+          "path": "dth-hrh/ch05-user-personas-and-use-cases/bp-hrh-bp-03-renew-licence-and-verify-status.ts",
+          "bytes": 2723,
+          "size": "2.7 KB"
+        },
+        {
+          "path": "dth-hrh/ch05-user-personas-and-use-cases/bp-hrh-bp-04-update-employment-and-deployment.bpmn",
+          "bytes": 10270,
+          "size": "10.0 KB"
+        },
+        {
+          "path": "dth-hrh/ch05-user-personas-and-use-cases/bp-hrh-bp-04-update-employment-and-deployment.jsonld",
+          "bytes": 3958,
+          "size": "3.9 KB"
+        },
+        {
+          "path": "dth-hrh/ch05-user-personas-and-use-cases/bp-hrh-bp-04-update-employment-and-deployment.md",
+          "bytes": 3511,
+          "size": "3.4 KB"
+        },
+        {
+          "path": "dth-hrh/ch05-user-personas-and-use-cases/bp-hrh-bp-04-update-employment-and-deployment.ts",
+          "bytes": 2854,
+          "size": "2.8 KB"
+        },
+        {
+          "path": "dth-hrh/ch05-user-personas-and-use-cases/bp-hrh-bp-05-workforce-analytics-and-nhwa-reporting.bpmn",
+          "bytes": 7947,
+          "size": "7.8 KB"
+        },
+        {
+          "path": "dth-hrh/ch05-user-personas-and-use-cases/bp-hrh-bp-05-workforce-analytics-and-nhwa-reporting.jsonld",
+          "bytes": 3318,
+          "size": "3.2 KB"
+        },
+        {
+          "path": "dth-hrh/ch05-user-personas-and-use-cases/bp-hrh-bp-05-workforce-analytics-and-nhwa-reporting.md",
+          "bytes": 3145,
+          "size": "3.1 KB"
+        },
+        {
+          "path": "dth-hrh/ch05-user-personas-and-use-cases/bp-hrh-bp-05-workforce-analytics-and-nhwa-reporting.ts",
+          "bytes": 2395,
+          "size": "2.3 KB"
+        },
+        {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/ch05-user-personas-and-use-cases.ts",
-          "bytes": 1615,
-          "size": "1.6 KB"
+          "bytes": 1813,
+          "size": "1.8 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/p-ch05-figures.jsonld",
@@ -1353,9 +1453,29 @@
           "size": "573 B"
         },
         {
+          "path": "dth-hrh/ch06-governance-and-stewardship/bp-hrh-bp-06-governance-and-stewardship-review.bpmn",
+          "bytes": 10655,
+          "size": "10.4 KB"
+        },
+        {
+          "path": "dth-hrh/ch06-governance-and-stewardship/bp-hrh-bp-06-governance-and-stewardship-review.jsonld",
+          "bytes": 3857,
+          "size": "3.8 KB"
+        },
+        {
+          "path": "dth-hrh/ch06-governance-and-stewardship/bp-hrh-bp-06-governance-and-stewardship-review.md",
+          "bytes": 3769,
+          "size": "3.7 KB"
+        },
+        {
+          "path": "dth-hrh/ch06-governance-and-stewardship/bp-hrh-bp-06-governance-and-stewardship-review.ts",
+          "bytes": 2711,
+          "size": "2.6 KB"
+        },
+        {
           "path": "dth-hrh/ch06-governance-and-stewardship/ch06-governance-and-stewardship.ts",
-          "bytes": 1163,
-          "size": "1.1 KB"
+          "bytes": 1213,
+          "size": "1.2 KB"
         },
         {
           "path": "dth-hrh/ch06-governance-and-stewardship/p-ch06-data-stewardship.jsonld",
@@ -5093,6 +5213,36 @@
           "size": "278 B"
         },
         {
+          "path": "dth-hrh/media/bp-hrh-bp-01-lifecycle-maintenance.svg",
+          "bytes": 32740,
+          "size": "32.0 KB"
+        },
+        {
+          "path": "dth-hrh/media/bp-hrh-bp-02-register-and-license-graduate.svg",
+          "bytes": 35219,
+          "size": "34.4 KB"
+        },
+        {
+          "path": "dth-hrh/media/bp-hrh-bp-03-renew-licence-and-verify-status.svg",
+          "bytes": 37429,
+          "size": "36.6 KB"
+        },
+        {
+          "path": "dth-hrh/media/bp-hrh-bp-04-update-employment-and-deployment.svg",
+          "bytes": 31244,
+          "size": "30.5 KB"
+        },
+        {
+          "path": "dth-hrh/media/bp-hrh-bp-05-workforce-analytics-and-nhwa-reporting.svg",
+          "bytes": 23685,
+          "size": "23.1 KB"
+        },
+        {
+          "path": "dth-hrh/media/bp-hrh-bp-06-governance-and-stewardship-review.svg",
+          "bytes": 28832,
+          "size": "28.2 KB"
+        },
+        {
           "path": "dth-hrh/media/diig-phases-hrh.svg",
           "bytes": 35435,
           "size": "34.6 KB"
@@ -5134,8 +5284,8 @@
         },
         {
           "path": "dth-hrh/review-anchors.json",
-          "bytes": 163061,
-          "size": "159.2 KB"
+          "bytes": 165945,
+          "size": "162.1 KB"
         },
         {
           "path": "schema/builders.ts",
