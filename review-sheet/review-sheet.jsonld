@@ -12,10 +12,10 @@
       "schema:name": "Review sheet Apps Script (generic)",
       "schema:programmingLanguage": "Google Apps Script",
       "schema:codeRepository": "https://github.com/litlfred/folio-assistant-core/tree/main/tools/review-sheet-sync",
-      "schema:version": "3da602f9c35c09108b0e39c151f359d178afe65b",
+      "schema:version": "e448dfd50a964660fd84823c6c7521a0d1cb4159",
       "spdx:checksum": {
         "spdx:algorithm": "SHA-256",
-        "spdx:checksumValue": "e2cc1361d530e75e2c14d50eef476f81ce0d4f450a422b56e84768fa74ebcd6b"
+        "spdx:checksumValue": "01833266d8eabc35751a782321c8064c12028257e1cb2304ea62647fe52cc548"
       },
       "schema:permissions": [
         "https://www.googleapis.com/auth/spreadsheets.currentonly",
