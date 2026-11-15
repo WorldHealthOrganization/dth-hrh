@@ -14,7 +14,7 @@
       "source": {
         "remote": {
           "repository": "litlfred/who-iris",
-          "ref": "80e69124a0046cf8a61d6441dab18c241be4f65f",
+          "ref": "6ae868df1e15b9be6d3721bda5c9d071bb9ea000",
           "overrides": {
             "who-iris": {
               "whole": true
@@ -39,7 +39,7 @@
             "consent": {
               "by": "litlfred",
               "on": "2026-11-15",
-              "ref": "80e69124a0046cf8a61d6441dab18c241be4f65f",
+              "ref": "6ae868df1e15b9be6d3721bda5c9d071bb9ea000",
               "evidence": "standing consent by litlfred given 2026-11-12: follow `main` (green commits only) — litlfred, 2026-11-12 09:07Z, project thread 'Nest bibliography entries under Bibliography' (Q-BIBNAV-2): 'B' = re-pin now and switch on standing re-pin so platform fixes reach the site by themselves (cat-harness-tools standing-repin.yml).",
               "standing": {
                 "follows": "main",
@@ -235,7 +235,7 @@
       "source": {
         "remote": {
           "repository": "litlfred/cat-harness-tools",
-          "ref": "1d779e9104cd32e101989409b427c567134c64a2",
+          "ref": "7db626b4abfeefe66751c51e0fb8d5b6cb922435",
           "overrides": {
             "cat-harness-tools": {
               "whole": true
@@ -247,9 +247,14 @@
           "trust": {
             "consent": {
               "by": "litlfred",
-              "on": "2026-11-14",
-              "ref": "1d779e9104cd32e101989409b427c567134c64a2",
-              "evidence": "owner litlfred, 2026-11-14 ~05:50Z ('A. Renew 6h + re-pin') and ~07:05Z ('repin+merge all green and ready for next 16 hrs'), in Claude Code session https://claude.ai/code/session_01VQDpPffYARDQ8juksAZScf"
+              "on": "2026-11-15",
+              "ref": "7db626b4abfeefe66751c51e0fb8d5b6cb922435",
+              "evidence": "standing consent by litlfred given 2026-11-12: follow `main` (green commits only) — litlfred, 2026-11-12 09:07Z, project thread 'Nest bibliography entries under Bibliography' (Q-BIBNAV-2): 'B' = re-pin now and switch on standing re-pin so platform fixes reach the site by themselves (cat-harness-tools standing-repin.yml).",
+              "standing": {
+                "follows": "main",
+                "consentAt": "2026-11-12",
+                "require": "green"
+              }
             },
             "standing": {
               "follows": "main",
@@ -338,7 +343,7 @@
       "source": {
         "remote": {
           "repository": "litlfred/smart-ra",
-          "ref": "b40c425af54b66552c393812806b7c94c1c0380a",
+          "ref": "f86d225bed72f52dde45a2fdd2b8198ae4c686bb",
           "overrides": {
             "dpi-h-ra": {
               "directories": [
@@ -374,9 +379,14 @@
           "trust": {
             "consent": {
               "by": "litlfred",
-              "on": "2026-11-13",
-              "ref": "b40c425af54b66552c393812806b7c94c1c0380a",
-              "evidence": "owner litlfred, 2026-11-13: \"2. Repin dth-hrh again\" (~17:15Z, session_01VQDpPfQjS6Ah9hRnot9HUp); card in merge manager session_01VQDpPffYARDQ8juksAZScf ~21:40Z \"A. I re-pin by hand now\""
+              "on": "2026-11-15",
+              "ref": "f86d225bed72f52dde45a2fdd2b8198ae4c686bb",
+              "evidence": "standing consent by litlfred given 2026-11-12: follow `main` (green commits only) — litlfred, 2026-11-12 09:07Z, project thread 'Nest bibliography entries under Bibliography' (Q-BIBNAV-2): 'B' = re-pin now and switch on standing re-pin so platform fixes reach the site by themselves (cat-harness-tools standing-repin.yml).",
+              "standing": {
+                "follows": "main",
+                "consentAt": "2026-11-12",
+                "require": "green"
+              }
             },
             "standing": {
               "follows": "main",
