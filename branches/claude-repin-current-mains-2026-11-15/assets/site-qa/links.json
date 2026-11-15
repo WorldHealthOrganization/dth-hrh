@@ -1,0 +1,1174 @@
+{
+ "$schema": "site-link-report/v1",
+ "pages": 1819,
+ "unresolved": [],
+ "selfAddress": [
+  {
+   "page": "ar/folio-assistant-core/glossary/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/ar/folio-assistant-core/glossary/"
+  },
+  {
+   "page": "en/cat-harness/attestations/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/cat-harness/attestations/"
+  },
+  {
+   "page": "en/cat-harness/beans/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/cat-harness/beans/"
+  },
+  {
+   "page": "en/cat-harness/block-kinds/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/cat-harness/block-kinds/"
+  },
+  {
+   "page": "en/cat-harness/code-lists/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/cat-harness/code-lists/"
+  },
+  {
+   "page": "en/cat-harness/code/dth-hrh/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/cat-harness/code/dth-hrh/"
+  },
+  {
+   "page": "en/cat-harness/code/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/cat-harness/code/"
+  },
+  {
+   "page": "en/cat-harness/content-adapters/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/cat-harness/content-adapters/"
+  },
+  {
+   "page": "en/cat-harness/folio/dpi-h-ra/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/cat-harness/folio/dpi-h-ra/"
+  },
+  {
+   "page": "en/cat-harness/folio/dth-hrh/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/cat-harness/folio/dth-hrh/"
+  },
+  {
+   "page": "en/cat-harness/folio/folio-assistant-core/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/cat-harness/folio/folio-assistant-core/"
+  },
+  {
+   "page": "en/cat-harness/folio/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/cat-harness/folio/"
+  },
+  {
+   "page": "en/cat-harness/folio/who-iris/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/cat-harness/folio/who-iris/"
+  },
+  {
+   "page": "en/cat-harness/graph-typologies/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/cat-harness/graph-typologies/"
+  },
+  {
+   "page": "en/cat-harness/health/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/cat-harness/health/"
+  },
+  {
+   "page": "en/cat-harness/issue-marks/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/cat-harness/issue-marks/"
+  },
+  {
+   "page": "en/cat-harness/library/dth-hrh/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/cat-harness/library/dth-hrh/"
+  },
+  {
+   "page": "en/cat-harness/library/dth-hrh/twg-glossary-2026-09-29/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/cat-harness/library/dth-hrh/twg-glossary-2026-09-29/"
+  },
+  {
+   "page": "en/cat-harness/library/dth-hrh/twg-outline-2026-10-02/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/cat-harness/library/dth-hrh/twg-outline-2026-10-02/"
+  },
+  {
+   "page": "en/cat-harness/library/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/cat-harness/library/"
+  },
+  {
+   "page": "en/cat-harness/memory/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/cat-harness/memory/"
+  },
+  {
+   "page": "en/cat-harness/merge-reviews/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/cat-harness/merge-reviews/"
+  },
+  {
+   "page": "en/cat-harness/pipeline-plugins/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/cat-harness/pipeline-plugins/"
+  },
+  {
+   "page": "en/cat-harness/policies/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/cat-harness/policies/"
+  },
+  {
+   "page": "en/cat-harness/processes/bp-hrh-bp-01-lifecycle-maintenance.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/cat-harness/processes/bp-hrh-bp-01-lifecycle-maintenance.html"
+  },
+  {
+   "page": "en/cat-harness/processes/bp-hrh-bp-02-register-and-license-graduate.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/cat-harness/processes/bp-hrh-bp-02-register-and-license-graduate.html"
+  },
+  {
+   "page": "en/cat-harness/processes/bp-hrh-bp-03-renew-licence-and-verify-status.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/cat-harness/processes/bp-hrh-bp-03-renew-licence-and-verify-status.html"
+  },
+  {
+   "page": "en/cat-harness/processes/bp-hrh-bp-04-update-employment-and-deployment.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/cat-harness/processes/bp-hrh-bp-04-update-employment-and-deployment.html"
+  },
+  {
+   "page": "en/cat-harness/processes/bp-hrh-bp-05-workforce-analytics-and-nhwa-reporting.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/cat-harness/processes/bp-hrh-bp-05-workforce-analytics-and-nhwa-reporting.html"
+  },
+  {
+   "page": "en/cat-harness/processes/bp-hrh-bp-06-governance-and-stewardship-review.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/cat-harness/processes/bp-hrh-bp-06-governance-and-stewardship-review.html"
+  },
+  {
+   "page": "en/cat-harness/processes/dth-hrh/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/cat-harness/processes/dth-hrh/"
+  },
+  {
+   "page": "en/cat-harness/processes/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/cat-harness/processes/"
+  },
+  {
+   "page": "en/cat-harness/processes/panel-links-qa.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/cat-harness/processes/panel-links-qa.html"
+  },
+  {
+   "page": "en/cat-harness/qa-checkers/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/cat-harness/qa-checkers/"
+  },
+  {
+   "page": "en/cat-harness/qa/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/cat-harness/qa/"
+  },
+  {
+   "page": "en/cat-harness/scenarios/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/cat-harness/scenarios/"
+  },
+  {
+   "page": "en/cat-harness/substrate-snapshots/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/cat-harness/substrate-snapshots/"
+  },
+  {
+   "page": "en/cat-harness/swimlane-glossary/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/cat-harness/swimlane-glossary/"
+  },
+  {
+   "page": "en/cat-harness/test-plans/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/cat-harness/test-plans/"
+  },
+  {
+   "page": "en/cat-harness/todos/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/cat-harness/todos/"
+  },
+  {
+   "page": "en/cat-harness/tool-releases/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/cat-harness/tool-releases/"
+  },
+  {
+   "page": "en/cat-harness/uploads-queue/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/cat-harness/uploads-queue/"
+  },
+  {
+   "page": "en/cat-harness/validators/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/cat-harness/validators/"
+  },
+  {
+   "page": "en/cat-harness/vocab-mappings/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/cat-harness/vocab-mappings/"
+  },
+  {
+   "page": "en/dth-hrh/assets/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/dth-hrh/assets/"
+  },
+  {
+   "page": "en/dth-hrh/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/dth-hrh/"
+  },
+  {
+   "page": "en/folio-assistant-core/bibliography/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/bibliography/"
+  },
+  {
+   "page": "en/folio-assistant-core/bibliography/library/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/bibliography/library/"
+  },
+  {
+   "page": "en/folio-assistant-core/bibliography/library/twg-glossary-2026-09-29/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/bibliography/library/twg-glossary-2026-09-29/"
+  },
+  {
+   "page": "en/folio-assistant-core/bibliography/library/twg-outline-2026-10-02/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/bibliography/library/twg-outline-2026-10-02/"
+  },
+  {
+   "page": "en/folio-assistant-core/bibliography/references/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/bibliography/references/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/bpmn-activities/a-d/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/bpmn-activities/a-d/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/bpmn-activities/e-q/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/bpmn-activities/e-q/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/bpmn-activities/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/bpmn-activities/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/bpmn-activities/r-z/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/bpmn-activities/r-z/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/dmn-decisions/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/dmn-decisions/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/accreditation/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/accreditation/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/active-health-worker/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/active-health-worker/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/activity-level/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/activity-level/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/application-programming-interface/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/application-programming-interface/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/artificial-intelligence/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/artificial-intelligence/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/attrition/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/attrition/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/business-process-model-and-notation/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/business-process-model-and-notation/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/certification/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/certification/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/community-health-workers/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/community-health-workers/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/competence/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/competence/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/competencies/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/competencies/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/continuing-professional-development/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/continuing-professional-development/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/contract-type/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/contract-type/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/decision-model-and-notation/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/decision-model-and-notation/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/deployment/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/deployment/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/digital-implementation-investment-guide/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/digital-implementation-investment-guide/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/digital-public-infrastructure-for-health/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/digital-public-infrastructure-for-health/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/distribution/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/distribution/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/dual-practice/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/dual-practice/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/education-and-training-institution/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/education-and-training-institution/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/education-management-information-system/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/education-management-information-system/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/education/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/education/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/educational-institution/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/educational-institution/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/electronic-health-record/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/electronic-health-record/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/electronic-medical-record/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/electronic-medical-record/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/employment-status-full-time-part-time-temporary-permanent/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/employment-status-full-time-part-time-temporary-permanent/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/global-digital-health-certification-network/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/global-digital-health-certification-network/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/health-information-system/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/health-information-system/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/health-labour-market/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/health-labour-market/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/health-level-seven/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/health-level-seven/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/health-management-information-system/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/health-management-information-system/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/health-practitioner/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/health-practitioner/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/health-professional/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/health-professional/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/health-professions-education-accreditation-agency/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/health-professions-education-accreditation-agency/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/health-services-licensing-agency/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/health-services-licensing-agency/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/health-workers/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/health-workers/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/health-workforce-observatory/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/health-workforce-observatory/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/health-workforce-planning/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/health-workforce-planning/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/health-workforce-registry/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/health-workforce-registry/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/health-workforce/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/health-workforce/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/healthcare-provider-directory/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/healthcare-provider-directory/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/human-resources-for-health-information-system/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/human-resources-for-health-information-system/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/human-resources-management/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/human-resources-management/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/ihris/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/ihris/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/in-service-training/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/in-service-training/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/integrating-the-healthcare-enterprise/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/integrating-the-healthcare-enterprise/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/international-labour-organization/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/international-labour-organization/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/international-organization-for-standardization/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/international-organization-for-standardization/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/international-standard-classification-of-education/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/international-standard-classification-of-education/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/international-standard-classification-of-occupations/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/international-standard-classification-of-occupations/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/international-telecommunication-union/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/international-telecommunication-union/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/key-performance-indicator/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/key-performance-indicator/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/labour-force-survey/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/labour-force-survey/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/learning-management-system/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/learning-management-system/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/licensing/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/licensing/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/migration/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/migration/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/minimum-data-set/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/minimum-data-set/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/ministry-of-health/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/ministry-of-health/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/mobile-care-services-discovery/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/mobile-care-services-discovery/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/mobility-flow/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/mobility-flow/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/monitoring-and-evaluation/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/monitoring-and-evaluation/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/national-health-workforce-accounts/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/national-health-workforce-accounts/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/occupation/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/occupation/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/open-health-information-exchange/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/open-health-information-exchange/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/organisation-for-economic-co-operation-and-development/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/organisation-for-economic-co-operation-and-development/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/place-of-training/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/place-of-training/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/pre-service-education/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/pre-service-education/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/professional-council/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/professional-council/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/qualification/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/qualification/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/recruitment/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/recruitment/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/registered-nurse/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/registered-nurse/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/registration/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/registration/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/regulation/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/regulation/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/retention/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/retention/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/scope-of-practice/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/scope-of-practice/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/service-oriented-architecture/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/service-oriented-architecture/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/simple-knowledge-organization-system/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/simple-knowledge-organization-system/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/single-sign-on/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/single-sign-on/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/smart-guidelines/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/smart-guidelines/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/stewardship/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/stewardship/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/stock/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/stock/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/supply/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/supply/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/technical-working-group/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/technical-working-group/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/training-institution-information-system/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/training-institution-information-system/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/unesco/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/unesco/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/united-nations/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/united-nations/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/world-health-organization/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/world-health-organization/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/zimbabwe-human-resources-information-system/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/dth-hrh/zimbabwe-human-resources-information-system/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/accreditation--who-hpr-2024/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/accreditation--who-hpr-2024/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/active-health-worker--who-nhwa-2023/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/active-health-worker--who-nhwa-2023/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/activity-level--who-nhwa-2023/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/activity-level--who-nhwa-2023/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/attrition--who-hlma-2021/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/attrition--who-hlma-2021/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/certification--who-hlma-2021/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/certification--who-hlma-2021/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/community-health-workers--who-nhwa-2023/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/community-health-workers--who-nhwa-2023/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/competence--who-hpr-2024/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/competence--who-hpr-2024/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/competencies--who-hlma-2021/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/competencies--who-hlma-2021/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/continuing-professional-development--who-hlma-2021/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/continuing-professional-development--who-hlma-2021/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/continuing-professional-development--who-nhwa-2023/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/continuing-professional-development--who-nhwa-2023/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/contract-type--who-nhwa-2023/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/contract-type--who-nhwa-2023/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/deployment--who-hlma-2021/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/deployment--who-hlma-2021/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/distribution--who-hlma-2021/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/distribution--who-hlma-2021/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/dual-practice--who-hlma-2021/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/dual-practice--who-hlma-2021/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/dual-practice--who-hpr-2024/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/dual-practice--who-hpr-2024/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/dual-practice--who-nhwa-2023/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/dual-practice--who-nhwa-2023/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/education--who-hlma-2021/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/education--who-hlma-2021/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/education-and-training-institution--who-nhwa-2023/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/education-and-training-institution--who-nhwa-2023/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/educational-institution--who-hlma-2021/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/educational-institution--who-hlma-2021/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/employment-status-full-time-part-time-temporary-permanent--who-hlma-2021/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/employment-status-full-time-part-time-temporary-permanent--who-hlma-2021/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/health-labour-market--who-afro-hwf-charter/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/health-labour-market--who-afro-hwf-charter/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/health-practitioner--who-hpr-2024/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/health-practitioner--who-hpr-2024/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/health-professional--who-hpr-2024/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/health-professional--who-hpr-2024/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/health-professions-education-accreditation-agency--who-gdhcn-framework-2026/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/health-professions-education-accreditation-agency--who-gdhcn-framework-2026/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/health-services-licensing-agency--who-gdhcn-framework-2026/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/health-services-licensing-agency--who-gdhcn-framework-2026/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/health-workers--who-wpro-hwf-framework-2024/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/health-workers--who-wpro-hwf-framework-2024/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/health-workforce--who-afro-hwf-charter/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/health-workforce--who-afro-hwf-charter/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/health-workforce-observatory--openhie-hwr-ig-2016/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/health-workforce-observatory--openhie-hwr-ig-2016/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/health-workforce-observatory--who-afro-workforce2030-2020/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/health-workforce-observatory--who-afro-workforce2030-2020/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/health-workforce-observatory--who-hrh-observatories-2012/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/health-workforce-observatory--who-hrh-observatories-2012/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/health-workforce-observatory--who-hwf-data-handbook-2022/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/health-workforce-observatory--who-hwf-data-handbook-2022/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/health-workforce-planning--who-hlma-2021/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/health-workforce-planning--who-hlma-2021/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/health-workforce-planning--who-nhwa-2023/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/health-workforce-planning--who-nhwa-2023/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/health-workforce-registry--chibuzor-hwfis-review/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/health-workforce-registry--chibuzor-hwfis-review/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/health-workforce-registry--dhe-planning-deck/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/health-workforce-registry--dhe-planning-deck/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/health-workforce-registry--intrahealth-2015/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/health-workforce-registry--intrahealth-2015/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/health-workforce-registry--intrahealth-hwis-2013/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/health-workforce-registry--intrahealth-hwis-2013/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/health-workforce-registry--joachim-hwf-forecasting/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/health-workforce-registry--joachim-hwf-forecasting/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/health-workforce-registry--openhie-hwr-ig-2016/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/health-workforce-registry--openhie-hwr-ig-2016/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/health-workforce-registry--who-hpr-2024/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/health-workforce-registry--who-hpr-2024/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/health-workforce-registry--who-hrhis-mds-2015/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/health-workforce-registry--who-hrhis-mds-2015/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/health-workforce-registry--who-hwf-data-handbook-2022/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/health-workforce-registry--who-hwf-data-handbook-2022/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/health-workforce-registry--who-itu-dpi-h-ra-draft-2026-2/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/health-workforce-registry--who-itu-dpi-h-ra-draft-2026-2/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/health-workforce-registry--who-itu-dpi-h-ra-draft-2026/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/health-workforce-registry--who-itu-dpi-h-ra-draft-2026/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/health-workforce-registry--who-mds-crosswalk/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/health-workforce-registry--who-mds-crosswalk/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/human-resources-for-health-information-system--chibuzor-hwfis-review/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/human-resources-for-health-information-system--chibuzor-hwfis-review/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/human-resources-for-health-information-system--eurohealth-2022/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/human-resources-for-health-information-system--eurohealth-2022/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/human-resources-for-health-information-system--intrahealth-hwis-2013/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/human-resources-for-health-information-system--intrahealth-hwis-2013/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/human-resources-for-health-information-system--ishijima-hrhis-tanzania/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/human-resources-for-health-information-system--ishijima-hrhis-tanzania/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/human-resources-for-health-information-system--measure-evaluation-m3-2018/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/human-resources-for-health-information-system--measure-evaluation-m3-2018/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/human-resources-for-health-information-system--riley-hrhis-review-2012/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/human-resources-for-health-information-system--riley-hrhis-review-2012/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/human-resources-for-health-information-system--waters-zhris/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/human-resources-for-health-information-system--waters-zhris/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/human-resources-for-health-information-system--were-south-south-hris/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/human-resources-for-health-information-system--were-south-south-hris/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/human-resources-for-health-information-system--who-hlma-2021-2/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/human-resources-for-health-information-system--who-hlma-2021-2/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/human-resources-for-health-information-system--who-hlma-2021/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/human-resources-for-health-information-system--who-hlma-2021/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/human-resources-for-health-information-system--who-hwf-data-handbook-2022/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/human-resources-for-health-information-system--who-hwf-data-handbook-2022/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/human-resources-for-health-information-system--wikipedia-hrhis/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/human-resources-for-health-information-system--wikipedia-hrhis/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/human-resources-management--who-hlma-2021/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/human-resources-management--who-hlma-2021/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/in-service-training--who-hlma-2021/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/in-service-training--who-hlma-2021/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/in-service-training--who-nhwa-2023/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/in-service-training--who-nhwa-2023/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/international-standard-classification-of-occupations--who-hlma-2021/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/international-standard-classification-of-occupations--who-hlma-2021/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/labour-force-survey--who-hlma-2021/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/labour-force-survey--who-hlma-2021/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/licensing--who-hlma-2021/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/licensing--who-hlma-2021/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/licensing--who-wpro-hwf-framework-2024/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/licensing--who-wpro-hwf-framework-2024/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/migration--who-hlma-2021/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/migration--who-hlma-2021/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/mobility-flow--who-hlma-2021/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/mobility-flow--who-hlma-2021/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/national-health-workforce-accounts--who-nhwa-2023/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/national-health-workforce-accounts--who-nhwa-2023/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/occupation--who-hpr-2024/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/occupation--who-hpr-2024/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/occupation--who-nhwa-2023/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/occupation--who-nhwa-2023/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/place-of-training--who-nhwa-2023/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/place-of-training--who-nhwa-2023/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/pre-service-education--who-nhwa-2023/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/pre-service-education--who-nhwa-2023/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/professional-council--openhie-hwr-ig-2016/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/professional-council--openhie-hwr-ig-2016/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/professional-council--who-hlma-2021/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/professional-council--who-hlma-2021/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/qualification--who-hpr-2024/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/qualification--who-hpr-2024/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/recruitment--who-hlma-2021/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/recruitment--who-hlma-2021/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/registration--who-hlma-2021/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/registration--who-hlma-2021/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/registration--who-hpr-2024/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/registration--who-hpr-2024/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/regulation--who-hlma-2021/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/regulation--who-hlma-2021/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/regulation--who-hpr-2024/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/regulation--who-hpr-2024/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/regulation--who-rural-retention-2021/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/regulation--who-rural-retention-2021/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/regulation--who-wpro-hwf-framework-2024/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/regulation--who-wpro-hwf-framework-2024/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/retention--who-hlma-2021/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/retention--who-hlma-2021/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/scope-of-practice--who-hlma-2021/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/scope-of-practice--who-hlma-2021/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/scope-of-practice--who-rural-retention-2021/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/scope-of-practice--who-rural-retention-2021/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/stewardship--who-wpro-hwf-framework-2024/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/stewardship--who-wpro-hwf-framework-2024/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/stock--who-hlma-2021/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/stock--who-hlma-2021/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/supply--who-hlma-2021/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-candidates/supply--who-hlma-2021/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/australia-medical-board-of-australia/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/australia-medical-board-of-australia/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/australia-nursing-and-midwifery-board-of-australia/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/australia-nursing-and-midwifery-board-of-australia/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/brazil-federal-council-of-medicine/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/brazil-federal-council-of-medicine/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/brazil-federal-council-of-nursing/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/brazil-federal-council-of-nursing/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/canada-college-of-nurses-of-ontario/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/canada-college-of-nurses-of-ontario/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/canada-college-of-physicians-and-surgeons-of-ontario/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/canada-college-of-physicians-and-surgeons-of-ontario/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/chile-superintendence-of-health/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/chile-superintendence-of-health/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/egypt-egyptian-medical-syndicate/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/egypt-egyptian-medical-syndicate/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/egypt-nursing-professions-syndicate/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/egypt-nursing-professions-syndicate/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/ghana-medical-and-dental-council-ghana/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/ghana-medical-and-dental-council-ghana/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/ghana-nursing-and-midwifery-council-of-ghana/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/ghana-nursing-and-midwifery-council-of-ghana/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/india-indian-nursing-council/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/india-indian-nursing-council/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/india-national-medical-commission/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/india-national-medical-commission/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/ireland-medical-council-of-ireland/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/ireland-medical-council-of-ireland/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/ireland-nursing-and-midwifery-board-of-ireland/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/ireland-nursing-and-midwifery-board-of-ireland/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/jordan-jordan-medical-council/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/jordan-jordan-medical-council/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/jordan-jordanian-nursing-council/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/jordan-jordanian-nursing-council/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/kenya-kenya-medical-practitioners-and-dentists-council/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/kenya-kenya-medical-practitioners-and-dentists-council/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/kenya-nursing-council-of-kenya/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/kenya-nursing-council-of-kenya/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/lebanon-lebanese-order-of-physicians/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/lebanon-lebanese-order-of-physicians/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/lebanon-order-of-nurses-in-lebanon/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/lebanon-order-of-nurses-in-lebanon/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/malaysia-malaysian-medical-council/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/malaysia-malaysian-medical-council/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/malaysia-nursing-board-malaysia/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/malaysia-nursing-board-malaysia/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/new-zealand-medical-council-of-new-zealand/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/new-zealand-medical-council-of-new-zealand/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/new-zealand-nursing-council-of-new-zealand/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/new-zealand-nursing-council-of-new-zealand/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/nigeria-medical-and-dental-council-of-nigeria/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/nigeria-medical-and-dental-council-of-nigeria/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/nigeria-nursing-and-midwifery-council-of-nigeria/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/nigeria-nursing-and-midwifery-council-of-nigeria/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/pakistan-pakistan-medical-and-dental-council/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/pakistan-pakistan-medical-and-dental-council/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/pakistan-pakistan-nursing-council-pakistan-nursing-and-midwifery-council/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/pakistan-pakistan-nursing-council-pakistan-nursing-and-midwifery-council/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/qatar-department-of-healthcare-professions-ministry-of-public-health/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/qatar-department-of-healthcare-professions-ministry-of-public-health/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/saudi-arabia-saudi-commission-for-health-specialties/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/saudi-arabia-saudi-commission-for-health-specialties/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/singapore-singapore-medical-council/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/singapore-singapore-medical-council/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/singapore-singapore-nursing-board/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/singapore-singapore-nursing-board/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/south-africa-health-professions-council-of-south-africa/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/south-africa-health-professions-council-of-south-africa/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/south-africa-south-african-nursing-council/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/south-africa-south-african-nursing-council/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/united-arab-emirates-dubai-health-authority/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/united-arab-emirates-dubai-health-authority/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/united-kingdom-general-medical-council/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/united-kingdom-general-medical-council/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/united-kingdom-health-and-care-professions-council/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/united-kingdom-health-and-care-professions-council/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/united-kingdom-nursing-and-midwifery-council/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/united-kingdom-nursing-and-midwifery-council/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/united-states-federation-of-state-medical-boards/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/united-states-federation-of-state-medical-boards/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/united-states-national-council-of-state-boards-of-nursing/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/instance/dth-hrh/twg-professional-council-examples/united-states-national-council-of-state-boards-of-nursing/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/schema-fields/a-c/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/schema-fields/a-c/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/schema-fields/d-e/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/schema-fields/d-e/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/schema-fields/f-l/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/schema-fields/f-l/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/schema-fields/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/schema-fields/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/schema-fields/m-o/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/schema-fields/m-o/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/schema-fields/p-r/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/schema-fields/p-r/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/schema-fields/s/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/schema-fields/s/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/schema-fields/t-z/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/schema-fields/t-z/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/skills/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/skills/"
+  },
+  {
+   "page": "en/folio-assistant-core/glossary/tools/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/glossary/tools/"
+  },
+  {
+   "page": "en/folio-assistant-core/library/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/library/"
+  },
+  {
+   "page": "en/folio-assistant-core/library/twg-outline-2026-10-02/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/en/folio-assistant-core/library/twg-outline-2026-10-02/"
+  },
+  {
+   "page": "es/folio-assistant-core/glossary/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/es/folio-assistant-core/glossary/"
+  },
+  {
+   "page": "fr/folio-assistant-core/glossary/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/fr/folio-assistant-core/glossary/"
+  },
+  {
+   "page": "index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/"
+  },
+  {
+   "page": "ru/folio-assistant-core/glossary/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/ru/folio-assistant-core/glossary/"
+  },
+  {
+   "page": "zh/folio-assistant-core/glossary/index.html",
+   "href": "https://worldhealthorganization.github.io/dth-hrh/branches/claude-repin-current-mains-2026-11-15/zh/folio-assistant-core/glossary/"
+  }
+ ],
+ "content": [],
+ "diagrams": 20,
+ "inDiagrams": []
+}

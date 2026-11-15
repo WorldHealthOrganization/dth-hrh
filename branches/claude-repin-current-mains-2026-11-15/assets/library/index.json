@@ -1,0 +1,125 @@
+{
+  "$schema": "folio-library-index/v1",
+  "tile": {
+    "uploads": {
+      "count": 0,
+      "unit": "waiting"
+    }
+  },
+  "entries": [
+    {
+      "id": "twg-glossary-2026-09-29",
+      "instance": "dth-hrh",
+      "dir": "library/twg-glossary-2026-09-29",
+      "title": "twg-glossary-2026-09-29",
+      "provenance": "ingested",
+      "rung": "tabular",
+      "docId": "",
+      "sourceFile": "",
+      "sourceSha256": "",
+      "arxiv": "",
+      "doi": "",
+      "documentClass": "",
+      "sections": 0,
+      "blocks": 6,
+      "images": 0,
+      "figures": 0,
+      "ocrPages": 0,
+      "hasOcr": false,
+      "hasManifest": true,
+      "hasStructure": false,
+      "hasImagesJson": false,
+      "pageStart": null,
+      "pageEnd": null,
+      "words": 0,
+      "chars": 0,
+      "bytes": 68610,
+      "upload": "unknown",
+      "uploadInstance": "",
+      "referencedBy": [],
+      "summaries": {
+        "prose": 0,
+        "summarised": 0,
+        "backlog": 0,
+        "draft": 0,
+        "confirmed": 0,
+        "stale": 0,
+        "rejected": 0,
+        "notSummarised": 0,
+        "unreadable": 0,
+        "empty": 0
+      },
+      "view": "/en/cat-harness/library/dth-hrh/twg-glossary-2026-09-29/"
+    },
+    {
+      "id": "twg-outline-2026-10-02",
+      "instance": "dth-hrh",
+      "dir": "library/twg-outline-2026-10-02",
+      "title": "Digital Transformation Handbook for Health Workforce Registries and Planning: manuscript outline (TWG, 2 October 2026)",
+      "provenance": "ingested",
+      "rung": "paged",
+      "docId": "twg-outline-2026-10-02",
+      "sourceFile": "HWF_Registry_DTH_Outline.md",
+      "sourceSha256": "be3708f656a4abfdfe025d3cb0775ba197dd8147619c1196aed60f7e77447855",
+      "arxiv": "",
+      "doi": "",
+      "documentClass": "",
+      "sections": 112,
+      "blocks": 112,
+      "images": 0,
+      "figures": 0,
+      "ocrPages": 0,
+      "hasOcr": false,
+      "hasManifest": true,
+      "hasStructure": true,
+      "hasImagesJson": true,
+      "pageStart": null,
+      "pageEnd": null,
+      "words": 8690,
+      "chars": 60474,
+      "bytes": 371533,
+      "upload": "absent",
+      "uploadInstance": "",
+      "referencedBy": [],
+      "summaries": {
+        "prose": 112,
+        "summarised": 0,
+        "backlog": 112,
+        "draft": 0,
+        "confirmed": 0,
+        "stale": 0,
+        "rejected": 0,
+        "notSummarised": 112,
+        "unreadable": 0,
+        "empty": 0
+      },
+      "view": "/en/cat-harness/library/dth-hrh/twg-outline-2026-10-02/"
+    }
+  ],
+  "uploads": [
+    {
+      "file": "README.md",
+      "kind": "file",
+      "instance": "dth-hrh",
+      "path": "uploads/README.md",
+      "bytes": 370,
+      "ext": "md",
+      "ingestedBy": "isaitb-2026-interoperability-test-bed-readme",
+      "docId": "",
+      "title": "",
+      "declaredFiles": 0
+    }
+  ],
+  "queues": [
+    {
+      "instance": "dth-hrh",
+      "dir": "uploads",
+      "total": 1,
+      "ingested": 1,
+      "uningested": 0
+    }
+  ],
+  "refScan": {
+    "unreadable": []
+  }
+}
