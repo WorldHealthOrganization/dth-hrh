@@ -12,7 +12,7 @@ export default chapter({
       blocks: ["p-title-page"],
     }),
     section({
-      title: "About this draft",
+      title: "How this draft is organized",
       label: "sec:about-lead",
       blocks: ["p-about"],
     }),
