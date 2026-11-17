@@ -140,7 +140,7 @@
       "source": {
         "remote": {
           "repository": "litlfred/folio-assistant-core",
-          "ref": "ff45c94570075215bb128d386ef00feacf0bbd61",
+          "ref": "08a4c3ea648a5731135850bf9844638985791267",
           "overrides": {
             "folio-assistant-core": {
               "whole": true
@@ -156,8 +156,8 @@
             "consent": {
               "by": "litlfred",
               "on": "2026-11-17",
-              "ref": "ff45c94570075215bb128d386ef00feacf0bbd61",
-              "evidence": "litlfred, 2026-11-17 ~07:35Z, in session session_01EucfRpmczM1DSHksvnh9gN (card 'Re-pin', option 2: 'I re-pin by hand'): re-pin every layer to main by hand under the standing consent given 2026-11-12 (follow main, green commits only; Q-BIBNAV-2 'B'), so cat-harness-tools reaches 777d5c7 (#2380, #2388) for dth-hrh#148's approval record."
+              "ref": "08a4c3ea648a5731135850bf9844638985791267",
+              "evidence": "litlfred, 2026-11-17 ~13:00Z, in session session_01EucfRq7FgseH3657BZi3Gi (card 'Re-pin', option 1: 'I consent'): re-pin cat-harness-tools and folio-assistant-core to current main under the standing consent given 2026-11-12 (follow main, green commits only; Q-BIBNAV-2 'B'), as dispatched by the merge-manager session."
             },
             "standing": {
               "follows": "main",
@@ -210,7 +210,7 @@
       "source": {
         "remote": {
           "repository": "litlfred/cat-harness-tools",
-          "ref": "777d5c7f4acf6a590f576c4475234d0adfb53779",
+          "ref": "444217bee6467af55021360cfa7b6eb0a05a55a1",
           "overrides": {
             "cat-harness-tools": {
               "whole": true
@@ -223,8 +223,8 @@
             "consent": {
               "by": "litlfred",
               "on": "2026-11-17",
-              "ref": "777d5c7f4acf6a590f576c4475234d0adfb53779",
-              "evidence": "litlfred, 2026-11-17 ~07:35Z, in session session_01EucfRpmczM1DSHksvnh9gN (card 'Re-pin', option 2: 'I re-pin by hand'): re-pin every layer to main by hand under the standing consent given 2026-11-12 (follow main, green commits only; Q-BIBNAV-2 'B'), so cat-harness-tools reaches 777d5c7 (#2380, #2388) for dth-hrh#148's approval record."
+              "ref": "444217bee6467af55021360cfa7b6eb0a05a55a1",
+              "evidence": "litlfred, 2026-11-17 ~13:00Z, in session session_01EucfRq7FgseH3657BZi3Gi (card 'Re-pin', option 1: 'I consent'): re-pin cat-harness-tools and folio-assistant-core to current main under the standing consent given 2026-11-12 (follow main, green commits only; Q-BIBNAV-2 'B'), as dispatched by the merge-manager session."
             },
             "standing": {
               "follows": "main",
