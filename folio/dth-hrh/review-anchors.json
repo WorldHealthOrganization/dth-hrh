@@ -171,8 +171,13 @@
  ],
  "sections": [
   {
+   "label": "sec:about-title-page",
+   "title": "Title page",
+   "chapter": "about-this-draft"
+  },
+  {
    "label": "sec:about-lead",
-   "title": "About this draft",
+   "title": "How this draft is organized",
    "chapter": "about-this-draft"
   },
   {
@@ -972,6 +977,18 @@
   }
  ],
  "blocks": [
+  {
+   "label": "prose:title-page",
+   "kind": "prose",
+   "chapter": "about-this-draft",
+   "root": "p-title-page",
+   "sections": [
+    "sec:about-title-page"
+   ],
+   "hash": "d21f36740dcf",
+   "excerpt": "Digital Transformation Handbook: Planning for Human Resources for Health and Health Worker Registries World Health Organization Working draft (TWG outline stage",
+   "method": "folio-snapshot"
+  },
   {
    "label": "prose:about-this-draft",
    "kind": "prose",

@@ -6,9 +6,14 @@ export default chapter({
   label: "chap:about-this-draft",
   sections: [
     section({
-      title: "About this draft",
-      label: "sec:about-lead",
+      title: "Title page",
+      label: "sec:about-title-page",
       lead: true,
+      blocks: ["p-title-page"],
+    }),
+    section({
+      title: "How this draft is organized",
+      label: "sec:about-lead",
       blocks: ["p-about"],
     }),
     section({
