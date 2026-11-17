@@ -2,11 +2,11 @@
 # dth-hrh-6xaq
 $schema: bean/1.0.0
 title: 'Plain text title page for the dth-hrh draft (prose:title-page, #148)'
-status: in-progress
+status: completed
 type: task
 priority: normal
 created_at: 2026-11-17T07:39:57Z
-updated_at: 2026-11-17T07:40:00Z
+updated_at: 2026-11-17T16:40:30Z
 ---
 
 Owner card 2026-11-17 (covers for the dth-* folios, option B): a plain text title page as the first section of About this draft. PR WorldHealthOrganization/dth-hrh#148, issue #147. Approval recorded through editing-hci-validation instance editing--prose-title-page.
@@ -19,3 +19,5 @@ Owner card 2026-11-17 (covers for the dth-* folios, option B): a plain text titl
 ## Revised (2026-11-17)
 
 - The editor chose option 1: the date now reads "14 October 2026" (383235b on claude/dth-hrh-title-page). On re-validation every check passes, and the QA verdict has 0 failures.
+
+_2026-11-17T16:40:26Z_ — Merged as e73fa19d (WorldHealthOrganization/dth-hrh#148, squash, 2026-11-17). Workflow editing--prose-title-page: Task_Commit and Close_Outcome (done) completed.
