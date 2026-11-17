@@ -4,7 +4,7 @@
                   xmlns:dc="http://www.omg.org/spec/DD/20100524/DC"
                   xmlns:di="http://www.omg.org/spec/DD/20100524/DI"
                   id="Definitions_HRH_BP_01"
-                  targetNamespace="https://litlfred.github.io/dth-hrh/bpmn">
+                  targetNamespace="https://worldhealthorganization.github.io/dth-hrh/bpmn">
 
   <bpmn:resource id="pers:training-institution-registrar" name="Training institution registrar"/>
   <bpmn:resource id="pers:registration-officer" name="Registration officer (regulatory body)"/>

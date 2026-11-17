@@ -1,6 +1,6 @@
 {
   "@context": [
-    "https://litlfred.github.io/dth-hrh/ns/context/v1.jsonld",
+    "https://worldhealthorganization.github.io/dth-hrh/ns/context/v1.jsonld",
     {
       "@base": "https://litlfred.github.io/folio/",
       "smart-base": "https://litlfred.github.io/smart-base/v0/ns/"
@@ -66,12 +66,12 @@
       ]
     },
     "glossaryTerms": [
-      "https://litlfred.github.io/dth-hrh/v0/ns#glossary/dth-hrh/health-workforce-planning",
-      "https://litlfred.github.io/dth-hrh/v0/ns#glossary/dth-hrh/national-health-workforce-accounts",
-      "https://litlfred.github.io/dth-hrh/v0/ns#glossary/dth-hrh/international-standard-classification-of-occupations",
-      "https://litlfred.github.io/dth-hrh/v0/ns#glossary/dth-hrh/distribution",
-      "https://litlfred.github.io/dth-hrh/v0/ns#glossary/dth-hrh/stock",
-      "https://litlfred.github.io/dth-hrh/v0/ns#glossary/dth-hrh/attrition"
+      "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/dth-hrh/health-workforce-planning",
+      "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/dth-hrh/national-health-workforce-accounts",
+      "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/dth-hrh/international-standard-classification-of-occupations",
+      "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/dth-hrh/distribution",
+      "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/dth-hrh/stock",
+      "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/dth-hrh/attrition"
     ],
     "relatedBlocks": [
       "scen:workforce-counts-and-nhwa-reporting",

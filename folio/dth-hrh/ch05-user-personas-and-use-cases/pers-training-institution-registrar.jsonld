@@ -1,6 +1,6 @@
 {
   "@context": [
-    "https://litlfred.github.io/dth-hrh/ns/context/v1.jsonld",
+    "https://worldhealthorganization.github.io/dth-hrh/ns/context/v1.jsonld",
     {
       "@base": "https://litlfred.github.io/folio/",
       "smart-base": "https://litlfred.github.io/smart-base/v0/ns/"
@@ -55,8 +55,8 @@
       ]
     },
     "glossaryTerms": [
-      "https://litlfred.github.io/dth-hrh/v0/ns#glossary/dth-hrh/education-and-training-institution",
-      "https://litlfred.github.io/dth-hrh/v0/ns#glossary/dth-hrh/pre-service-education"
+      "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/dth-hrh/education-and-training-institution",
+      "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/dth-hrh/pre-service-education"
     ],
     "relatedBlocks": [
       "bp:hrh-bp-01-lifecycle-maintenance",

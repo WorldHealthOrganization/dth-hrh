@@ -3,7 +3,7 @@
   "name": "dth-hrh",
   "title": "Digital Transformation Handbook: Planning for Human Resources for Health and Health Worker Registries",
   "version": "0.1.0",
-  "iriBase": "https://litlfred.github.io/dth-hrh/",
+  "iriBase": "https://worldhealthorganization.github.io/dth-hrh/",
   "directories": [
     {
       "id": "folio",
@@ -176,7 +176,7 @@
   "remoteGraphs": [
     {
       "id": "hrhis-registry-2015-glossary",
-      "url": "https://litlfred.github.io/who-iris/v0/ns/glossary/hrhis-registry-2015/",
+      "url": "https://worldhealthorganization.github.io/who-iris/v0/ns/glossary/hrhis-registry-2015/",
       "graphTypologies": [
         "glossary"
       ],

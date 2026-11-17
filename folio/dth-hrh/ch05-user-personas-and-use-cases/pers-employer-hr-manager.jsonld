@@ -1,6 +1,6 @@
 {
   "@context": [
-    "https://litlfred.github.io/dth-hrh/ns/context/v1.jsonld",
+    "https://worldhealthorganization.github.io/dth-hrh/ns/context/v1.jsonld",
     {
       "@base": "https://litlfred.github.io/folio/",
       "smart-base": "https://litlfred.github.io/smart-base/v0/ns/"
@@ -61,8 +61,8 @@
       ]
     },
     "glossaryTerms": [
-      "https://litlfred.github.io/dth-hrh/v0/ns#glossary/dth-hrh/human-resources-management",
-      "https://litlfred.github.io/dth-hrh/v0/ns#glossary/dth-hrh/recruitment"
+      "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/dth-hrh/human-resources-management",
+      "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/dth-hrh/recruitment"
     ],
     "relatedBlocks": [
       "bp:hrh-bp-01-lifecycle-maintenance",

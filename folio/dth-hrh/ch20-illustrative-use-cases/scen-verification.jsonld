@@ -1,6 +1,6 @@
 {
   "@context": [
-    "https://litlfred.github.io/dth-hrh/ns/context/v1.jsonld",
+    "https://worldhealthorganization.github.io/dth-hrh/ns/context/v1.jsonld",
     {
       "@base": "https://litlfred.github.io/folio/",
       "smart-base": "https://litlfred.github.io/smart-base/v0/ns/"

@@ -12,8 +12,8 @@ harness and set up like [smart-ra](https://github.com/litlfred/smart-ra).
 **Stage:** working draft, seeded from the TWG manuscript outline (2 October 2026)
 and the TWG glossary workbook (29 September 2026).
 
-- **Read the working document:** https://litlfred.github.io/dth-hrh/en/dth-hrh/ (once published)
-- **Working-group comments dashboard:** https://litlfred.github.io/dth-hrh/en/folio-assistant-core/public-comments/folio/dth-hrh/ (once published)
+- **Read the working document:** https://worldhealthorganization.github.io/dth-hrh/en/dth-hrh/ (once published)
+- **Working-group comments dashboard:** https://worldhealthorganization.github.io/dth-hrh/en/folio-assistant-core/public-comments/folio/dth-hrh/ (once published)
 - **Glossary** (machine-readable SKOS): [`glossary/`](glossary/); in the document as Annex 9
 
 ## Working-group review
@@ -42,7 +42,7 @@ counts, add `committee` or `editors` login lists to
 
 **Changes** are made on feature branches. Each answers one or more comments
 grouped as a change set, and each branch gets a preview at
-`https://litlfred.github.io/dth-hrh/STAGING/<branch>/`.
+`https://worldhealthorganization.github.io/dth-hrh/STAGING/<branch>/`.
 
 **Glossary terms** are reviewed the same way: each term in Annex 9 lists its
 candidate definitions with sources. Comment on the term to prefer one, or to

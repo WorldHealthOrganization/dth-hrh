@@ -2,7 +2,7 @@
 <definitions xmlns="https://www.omg.org/spec/DMN/20191111/MODEL/"
              id="Definitions_HRH_DT_02"
              name="HRH-DT-02 Lifecycle status transition and licence standing"
-             namespace="https://litlfred.github.io/dth-hrh/dmn/hrh-dt-02">
+             namespace="https://worldhealthorganization.github.io/dth-hrh/dmn/hrh-dt-02">
 
   <decision id="Decision_HRH_DT_02" name="Health worker lifecycle and licence status transition">
     <description>Determines the resulting registration/licence status and record retention action when a lifecycle event occurs. Source passages: prose:ch07-lifecycle-management (Section 7.3), freq:FR-LC-01 (Record lifecycle events: registration, licence renewal, employment change, suspension, retirement), freq:FR-LC-02 (Preserve historical states and never overwrite prior records), scen:renew-licence (Section 5.2). Threshold provenance: qualitative states only from source text; renewal period lengths and CPD credit thresholds are country-configured and not hardcoded.</description>

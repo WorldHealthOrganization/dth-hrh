@@ -2,7 +2,7 @@
 <definitions xmlns="https://www.omg.org/spec/DMN/20191111/MODEL/"
              id="Definitions_HRH_DT_01"
              name="HRH-DT-01 Registration eligibility and duplicate check"
-             namespace="https://litlfred.github.io/dth-hrh/dmn/hrh-dt-01">
+             namespace="https://worldhealthorganization.github.io/dth-hrh/dmn/hrh-dt-01">
 
   <decision id="Decision_HRH_DT_01" name="Health worker registration eligibility and identifier assignment">
     <description>Determines whether a registration application creates a new registry record, links to an existing record, holds for manual duplicate or verification review, or is rejected. Source passages: prose:ch07-identity-management (Section 7.1), freq:FR-ID-01 (Unique health worker identifier), freq:FR-ID-02 (Deduplication), freq:FR-REC-01 (Core data elements), freq:FR-REC-02 (Qualifications and licences), scen:register-and-license-new-graduate (Section 5.2). Threshold provenance: qualitative states only from source text; no numeric thresholds are specified in the narrative.</description>
