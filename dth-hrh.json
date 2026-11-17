@@ -167,12 +167,16 @@
   "visualisers": [
     {
       "id": "archimate",
+      "title": "ArchiMate overlay",
       "renderedBy": "archimate-pages",
       "covers": [
         "archimate"
+      ],
+      "writer": [
+        "cat-harness-tools/archimate/scripts/gen-archimate-pages.ts"
       ]
-      }
-    ],
+    }
+  ],
   "remoteGraphs": [
     {
       "id": "hrhis-registry-2015-glossary",
