@@ -1,0 +1,13 @@
+{
+  "$schema": "folio-log/v1",
+  "id": "2026-11-17T16-40-46-340Z-6lc1l0",
+  "at": "2026-11-17T16:40:46.340Z",
+  "event": "task-end",
+  "summary": "completed Close_Archive in Process_Editing",
+  "detail": "instance editing--prose-title-page is now running — bean dth-hrh-6xaq status completed (beans CLI not installed; fallback store has no archive move) — AUTHORIZED (strict) — owner via github [litlfred] as authoring-agent: unconstrained; policy permit",
+  "role": "Agent (this session)",
+  "process": "Process_Editing",
+  "task": "Close_Archive",
+  "session": "editing--prose-title-page",
+  "capture": "on"
+}
