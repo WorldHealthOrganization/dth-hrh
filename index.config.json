@@ -7,7 +7,57 @@
         "local": {
           "at": "."
         }
-      }
+      },
+      "contentType": "document",
+      "adapter": "document",
+      "adapterModule": "./folio-assistant-core/adapters/document/index.ts",
+      "dependencies": {
+        "folioAssistant": [
+          {
+            "name": "folio-assistant-core",
+            "path": "folio-assistant-core"
+          },
+          {
+            "name": "smart-base",
+            "path": "smart-base"
+          }
+        ]
+      },
+      "feedbackDir": ".folio-feedback",
+      "skills": ".claude/skills/local",
+      "viewer": {
+        "dir": "cat-harness-tools/viewer",
+        "port": 8080
+      },
+      "readme": {
+        "linkStyle": "blob",
+        "publishRef": "gh-pages"
+      },
+      "site": {
+        "build": {
+          "sourceSteps": [
+            "site:document",
+            "site:wg-comment",
+            "site:library",
+            "site:review-sheet",
+            "site:glossary",
+            "site:archimate",
+            "site:context"
+          ],
+          "siteSteps": [
+            "site:node-kinds",
+            "site:export"
+          ],
+          "pre": [
+            "check:dth-glossary",
+            "check:review-anchors",
+            "check:kg-blocks",
+            "check:library-kg",
+            "check:page-furniture"
+          ]
+        }
+      },
+      "_site_comment": "`site:context` builds the JSON-LD context the KG nodes name (ns/context/v1.jsonld under iriBase) into the site, so it is published with it (cat-harness-tools#1052); nothing else writes it, so nothing is kept."
     },
     {
       "name": "who-iris",
@@ -58,7 +108,7 @@
       "source": {
         "remote": {
           "repository": "litlfred/smart-base",
-          "ref": "311389598499785d2add24e0db54caed770ffec1",
+          "ref": "6485bbf6c0ef6550796c27cf3dd921230db3c60d",
           "overrides": {
             "smart-base": {
               "path": "smart-base",
@@ -92,8 +142,8 @@
             "consent": {
               "by": "litlfred",
               "on": "2026-11-17",
-              "ref": "311389598499785d2add24e0db54caed770ffec1",
-              "evidence": "litlfred, 2026-11-17 ~07:35Z, in session session_01EucfRpmczM1DSHksvnh9gN (card 'Re-pin', option 2: 'I re-pin by hand'): re-pin every layer to main by hand under the standing consent given 2026-11-12 (follow main, green commits only; Q-BIBNAV-2 'B'), so cat-harness-tools reaches 777d5c7 (#2380, #2388) for dth-hrh#148's approval record."
+              "ref": "6485bbf6c0ef6550796c27cf3dd921230db3c60d",
+              "evidence": "litlfred 2026-11-17 ~18:30Z in session session_01EucfRqYSWYLZDQCayeryd8: 'Do the repinning and then update'; re-pin every layer to its current main so the avatar PR picks up the merged gate fixes (cat-harness-tools#2421, #2415, #2419), as lock:freshness requires"
             },
             "standing": {
               "follows": "main",
@@ -111,7 +161,7 @@
       "source": {
         "remote": {
           "repository": "litlfred/fhir-harness",
-          "ref": "dcaa72c0f2cd4ce02e5a8ee313abd22272180d9f",
+          "ref": "1b9db9fa961d4790c76f6db69e81f7199c10af00",
           "overrides": {
             "fhir-harness": {
               "whole": true
@@ -121,8 +171,8 @@
             "consent": {
               "by": "litlfred",
               "on": "2026-11-17",
-              "ref": "dcaa72c0f2cd4ce02e5a8ee313abd22272180d9f",
-              "evidence": "litlfred, 2026-11-17 ~13:35Z, in session session_01EucfRq7FgseH3657BZi3Gi (card 'Push to WHO', option 1: 'Yes, full plan'): re-pin to current main under the standing consent given 2026-11-12 (follow main, green commits only; Q-BIBNAV-2 'B'); fhir-harness main moved to dcaa72c during the re-pin."
+              "ref": "1b9db9fa961d4790c76f6db69e81f7199c10af00",
+              "evidence": "litlfred 2026-11-17 ~18:30Z in session session_01EucfRqYSWYLZDQCayeryd8: 'Do the repinning and then update'; re-pin every layer to its current main so the avatar PR picks up the merged gate fixes (cat-harness-tools#2421, #2415, #2419), as lock:freshness requires"
             },
             "standing": {
               "follows": "main",
@@ -140,7 +190,7 @@
       "source": {
         "remote": {
           "repository": "litlfred/folio-assistant-core",
-          "ref": "08a4c3ea648a5731135850bf9844638985791267",
+          "ref": "54a22454274f345ea0b4117aa5862f7e071b927e",
           "overrides": {
             "folio-assistant-core": {
               "whole": true
@@ -156,8 +206,8 @@
             "consent": {
               "by": "litlfred",
               "on": "2026-11-17",
-              "ref": "08a4c3ea648a5731135850bf9844638985791267",
-              "evidence": "litlfred, 2026-11-17 ~13:00Z, in session session_01EucfRq7FgseH3657BZi3Gi (card 'Re-pin', option 1: 'I consent'): re-pin cat-harness-tools and folio-assistant-core to current main under the standing consent given 2026-11-12 (follow main, green commits only; Q-BIBNAV-2 'B'), as dispatched by the merge-manager session."
+              "ref": "54a22454274f345ea0b4117aa5862f7e071b927e",
+              "evidence": "litlfred 2026-11-17 ~18:30Z in session session_01EucfRqYSWYLZDQCayeryd8: 'Do the repinning and then update'; re-pin every layer to its current main so the avatar PR picks up the merged gate fixes (cat-harness-tools#2421, #2415, #2419), as lock:freshness requires"
             },
             "standing": {
               "follows": "main",
@@ -175,7 +225,7 @@
       "source": {
         "remote": {
           "repository": "litlfred/cat-harness",
-          "ref": "99f173e2c2fe4aeaab6f0560339a0e9688b27fb1",
+          "ref": "72b0bc13606ea3ca2e1ec0a064a36a04835eb7bb",
           "overrides": {
             "cat-harness": {
               "whole": true
@@ -191,8 +241,8 @@
             "consent": {
               "by": "litlfred",
               "on": "2026-11-17",
-              "ref": "99f173e2c2fe4aeaab6f0560339a0e9688b27fb1",
-              "evidence": "litlfred, 2026-11-17 ~07:35Z, in session session_01EucfRpmczM1DSHksvnh9gN (card 'Re-pin', option 2: 'I re-pin by hand'): re-pin every layer to main by hand under the standing consent given 2026-11-12 (follow main, green commits only; Q-BIBNAV-2 'B'), so cat-harness-tools reaches 777d5c7 (#2380, #2388) for dth-hrh#148's approval record."
+              "ref": "72b0bc13606ea3ca2e1ec0a064a36a04835eb7bb",
+              "evidence": "litlfred 2026-11-17 ~18:30Z in session session_01EucfRqYSWYLZDQCayeryd8: 'Do the repinning and then update'; re-pin every layer to its current main so the avatar PR picks up the merged gate fixes (cat-harness-tools#2421, #2415, #2419), as lock:freshness requires"
             },
             "standing": {
               "follows": "main",
@@ -210,7 +260,7 @@
       "source": {
         "remote": {
           "repository": "litlfred/cat-harness-tools",
-          "ref": "8ef53a35c3b735dda6082dd69280aa1a711ef994",
+          "ref": "e41f9fe092fe3553a3befd5316e45dc14b0ba49f",
           "overrides": {
             "cat-harness-tools": {
               "whole": true
@@ -223,8 +273,8 @@
             "consent": {
               "by": "litlfred",
               "on": "2026-11-17",
-              "ref": "8ef53a35c3b735dda6082dd69280aa1a711ef994",
-              "evidence": "litlfred, 2026-11-17 ~13:35Z, in session session_01EucfRq7FgseH3657BZi3Gi (card 'Push to WHO', option 1: 'Yes, full plan'): re-pin to current main (cat-harness-tools 8ef53a3, fhir-harness 4ad2c77) under the standing consent given 2026-11-12 (follow main, green commits only; Q-BIBNAV-2 'B')."
+              "ref": "e41f9fe092fe3553a3befd5316e45dc14b0ba49f",
+              "evidence": "litlfred 2026-11-17 ~18:30Z in session session_01EucfRqYSWYLZDQCayeryd8: 'Do the repinning and then update'; re-pin every layer to its current main so the avatar PR picks up the merged gate fixes (cat-harness-tools#2421, #2415, #2419), as lock:freshness requires"
             },
             "standing": {
               "follows": "main",
@@ -242,7 +292,7 @@
       "source": {
         "remote": {
           "repository": "litlfred/bootstrap",
-          "ref": "7db8457701ebb9b99284d639128f3c82ad4fc6ea",
+          "ref": "417192bef3ca2b9d6f3481b41c39f1f747cae57f",
           "overrides": {
             "bootstrap": {
               "whole": true
@@ -251,14 +301,9 @@
           "trust": {
             "consent": {
               "by": "litlfred",
-              "on": "2026-11-15",
-              "ref": "7db8457701ebb9b99284d639128f3c82ad4fc6ea",
-              "evidence": "standing consent by litlfred given 2026-11-12: follow `main` (green commits only) — litlfred, 2026-11-12 09:07Z, project thread 'Nest bibliography entries under Bibliography' (Q-BIBNAV-2): 'B' = re-pin now and switch on standing re-pin so platform fixes reach the site by themselves (cat-harness-tools standing-repin.yml).",
-              "standing": {
-                "follows": "main",
-                "consentAt": "2026-11-12",
-                "require": "green"
-              }
+              "on": "2026-11-17",
+              "ref": "417192bef3ca2b9d6f3481b41c39f1f747cae57f",
+              "evidence": "litlfred 2026-11-17 ~18:30Z in session session_01EucfRqYSWYLZDQCayeryd8: 'Do the repinning and then update'; re-pin every layer to its current main so the avatar PR picks up the merged gate fixes (cat-harness-tools#2421, #2415, #2419), as lock:freshness requires"
             },
             "standing": {
               "follows": "main",
@@ -276,7 +321,7 @@
       "source": {
         "remote": {
           "repository": "litlfred/bootstrap-tools",
-          "ref": "174a567db34db10b007a45b13f960f218a6b04f5",
+          "ref": "60e5ffc23b88137c0d9eaef00601da89237df094",
           "overrides": {
             "bootstrap-tools": {
               "whole": true
@@ -288,14 +333,9 @@
           "trust": {
             "consent": {
               "by": "litlfred",
-              "on": "2026-11-15",
-              "ref": "174a567db34db10b007a45b13f960f218a6b04f5",
-              "evidence": "standing consent by litlfred given 2026-11-12: follow `main` (green commits only) — litlfred, 2026-11-12 09:07Z, project thread 'Nest bibliography entries under Bibliography' (Q-BIBNAV-2): 'B' = re-pin now and switch on standing re-pin so platform fixes reach the site by themselves (cat-harness-tools standing-repin.yml).",
-              "standing": {
-                "follows": "main",
-                "consentAt": "2026-11-12",
-                "require": "green"
-              }
+              "on": "2026-11-17",
+              "ref": "60e5ffc23b88137c0d9eaef00601da89237df094",
+              "evidence": "litlfred 2026-11-17 ~18:30Z in session session_01EucfRqYSWYLZDQCayeryd8: 'Do the repinning and then update'; re-pin every layer to its current main so the avatar PR picks up the merged gate fixes (cat-harness-tools#2421, #2415, #2419), as lock:freshness requires"
             },
             "standing": {
               "follows": "main",
