@@ -111,7 +111,7 @@
       "source": {
         "remote": {
           "repository": "litlfred/fhir-harness",
-          "ref": "b36c50cdb9baeb5f2d33bfed4ee320c6845f29e7",
+          "ref": "dcaa72c0f2cd4ce02e5a8ee313abd22272180d9f",
           "overrides": {
             "fhir-harness": {
               "whole": true
@@ -121,8 +121,8 @@
             "consent": {
               "by": "litlfred",
               "on": "2026-11-17",
-              "ref": "b36c50cdb9baeb5f2d33bfed4ee320c6845f29e7",
-              "evidence": "litlfred, 2026-11-17 ~07:35Z, in session session_01EucfRpmczM1DSHksvnh9gN (card 'Re-pin', option 2: 'I re-pin by hand'): re-pin every layer to main by hand under the standing consent given 2026-11-12 (follow main, green commits only; Q-BIBNAV-2 'B'), so cat-harness-tools reaches 777d5c7 (#2380, #2388) for dth-hrh#148's approval record."
+              "ref": "dcaa72c0f2cd4ce02e5a8ee313abd22272180d9f",
+              "evidence": "litlfred, 2026-11-17 ~13:35Z, in session session_01EucfRq7FgseH3657BZi3Gi (card 'Push to WHO', option 1: 'Yes, full plan'): re-pin to current main under the standing consent given 2026-11-12 (follow main, green commits only; Q-BIBNAV-2 'B'); fhir-harness main moved to dcaa72c during the re-pin."
             },
             "standing": {
               "follows": "main",
@@ -210,7 +210,7 @@
       "source": {
         "remote": {
           "repository": "litlfred/cat-harness-tools",
-          "ref": "444217bee6467af55021360cfa7b6eb0a05a55a1",
+          "ref": "8ef53a35c3b735dda6082dd69280aa1a711ef994",
           "overrides": {
             "cat-harness-tools": {
               "whole": true
@@ -223,8 +223,8 @@
             "consent": {
               "by": "litlfred",
               "on": "2026-11-17",
-              "ref": "444217bee6467af55021360cfa7b6eb0a05a55a1",
-              "evidence": "litlfred, 2026-11-17 ~13:00Z, in session session_01EucfRq7FgseH3657BZi3Gi (card 'Re-pin', option 1: 'I consent'): re-pin cat-harness-tools and folio-assistant-core to current main under the standing consent given 2026-11-12 (follow main, green commits only; Q-BIBNAV-2 'B'), as dispatched by the merge-manager session."
+              "ref": "8ef53a35c3b735dda6082dd69280aa1a711ef994",
+              "evidence": "litlfred, 2026-11-17 ~13:35Z, in session session_01EucfRq7FgseH3657BZi3Gi (card 'Push to WHO', option 1: 'Yes, full plan'): re-pin to current main (cat-harness-tools 8ef53a3, fhir-harness 4ad2c77) under the standing consent given 2026-11-12 (follow main, green commits only; Q-BIBNAV-2 'B')."
             },
             "standing": {
               "follows": "main",
