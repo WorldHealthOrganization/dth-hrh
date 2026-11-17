@@ -2,9 +2,9 @@
   "$schema": "folio-search-manifest/v1",
   "source": {
     "path": "assets/js/search-data.json",
-    "sha256": "702cf25615f3789a19f7f8574ccd87004ff867a1a88397e04e6c8a1d974b882d",
+    "sha256": "a0557b1b500e03ad788ab6c9acfea077e9ac1d9b5b23f01e36b6b4b807dfc253",
     "entries": 1114,
-    "bytes": 1030815
+    "bytes": 1030717
   },
   "scopes": [
     {
@@ -26,7 +26,7 @@
       "kind": "instance",
       "path": "assets/js/search/folio-assistant-core.json",
       "entries": 926,
-      "bytes": 868714
+      "bytes": 868616
     },
     {
       "id": "locale-ar",

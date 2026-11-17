@@ -31,8 +31,8 @@
       "files": [
         {
           "path": "dth-hrh/about-this-draft/about-this-draft.ts",
-          "bytes": 1018,
-          "size": "1018 B"
+          "bytes": 1147,
+          "size": "1.1 KB"
         },
         {
           "path": "dth-hrh/about-this-draft/p-about.jsonld",
@@ -48,6 +48,21 @@
           "path": "dth-hrh/about-this-draft/p-about.ts",
           "bytes": 306,
           "size": "306 B"
+        },
+        {
+          "path": "dth-hrh/about-this-draft/p-title-page.jsonld",
+          "bytes": 741,
+          "size": "741 B"
+        },
+        {
+          "path": "dth-hrh/about-this-draft/p-title-page.md",
+          "bytes": 185,
+          "size": "185 B"
+        },
+        {
+          "path": "dth-hrh/about-this-draft/p-title-page.ts",
+          "bytes": 354,
+          "size": "354 B"
         },
         {
           "path": "dth-hrh/about-this-draft/p-twg-questions.jsonld",
@@ -5301,8 +5316,8 @@
         },
         {
           "path": "dth-hrh/review-anchors.json",
-          "bytes": 165945,
-          "size": "162.1 KB"
+          "bytes": 166467,
+          "size": "162.6 KB"
         },
         {
           "path": "schema/builders.ts",
