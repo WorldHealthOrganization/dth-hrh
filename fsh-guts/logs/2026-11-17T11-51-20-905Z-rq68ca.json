@@ -1,0 +1,13 @@
+{
+  "$schema": "folio-log/v1",
+  "id": "2026-11-17T11-51-20-905Z-rq68ca",
+  "at": "2026-11-17T11:51:20.905Z",
+  "event": "task-end",
+  "summary": "completed Gateway_EditorDecision in Process_Editing",
+  "detail": "instance editing--prose-title-page is now running — Revise: date in words. — AUTHORIZED (strict) — owner via github [litlfred] as author: unconstrained; policy permit",
+  "role": "Editor / author (person)",
+  "process": "Process_Editing",
+  "task": "Gateway_EditorDecision",
+  "session": "editing--prose-title-page",
+  "capture": "on"
+}

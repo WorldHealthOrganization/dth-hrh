@@ -1,0 +1,13 @@
+{
+  "$schema": "folio-log/v1",
+  "id": "2026-11-17T07-40-26-041Z-ybs7z1",
+  "at": "2026-11-17T07:40:26.041Z",
+  "event": "task-end",
+  "summary": "completed Task_DraftEdit in Process_Editing",
+  "detail": "instance editing--prose-title-page is now running — Edit drafted by session session_01EucfRpqCnaytCyUpEEGawB on branch claude/dth-hrh-title-page (head 253eeb3): p-title-page.{ts,md,jsonld}, about-this-draft.ts (new lead section sec:about-title-page; sec:about-lead retitled 'How this draft is organized'), review-anchors.json regenerated. — AUTHORIZED (strict) — owner via github [litlfred] as authoring-agent: unconstrained; policy permit",
+  "role": "Authoring agent (system)",
+  "process": "Process_Editing",
+  "task": "Task_DraftEdit",
+  "session": "editing--prose-title-page",
+  "capture": "on"
+}

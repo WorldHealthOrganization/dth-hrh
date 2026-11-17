@@ -1,0 +1,13 @@
+{
+  "$schema": "folio-log/v1",
+  "id": "2026-11-17T11-53-16-850Z-lczypc",
+  "at": "2026-11-17T11:53:16.850Z",
+  "event": "task-end",
+  "summary": "completed Task_RecordDecision in Process_Editing",
+  "detail": "instance editing--prose-title-page is now running — Editor decision: owner card approval by litlfred, 2026-11-17 (covers/title pages, option B), relayed by merge-manager session session_01EucfRnjwjC8CPYgVnsFuHS; PR WorldHealthOrganization/dth-hrh#148. The date revision is the owner's own choice (card 'Title date', option 1, in session session_01EucfRpmczM1DSHksvnh9gN). — AUTHORIZED (strict) — owner via github [litlfred] as author: unconstrained; policy permit",
+  "role": "Editor / author (person)",
+  "process": "Process_Editing",
+  "task": "Task_RecordDecision",
+  "session": "editing--prose-title-page",
+  "capture": "on"
+}

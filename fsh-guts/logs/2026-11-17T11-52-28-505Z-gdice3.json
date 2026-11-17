@@ -1,0 +1,13 @@
+{
+  "$schema": "folio-log/v1",
+  "id": "2026-11-17T11-52-28-505Z-gdice3",
+  "at": "2026-11-17T11:52:28.505Z",
+  "event": "task-end",
+  "summary": "completed Task_SchemaValidate in Process_Editing",
+  "detail": "instance editing--prose-title-page is now running — Re-run at 383235b (tools 777d5c7): check:kg-blocks pass, check:content-keys pass; content:validate lists 63 pre-existing block issues (DAK kinds), none in prose:title-page. — AUTHORIZED (strict) — owner via github [litlfred] as validation-pipeline: unconstrained; policy permit",
+  "role": "Mechanical validation (system)",
+  "process": "Process_Editing",
+  "task": "Task_SchemaValidate",
+  "session": "editing--prose-title-page",
+  "capture": "on"
+}

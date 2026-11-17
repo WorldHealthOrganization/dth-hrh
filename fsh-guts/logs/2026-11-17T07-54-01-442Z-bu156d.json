@@ -1,0 +1,13 @@
+{
+  "$schema": "folio-log/v1",
+  "id": "2026-11-17T07-54-01-442Z-bu156d",
+  "at": "2026-11-17T07:54:01.442Z",
+  "event": "task-end",
+  "summary": "completed Task_ReviewFindings in Process_Editing",
+  "detail": "instance editing--prose-title-page is now running — Editor (owner litlfred) reviewed the findings in session session_01EucfRpmczM1DSHksvnh9gN, 2026-11-17 ~07:55Z, card 'Title date'. — AUTHORIZED (strict) — owner via github [litlfred] as author: unconstrained; policy permit",
+  "role": "Editor / author (person)",
+  "process": "Process_Editing",
+  "task": "Task_ReviewFindings",
+  "session": "editing--prose-title-page",
+  "capture": "on"
+}

@@ -1,0 +1,13 @@
+{
+  "$schema": "folio-log/v1",
+  "id": "2026-11-17T07-54-07-476Z-ujjepc",
+  "at": "2026-11-17T07:54:07.476Z",
+  "event": "task-end",
+  "summary": "completed A_Frame in Process_Editing",
+  "detail": "instance editing--prose-title-page is now running — Decision: how the title-page date reads. Trigger check: the change is a reversible one-line formatting edit on a new block that no other content depends on, so a full options analysis is not triggered. — AUTHORIZED (strict) — owner via github [litlfred] as business-analyst: unconstrained; policy permit",
+  "role": "Business analyst",
+  "process": "Process_Editing",
+  "task": "A_Frame",
+  "session": "editing--prose-title-page",
+  "capture": "on"
+}

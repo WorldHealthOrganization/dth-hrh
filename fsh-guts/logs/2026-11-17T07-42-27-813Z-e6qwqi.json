@@ -1,0 +1,13 @@
+{
+  "$schema": "folio-log/v1",
+  "id": "2026-11-17T07-42-27-813Z-e6qwqi",
+  "at": "2026-11-17T07:42:27.813Z",
+  "event": "task-end",
+  "summary": "completed Task_AgentReview in Process_Editing",
+  "detail": "instance editing--prose-title-page is now running — Agent review (session session_01EucfRpmczM1DSHksvnh9gN): the five lines match folio/dth-hrh/dth-hrh.ts (title verbatim, authors, status, date); block meta cites that file and the owner card. One finding: the date is printed as ISO 2026-10-14, which trips voice-author-notes-pollution P4; a title page conventionally prints the date in words (14 October 2026). Section restructure (lead moved to sec:about-title-page; sec:about-lead retitled 'How this draft is organized', label kept) is consistent and review-anchors is current. — AUTHORIZED (strict) — owner via github [litlfred] as reviewer: unconstrained; policy permit",
+  "role": "Non-mechanical validation (review agent or SME)",
+  "process": "Process_Editing",
+  "task": "Task_AgentReview",
+  "session": "editing--prose-title-page",
+  "capture": "on"
+}

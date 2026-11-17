@@ -1,0 +1,13 @@
+{
+  "$schema": "folio-log/v1",
+  "id": "2026-11-17T11-51-56-641Z-33iea7",
+  "at": "2026-11-17T11:51:56.641Z",
+  "event": "task-end",
+  "summary": "completed Task_ReviseEdit in Process_Editing",
+  "detail": "instance editing--prose-title-page is now running — Revised on claude/dth-hrh-title-page at 383235b (after merging main e346c5c/f8864ba): p-title-page.md line 7 now '14 October 2026'; review-anchors regenerated. — AUTHORIZED (strict) — owner via github [litlfred] as authoring-agent: unconstrained; policy permit",
+  "role": "Authoring agent (system)",
+  "process": "Process_Editing",
+  "task": "Task_ReviseEdit",
+  "session": "editing--prose-title-page",
+  "capture": "on"
+}

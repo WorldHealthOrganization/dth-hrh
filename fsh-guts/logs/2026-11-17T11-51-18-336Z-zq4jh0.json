@@ -1,0 +1,13 @@
+{
+  "$schema": "folio-log/v1",
+  "id": "2026-11-17T11-51-18-336Z-zq4jh0",
+  "at": "2026-11-17T11:51:18.336Z",
+  "event": "task-end",
+  "summary": "completed Task_RecordDecision in Process_Editing",
+  "detail": "instance editing--prose-title-page is now running — Editor decision: owner litlfred, 2026-11-17 ~07:55Z, card 'Title date' in session session_01EucfRpmczM1DSHksvnh9gN: option 1, revise the date to '14 October 2026' (clears voice-author-notes-pollution P4). Content approval: owner card 2026-11-17 (covers/title pages, option B), relayed by merge-manager session session_01EucfRnjwjC8CPYgVnsFuHS; PR WorldHealthOrganization/dth-hrh#148. — AUTHORIZED (strict) — owner via github [litlfred] as author: unconstrained; policy permit",
+  "role": "Editor / author (person)",
+  "process": "Process_Editing",
+  "task": "Task_RecordDecision",
+  "session": "editing--prose-title-page",
+  "capture": "on"
+}

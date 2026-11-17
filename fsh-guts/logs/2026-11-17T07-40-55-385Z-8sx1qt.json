@@ -1,0 +1,13 @@
+{
+  "$schema": "folio-log/v1",
+  "id": "2026-11-17T07-40-55-385Z-8sx1qt",
+  "at": "2026-11-17T07:40:55.385Z",
+  "event": "task-end",
+  "summary": "completed Task_SchemaValidate in Process_Editing",
+  "detail": "instance editing--prose-title-page is now running — Ran at cat-harness-tools 777d5c7 on #148's head merged onto the re-pin (#150): check:kg-blocks pass (337 siblings up to date); check:content-keys pass; content:validate reports 73 issues, the identical set with and without #148 (all pre-existing DAK block kinds such as scen-*/bp-* that the generic schema does not list), none in prose:title-page or about-this-draft. No new schema issue. — AUTHORIZED (strict) — owner via github [litlfred] as validation-pipeline: unconstrained; policy permit",
+  "role": "Mechanical validation (system)",
+  "process": "Process_Editing",
+  "task": "Task_SchemaValidate",
+  "session": "editing--prose-title-page",
+  "capture": "on"
+}

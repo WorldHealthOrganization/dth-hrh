@@ -1,0 +1,13 @@
+{
+  "$schema": "folio-log/v1",
+  "id": "2026-11-17T07-39-46-419Z-62v4hd",
+  "at": "2026-11-17T07:39:46.419Z",
+  "event": "task-end",
+  "summary": "completed Open_CheckExists in Process_Editing",
+  "detail": "instance editing--prose-title-page is now running — Exact-title search: beans list on cat/dth-hrh/beans returns no beans at all (beans/defs is empty), so no bean exists for the dth-hrh title page (#147/#148). — AUTHORIZED (strict) — owner via github [litlfred] as authoring-agent: unconstrained; policy permit",
+  "role": "Agent (this session)",
+  "process": "Process_Editing",
+  "task": "Open_CheckExists",
+  "session": "editing--prose-title-page",
+  "capture": "on"
+}

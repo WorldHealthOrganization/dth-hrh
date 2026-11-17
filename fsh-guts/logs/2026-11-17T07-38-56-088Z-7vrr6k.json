@@ -1,0 +1,13 @@
+{
+  "$schema": "folio-log/v1",
+  "id": "2026-11-17T07-38-56-088Z-7vrr6k",
+  "at": "2026-11-17T07:38:56.088Z",
+  "event": "task-end",
+  "summary": "completed Task_DescribeChange in Process_Editing",
+  "detail": "instance editing--prose-title-page is now running — Add a plain text title page (prose:title-page) as the first, lead section of About this draft, and rename sec:about-lead to 'How this draft is organized'. PR WorldHealthOrganization/dth-hrh#148, per the owner card of 2026-11-17 (covers for the dth-* folios, option B). — AUTHORIZED (strict) — owner via github [litlfred] as author: unconstrained; policy permit",
+  "role": "Editor / author (person)",
+  "process": "Process_Editing",
+  "task": "Task_DescribeChange",
+  "session": "editing--prose-title-page",
+  "capture": "on"
+}

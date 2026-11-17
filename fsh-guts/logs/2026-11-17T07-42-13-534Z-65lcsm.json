@@ -1,0 +1,13 @@
+{
+  "$schema": "folio-log/v1",
+  "id": "2026-11-17T07-42-13-534Z-65lcsm",
+  "at": "2026-11-17T07:42:13.534Z",
+  "event": "task-end",
+  "summary": "completed Task_BuildGates in Process_Editing",
+  "detail": "instance editing--prose-title-page is now running — Ran at cat-harness-tools 777d5c7: qa:sweep folio, verdict for prose:title-page = 18 pass, 33 n/a, 1 FAIL: voice-author-notes-pollution (major), evidence p-title-page.md:7 'P4:date-ref: 2026-10-14' (an ISO date in prose reads as an author-notes date). check:library-kg pass (238 up to date), check:content-code-free pass. The FAIL goes to the editor's review. — AUTHORIZED (strict) — owner via github [litlfred] as validation-pipeline: unconstrained; policy permit",
+  "role": "Mechanical validation (system)",
+  "process": "Process_Editing",
+  "task": "Task_BuildGates",
+  "session": "editing--prose-title-page",
+  "capture": "on"
+}

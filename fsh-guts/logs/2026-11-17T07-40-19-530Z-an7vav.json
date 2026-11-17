@@ -1,0 +1,13 @@
+{
+  "$schema": "folio-log/v1",
+  "id": "2026-11-17T07-40-19-530Z-an7vav",
+  "at": "2026-11-17T07:40:19.530Z",
+  "event": "task-end",
+  "summary": "completed Gateway_RecommendationInPlay in Process_Editing",
+  "detail": "instance editing--prose-title-page is now running — A title page states no recommendation: title, author (WHO), status and date only, all taken from folio/dth-hrh/dth-hrh.ts. — AUTHORIZED (strict) — owner via github [litlfred] as author: unconstrained; policy permit",
+  "role": "Author / guideline developer (person)",
+  "process": "Process_Editing",
+  "task": "Gateway_RecommendationInPlay",
+  "session": "editing--prose-title-page",
+  "capture": "on"
+}

@@ -1,0 +1,13 @@
+{
+  "$schema": "folio-log/v1",
+  "id": "2026-11-17T11-52-31-490Z-e2wwnj",
+  "at": "2026-11-17T11:52:31.490Z",
+  "event": "task-end",
+  "summary": "completed Task_SyntaxSpell in Process_Editing",
+  "detail": "instance editing--prose-title-page is now running — Re-run at 383235b: text read (date now '14 October 2026', spelling correct); check:dth-glossary, check:review-anchors, check:page-furniture pass. — AUTHORIZED (strict) — owner via github [litlfred] as validation-pipeline: unconstrained; policy permit",
+  "role": "Mechanical validation (system)",
+  "process": "Process_Editing",
+  "task": "Task_SyntaxSpell",
+  "session": "editing--prose-title-page",
+  "capture": "on"
+}

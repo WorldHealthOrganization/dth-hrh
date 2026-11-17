@@ -1,0 +1,13 @@
+{
+  "$schema": "folio-log/v1",
+  "id": "2026-11-17T11-52-34-312Z-1g06yi",
+  "at": "2026-11-17T11:52:34.312Z",
+  "event": "task-end",
+  "summary": "completed Task_BuildGates in Process_Editing",
+  "detail": "instance editing--prose-title-page is now running — Re-run at 383235b: qa:sweep folio, prose:title-page = 19 pass, 33 n/a, 0 fail (voice-author-notes-pollution now pass); check:library-kg and check:content-code-free pass. — AUTHORIZED (strict) — owner via github [litlfred] as validation-pipeline: unconstrained; policy permit",
+  "role": "Mechanical validation (system)",
+  "process": "Process_Editing",
+  "task": "Task_BuildGates",
+  "session": "editing--prose-title-page",
+  "capture": "on"
+}
