@@ -1,6 +1,6 @@
 {
   "@context": [
-    "https://litlfred.github.io/dth-hrh/ns/context/v1.jsonld",
+    "https://worldhealthorganization.github.io/dth-hrh/ns/context/v1.jsonld",
     {
       "@base": "https://litlfred.github.io/folio/",
       "smart-base": "https://litlfred.github.io/smart-base/v0/ns/"
@@ -37,26 +37,26 @@
       "basis": "agent-proposed by name, for working-group review (dth-hrh#47)",
       "elements": [
         {
-          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/elements/id-10058e61afa048128fdb46dc0bcb884c.jsonld",
+          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/element/id-10058e61afa048128fdb46dc0bcb884c",
           "name": "National ID Government Provider",
           "type": "BusinessRole"
         },
         {
-          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/elements/id-646c18afcfc54f4fb33ae93110e02c2c.jsonld",
+          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/element/id-646c18afcfc54f4fb33ae93110e02c2c",
           "name": "Identity Management Service",
           "type": "ApplicationService"
         }
       ],
       "views": [
         {
-          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/views/id-19be800d18a34a618d6e1955cf58e956.jsonld",
+          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/view/id-19be800d18a34a618d6e1955cf58e956",
           "name": "ALL High Level - Health Workforce"
         }
       ]
     },
     "glossaryTerms": [
       "https://litlfred.github.io/smart-ra/v0/ns#glossary/dpi-h-ra/digital-public-infrastructure",
-      "https://litlfred.github.io/dth-hrh/v0/ns#glossary/dth-hrh/registration"
+      "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/dth-hrh/registration"
     ],
     "relatedBlocks": [
       "bp:hrh-bp-02-register-and-license-graduate"

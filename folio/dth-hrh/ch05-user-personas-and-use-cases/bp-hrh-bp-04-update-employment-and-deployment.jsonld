@@ -1,6 +1,6 @@
 {
   "@context": [
-    "https://litlfred.github.io/dth-hrh/ns/context/v1.jsonld",
+    "https://worldhealthorganization.github.io/dth-hrh/ns/context/v1.jsonld",
     {
       "@base": "https://litlfred.github.io/folio/",
       "smart-base": "https://litlfred.github.io/smart-base/v0/ns/"
@@ -58,38 +58,38 @@
       "basis": "agent-proposed by name, for working-group review (dth-hrh#47)",
       "elements": [
         {
-          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/elements/id-30440ab5646f46c9bc8cd4447152be26.jsonld",
+          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/element/id-30440ab5646f46c9bc8cd4447152be26",
           "name": "Employment/ Facility Mapping",
           "type": "ApplicationFunction"
         },
         {
-          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/elements/id-4e0767822dcf46409554156a133fbc67.jsonld",
+          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/element/id-4e0767822dcf46409554156a133fbc67",
           "name": "DPI-H: Facility Registry",
           "type": "ApplicationComponent"
         },
         {
-          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/elements/id-350840520ae44f658b6ad3b3762e382e.jsonld",
+          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/element/id-350840520ae44f658b6ad3b3762e382e",
           "name": "DPI-H Health Workforce Registry (HWR)",
           "type": "ApplicationComponent"
         },
         {
-          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/elements/id-9cecae7a982548e1960a36ed41713a7c.jsonld",
+          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/element/id-9cecae7a982548e1960a36ed41713a7c",
           "name": "Health Facility",
           "type": "BusinessRole"
         }
       ],
       "views": [
         {
-          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/views/id-19be800d18a34a618d6e1955cf58e956.jsonld",
+          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/view/id-19be800d18a34a618d6e1955cf58e956",
           "name": "ALL High Level - Health Workforce"
         }
       ]
     },
     "glossaryTerms": [
-      "https://litlfred.github.io/dth-hrh/v0/ns#glossary/dth-hrh/deployment",
-      "https://litlfred.github.io/dth-hrh/v0/ns#glossary/dth-hrh/distribution",
-      "https://litlfred.github.io/dth-hrh/v0/ns#glossary/dth-hrh/human-resources-for-health-information-system",
-      "https://litlfred.github.io/dth-hrh/v0/ns#glossary/dth-hrh/employment-status-full-time-part-time-temporary-permanent",
+      "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/dth-hrh/deployment",
+      "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/dth-hrh/distribution",
+      "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/dth-hrh/human-resources-for-health-information-system",
+      "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/dth-hrh/employment-status-full-time-part-time-temporary-permanent",
       "https://litlfred.github.io/smart-ra/v0/ns#glossary/dpi-h-ra/registry"
     ],
     "relatedBlocks": [

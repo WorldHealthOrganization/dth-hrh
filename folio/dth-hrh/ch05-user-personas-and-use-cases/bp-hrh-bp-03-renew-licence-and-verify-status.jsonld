@@ -1,6 +1,6 @@
 {
   "@context": [
-    "https://litlfred.github.io/dth-hrh/ns/context/v1.jsonld",
+    "https://worldhealthorganization.github.io/dth-hrh/ns/context/v1.jsonld",
     {
       "@base": "https://litlfred.github.io/folio/",
       "smart-base": "https://litlfred.github.io/smart-base/v0/ns/"
@@ -53,38 +53,38 @@
       "basis": "agent-proposed by name, for working-group review (dth-hrh#47)",
       "elements": [
         {
-          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/elements/id-63c448813aea4067bb68281f7926fd2b.jsonld",
+          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/element/id-63c448813aea4067bb68281f7926fd2b",
           "name": "Licensing Bodies",
           "type": "BusinessRole"
         },
         {
-          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/elements/id-3bd1011d76c843fa860255f00a6aa68f.jsonld",
+          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/element/id-3bd1011d76c843fa860255f00a6aa68f",
           "name": "Vendor EHR Product",
           "type": "ApplicationComponent"
         },
         {
-          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/elements/id-a2320dbc07e6450b94f3f0f3e03bb877.jsonld",
+          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/element/id-a2320dbc07e6450b94f3f0f3e03bb877",
           "name": "Patients",
           "type": "BusinessRole"
         },
         {
-          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/elements/id-3bc59974bc1e4e5d8e795cdc1606587e.jsonld",
+          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/element/id-3bc59974bc1e4e5d8e795cdc1606587e",
           "name": "Credential & License",
           "type": "ApplicationFunction"
         }
       ],
       "views": [
         {
-          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/views/id-19be800d18a34a618d6e1955cf58e956.jsonld",
+          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/view/id-19be800d18a34a618d6e1955cf58e956",
           "name": "ALL High Level - Health Workforce"
         }
       ]
     },
     "glossaryTerms": [
-      "https://litlfred.github.io/dth-hrh/v0/ns#glossary/dth-hrh/licensing",
-      "https://litlfred.github.io/dth-hrh/v0/ns#glossary/dth-hrh/in-service-training",
-      "https://litlfred.github.io/dth-hrh/v0/ns#glossary/dth-hrh/scope-of-practice",
-      "https://litlfred.github.io/dth-hrh/v0/ns#glossary/dth-hrh/regulation",
+      "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/dth-hrh/licensing",
+      "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/dth-hrh/in-service-training",
+      "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/dth-hrh/scope-of-practice",
+      "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/dth-hrh/regulation",
       "https://litlfred.github.io/smart-ra/v0/ns#glossary/dpi-h-ra/point-of-service-applications"
     ],
     "relatedBlocks": [

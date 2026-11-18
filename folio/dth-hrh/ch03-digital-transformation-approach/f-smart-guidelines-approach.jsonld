@@ -1,6 +1,6 @@
 {
   "@context": [
-    "https://litlfred.github.io/dth-hrh/ns/context/v1.jsonld",
+    "https://worldhealthorganization.github.io/dth-hrh/ns/context/v1.jsonld",
     {
       "@base": "https://litlfred.github.io/folio/",
       "folio-assistant-core": "https://litlfred.github.io/folio-assistant-core/v0/ns/"
@@ -44,7 +44,7 @@
         "prefLabel": "SMART Guidelines"
       },
       {
-        "iri": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/dth-hrh/health-workforce-registry",
+        "iri": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/dth-hrh/health-workforce-registry",
         "prefLabel": "Health workforce registry"
       },
       {
@@ -57,41 +57,41 @@
       "basis": "agent-proposed by name and figure mapping, for working-group review (dth-hrh#47)",
       "elements": [
         {
-          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/elements/id-5b55a8ca67864a1a91910347db193e79.jsonld",
+          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/element/id-5b55a8ca67864a1a91910347db193e79",
           "name": "SMART Guidelines L1"
         },
         {
-          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/elements/id-b03a09f1177a4bf6bfd1f22c6cea1c94.jsonld",
+          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/element/id-b03a09f1177a4bf6bfd1f22c6cea1c94",
           "name": "Adapted SMART Guidelines L1"
         },
         {
-          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/elements/id-066e40fefc9e48e4b23e51d9f9bd14d2.jsonld",
+          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/element/id-066e40fefc9e48e4b23e51d9f9bd14d2",
           "name": "SMART Guidelines L2 (DAK)"
         },
         {
-          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/elements/id-2f415a2e0d4245c19663f5821ed02a16.jsonld",
+          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/element/id-2f415a2e0d4245c19663f5821ed02a16",
           "name": "Adapted SMART Guidelines L2 (DAK)"
         },
         {
-          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/elements/id-b360206038c641d4a1332ba8e815f932.jsonld",
+          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/element/id-b360206038c641d4a1332ba8e815f932",
           "name": "SMART Guidelines L3"
         },
         {
-          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/elements/id-93d72a1b382a4a748ad85b3ba7c94990.jsonld",
+          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/element/id-93d72a1b382a4a748ad85b3ba7c94990",
           "name": "Adapted SMART Guidelines L3"
         },
         {
-          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/elements/id-350840520ae44f658b6ad3b3762e382e.jsonld",
+          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/element/id-350840520ae44f658b6ad3b3762e382e",
           "name": "DPI-H Health Workforce Registry (HWR)"
         }
       ],
       "views": [
         {
-          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/views/id-4c98f10e0a244315acddaf5257c7822e.jsonld",
+          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/view/id-4c98f10e0a244315acddaf5257c7822e",
           "name": "CDS"
         },
         {
-          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/views/id-007936f8c2424b96ad1893ef0ff66059.jsonld",
+          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/view/id-007936f8c2424b96ad1893ef0ff66059",
           "name": "1. Central Health Workforce Registry"
         }
       ]

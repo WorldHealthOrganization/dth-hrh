@@ -1,6 +1,6 @@
 {
   "@context": [
-    "https://litlfred.github.io/dth-hrh/ns/context/v1.jsonld",
+    "https://worldhealthorganization.github.io/dth-hrh/ns/context/v1.jsonld",
     {
       "@base": "https://litlfred.github.io/folio/",
       "smart-base": "https://litlfred.github.io/smart-base/v0/ns/"
@@ -37,25 +37,25 @@
       "basis": "agent-proposed by name, for working-group review (dth-hrh#47)",
       "elements": [
         {
-          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/elements/id-99b92fe529e94fcd8ceac04cb16aefd7.jsonld",
+          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/element/id-99b92fe529e94fcd8ceac04cb16aefd7",
           "name": "Owner",
           "type": "BusinessRole"
         },
         {
-          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/elements/id-1c5c0bc9234e4282b654dbc71b9da706.jsonld",
+          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/element/id-1c5c0bc9234e4282b654dbc71b9da706",
           "name": "Ministry of Health",
           "type": "BusinessRole"
         }
       ],
       "views": [
         {
-          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/views/id-f7a5524bbac84f1a9cf424754750819d.jsonld",
+          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/view/id-f7a5524bbac84f1a9cf424754750819d",
           "name": "Metadata Registry Governance"
         }
       ]
     },
     "glossaryTerms": [
-      "https://litlfred.github.io/dth-hrh/v0/ns#glossary/dth-hrh/stewardship",
+      "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/dth-hrh/stewardship",
       "https://litlfred.github.io/smart-ra/v0/ns#glossary/dpi-h-ra/data-governance"
     ],
     "relatedBlocks": [
