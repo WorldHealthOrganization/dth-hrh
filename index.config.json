@@ -64,7 +64,7 @@
       "source": {
         "remote": {
           "repository": "litlfred/who-iris",
-          "ref": "f7290776b30cf851a3174384917b1dcc3890991b",
+          "ref": "bc7e22c3f6ee56bcf59b4f9a24edfa34df8ab707",
           "overrides": {
             "who-iris": {
               "whole": true
@@ -88,9 +88,9 @@
           "trust": {
             "consent": {
               "by": "litlfred",
-              "on": "2026-11-17",
-              "ref": "f7290776b30cf851a3174384917b1dcc3890991b",
-              "evidence": "litlfred, 2026-11-17 ~07:35Z, in session session_01EucfRpmczM1DSHksvnh9gN (card 'Re-pin', option 2: 'I re-pin by hand'): re-pin every layer to main by hand under the standing consent given 2026-11-12 (follow main, green commits only; Q-BIBNAV-2 'B'), so cat-harness-tools reaches 777d5c7 (#2380, #2388) for dth-hrh#148's approval record."
+              "on": "2026-11-18",
+              "ref": "bc7e22c3f6ee56bcf59b4f9a24edfa34df8ab707",
+              "evidence": "litlfred 2026-11-18 ~19:55Z in session session_01EucfRmKLrFezKp16GjTKi4 (card 'Re-pin tools', option 'Separate re-pin PR'): re-pin every followed layer to its current main so dth-hrh#154 picks up cat-harness-tools#2427 (prov-qaqc publishes in the root layer's own site)"
             },
             "standing": {
               "follows": "main",
@@ -108,7 +108,7 @@
       "source": {
         "remote": {
           "repository": "litlfred/smart-base",
-          "ref": "6485bbf6c0ef6550796c27cf3dd921230db3c60d",
+          "ref": "63daa5276909996824d0180082265817bb9e7e58",
           "overrides": {
             "smart-base": {
               "path": "smart-base",
@@ -141,9 +141,9 @@
           "trust": {
             "consent": {
               "by": "litlfred",
-              "on": "2026-11-17",
-              "ref": "6485bbf6c0ef6550796c27cf3dd921230db3c60d",
-              "evidence": "litlfred 2026-11-17 ~18:30Z in session session_01EucfRqYSWYLZDQCayeryd8: 'Do the repinning and then update'; re-pin every layer to its current main so the avatar PR picks up the merged gate fixes (cat-harness-tools#2421, #2415, #2419), as lock:freshness requires"
+              "on": "2026-11-18",
+              "ref": "63daa5276909996824d0180082265817bb9e7e58",
+              "evidence": "litlfred 2026-11-18 ~19:55Z in session session_01EucfRmKLrFezKp16GjTKi4 (card 'Re-pin tools', option 'Separate re-pin PR'): re-pin every followed layer to its current main so dth-hrh#154 picks up cat-harness-tools#2427 (prov-qaqc publishes in the root layer's own site)"
             },
             "standing": {
               "follows": "main",
@@ -161,7 +161,7 @@
       "source": {
         "remote": {
           "repository": "litlfred/fhir-harness",
-          "ref": "1b9db9fa961d4790c76f6db69e81f7199c10af00",
+          "ref": "d34ae7692a304983a495b20b62f37b8b98d3cb85",
           "overrides": {
             "fhir-harness": {
               "whole": true
@@ -170,9 +170,9 @@
           "trust": {
             "consent": {
               "by": "litlfred",
-              "on": "2026-11-17",
-              "ref": "1b9db9fa961d4790c76f6db69e81f7199c10af00",
-              "evidence": "litlfred 2026-11-17 ~18:30Z in session session_01EucfRqYSWYLZDQCayeryd8: 'Do the repinning and then update'; re-pin every layer to its current main so the avatar PR picks up the merged gate fixes (cat-harness-tools#2421, #2415, #2419), as lock:freshness requires"
+              "on": "2026-11-18",
+              "ref": "d34ae7692a304983a495b20b62f37b8b98d3cb85",
+              "evidence": "litlfred 2026-11-18 ~19:55Z in session session_01EucfRmKLrFezKp16GjTKi4 (card 'Re-pin tools', option 'Separate re-pin PR'): re-pin every followed layer to its current main so dth-hrh#154 picks up cat-harness-tools#2427 (prov-qaqc publishes in the root layer's own site)"
             },
             "standing": {
               "follows": "main",
@@ -190,7 +190,7 @@
       "source": {
         "remote": {
           "repository": "litlfred/folio-assistant-core",
-          "ref": "763b8b59dce5a32e7e37d133271abbf64fa47f84",
+          "ref": "ca6ede70999e539df19a3346a02911b83bb693f6",
           "overrides": {
             "folio-assistant-core": {
               "whole": true
@@ -205,9 +205,9 @@
           "trust": {
             "consent": {
               "by": "litlfred",
-              "on": "2026-11-17",
-              "ref": "763b8b59dce5a32e7e37d133271abbf64fa47f84",
-              "evidence": "litlfred 2026-11-17 ~18:30Z in session session_01EucfRqYSWYLZDQCayeryd8: 'Do the repinning and then update'; re-pin every layer to its current main so the avatar PR picks up folio-assistant-core#840 (DIIG figure), as lock:freshness requires"
+              "on": "2026-11-18",
+              "ref": "ca6ede70999e539df19a3346a02911b83bb693f6",
+              "evidence": "litlfred 2026-11-18 ~19:55Z in session session_01EucfRmKLrFezKp16GjTKi4 (card 'Re-pin tools', option 'Separate re-pin PR'): re-pin every followed layer to its current main so dth-hrh#154 picks up cat-harness-tools#2427 (prov-qaqc publishes in the root layer's own site)"
             },
             "standing": {
               "follows": "main",
@@ -225,7 +225,7 @@
       "source": {
         "remote": {
           "repository": "litlfred/cat-harness",
-          "ref": "72b0bc13606ea3ca2e1ec0a064a36a04835eb7bb",
+          "ref": "dc97a6bc1aa3643e9dbf8213574225decb7e0e73",
           "overrides": {
             "cat-harness": {
               "whole": true
@@ -240,9 +240,9 @@
           "trust": {
             "consent": {
               "by": "litlfred",
-              "on": "2026-11-17",
-              "ref": "72b0bc13606ea3ca2e1ec0a064a36a04835eb7bb",
-              "evidence": "litlfred 2026-11-17 ~18:30Z in session session_01EucfRqYSWYLZDQCayeryd8: 'Do the repinning and then update'; re-pin every layer to its current main so the avatar PR picks up the merged gate fixes (cat-harness-tools#2421, #2415, #2419), as lock:freshness requires"
+              "on": "2026-11-18",
+              "ref": "dc97a6bc1aa3643e9dbf8213574225decb7e0e73",
+              "evidence": "litlfred 2026-11-18 ~19:55Z in session session_01EucfRmKLrFezKp16GjTKi4 (card 'Re-pin tools', option 'Separate re-pin PR'): re-pin every followed layer to its current main so dth-hrh#154 picks up cat-harness-tools#2427 (prov-qaqc publishes in the root layer's own site)"
             },
             "standing": {
               "follows": "main",
@@ -260,7 +260,7 @@
       "source": {
         "remote": {
           "repository": "litlfred/cat-harness-tools",
-          "ref": "7f2b29c89ce3c7a8dfadab99739d1d97a9f41b2d",
+          "ref": "864ff1fc03c61c9bf6a429103a6ee1076947dc03",
           "overrides": {
             "cat-harness-tools": {
               "whole": true
@@ -272,9 +272,9 @@
           "trust": {
             "consent": {
               "by": "litlfred",
-              "on": "2026-11-17",
-              "ref": "7f2b29c89ce3c7a8dfadab99739d1d97a9f41b2d",
-              "evidence": "litlfred 2026-11-17 ~18:30Z in session session_01EucfRqYSWYLZDQCayeryd8: 'Do the repinning and then update'; re-pin every layer to its current main so the avatar PR picks up folio-assistant-core#840 (DIIG figure), as lock:freshness requires"
+              "on": "2026-11-18",
+              "ref": "864ff1fc03c61c9bf6a429103a6ee1076947dc03",
+              "evidence": "litlfred 2026-11-18 ~19:55Z in session session_01EucfRmKLrFezKp16GjTKi4 (card 'Re-pin tools', option 'Separate re-pin PR'): re-pin every followed layer to its current main so dth-hrh#154 picks up cat-harness-tools#2427 (prov-qaqc publishes in the root layer's own site)"
             },
             "standing": {
               "follows": "main",
@@ -353,7 +353,7 @@
       "source": {
         "remote": {
           "repository": "litlfred/smart-ra",
-          "ref": "4ff3621433dae8e6a44f303c043845f52d3f7fe8",
+          "ref": "fe66c5f8ed87e0eface26fe2951532ab9bd12b4b",
           "overrides": {
             "dpi-h-ra": {
               "directories": [
@@ -389,9 +389,9 @@
           "trust": {
             "consent": {
               "by": "litlfred",
-              "on": "2026-11-17",
-              "ref": "4ff3621433dae8e6a44f303c043845f52d3f7fe8",
-              "evidence": "litlfred, 2026-11-17 ~07:35Z, in session session_01EucfRpmczM1DSHksvnh9gN (card 'Re-pin', option 2: 'I re-pin by hand'): re-pin every layer to main by hand under the standing consent given 2026-11-12 (follow main, green commits only; Q-BIBNAV-2 'B'), so cat-harness-tools reaches 777d5c7 (#2380, #2388) for dth-hrh#148's approval record."
+              "on": "2026-11-18",
+              "ref": "fe66c5f8ed87e0eface26fe2951532ab9bd12b4b",
+              "evidence": "litlfred 2026-11-18 ~19:55Z in session session_01EucfRmKLrFezKp16GjTKi4 (card 'Re-pin tools', option 'Separate re-pin PR'): re-pin every followed layer to its current main so dth-hrh#154 picks up cat-harness-tools#2427 (prov-qaqc publishes in the root layer's own site)"
             },
             "standing": {
               "follows": "main",

@@ -1,0 +1,880 @@
+{
+  "@context": [
+    "https://openprovenance.org/prov-jsonld/context.jsonld",
+    {
+      "@base": "https://litlfred.github.io/folio/",
+      "cat-harness": "https://litlfred.github.io/cat-harness/v0/ns/",
+      "cat-harness:agentSubject": {
+        "@type": "@id"
+      },
+      "cat-harness:planSubject": {
+        "@type": "@id"
+      },
+      "cat-harness:roleSubject": {
+        "@type": "@id"
+      },
+      "cat-harness:underPolicy": {
+        "@type": "@id"
+      }
+    }
+  ],
+  "@graph": [
+    {
+      "@id": "editing--prose-title-page#1",
+      "@type": "Activity",
+      "cat-harness:underPolicy": [
+        "https://litlfred.github.io/fhir-harness/policies/ig-publisher-service",
+        "https://litlfred.github.io/folio-assistant-core/policies/content-agents",
+        "https://litlfred.github.io/folio-assistant/policies/folio-defaults",
+        "https://litlfred.github.io/folio-assistant/policies/http-gateway"
+      ],
+      "startTime": "2026-11-17T07:38:56.084Z"
+    },
+    {
+      "@type": "Association",
+      "activity": "editing--prose-title-page#1",
+      "agent": "https://litlfred.github.io/cat-harness/v0/scenarios/actors/owner",
+      "cat-harness:agentSubject": "https://litlfred.github.io/folio-assistant/cat-harness/actor/owner",
+      "cat-harness:planSubject": "https://litlfred.github.io/folio-assistant/folio-assistant-core/process/Process_Editing/node/Task_DescribeChange",
+      "cat-harness:roleSubject": "https://litlfred.github.io/folio-assistant/cat-harness/role/author",
+      "plan": "https://litlfred.github.io/folio-assistant-core/v0/collab/processes/content/editing-hci-validation/Task_DescribeChange",
+      "role": "https://litlfred.github.io/cat-harness/v0/scenarios/roles/author"
+    },
+    {
+      "@id": "editing--prose-title-page#2",
+      "@type": "Activity",
+      "cat-harness:underPolicy": [
+        "https://litlfred.github.io/folio-assistant/policies/folio-defaults",
+        "https://litlfred.github.io/folio-assistant/policies/http-gateway"
+      ],
+      "startTime": "2026-11-17T07:40:08.039Z"
+    },
+    {
+      "@type": "Association",
+      "activity": "editing--prose-title-page#2",
+      "agent": {
+        "@value": "litlfred"
+      },
+      "cat-harness:planSubject": "https://litlfred.github.io/folio-assistant/folio-assistant-core/process/Process_Editing/node/Task_ClaimBean",
+      "cat-harness:roleSubject": "https://litlfred.github.io/folio-assistant/cat-harness/role/authoring-agent",
+      "plan": "https://litlfred.github.io/folio-assistant-core/v0/collab/processes/content/editing-hci-validation/Task_ClaimBean",
+      "role": "https://litlfred.github.io/cat-harness/v0/scenarios/roles/authoring-agent"
+    },
+    {
+      "@id": "editing--prose-title-page#3",
+      "@type": "Activity",
+      "cat-harness:underPolicy": [
+        "https://litlfred.github.io/fhir-harness/policies/ig-publisher-service",
+        "https://litlfred.github.io/folio-assistant-core/policies/content-agents",
+        "https://litlfred.github.io/folio-assistant/policies/folio-defaults",
+        "https://litlfred.github.io/folio-assistant/policies/http-gateway"
+      ],
+      "startTime": "2026-11-17T07:40:13.847Z"
+    },
+    {
+      "@type": "Association",
+      "activity": "editing--prose-title-page#3",
+      "agent": "https://litlfred.github.io/cat-harness/v0/scenarios/actors/owner",
+      "cat-harness:agentSubject": "https://litlfred.github.io/folio-assistant/cat-harness/actor/owner",
+      "cat-harness:planSubject": "https://litlfred.github.io/folio-assistant/folio-assistant-core/process/Process_Editing/node/GW_BeanYours",
+      "cat-harness:roleSubject": "https://litlfred.github.io/folio-assistant/cat-harness/role/authoring-agent",
+      "plan": "https://litlfred.github.io/folio-assistant-core/v0/collab/processes/content/editing-hci-validation/GW_BeanYours",
+      "role": "https://litlfred.github.io/cat-harness/v0/scenarios/roles/authoring-agent"
+    },
+    {
+      "@id": "editing--prose-title-page#4",
+      "@type": "Activity",
+      "cat-harness:underPolicy": [
+        "https://litlfred.github.io/folio-assistant/policies/folio-defaults",
+        "https://litlfred.github.io/folio-assistant/policies/http-gateway"
+      ],
+      "startTime": "2026-11-17T07:40:19.529Z"
+    },
+    {
+      "@type": "Association",
+      "activity": "editing--prose-title-page#4",
+      "agent": {
+        "@value": "litlfred"
+      },
+      "cat-harness:planSubject": "https://litlfred.github.io/folio-assistant/folio-assistant-core/process/Process_Editing/node/CallActivity_Evidence",
+      "cat-harness:roleSubject": "https://litlfred.github.io/folio-assistant/cat-harness/role/author",
+      "plan": "https://litlfred.github.io/folio-assistant-core/v0/collab/processes/content/editing-hci-validation/CallActivity_Evidence",
+      "role": "https://litlfred.github.io/cat-harness/v0/scenarios/roles/author"
+    },
+    {
+      "@id": "editing--prose-title-page#5",
+      "@type": "Activity",
+      "cat-harness:underPolicy": [
+        "https://litlfred.github.io/fhir-harness/policies/ig-publisher-service",
+        "https://litlfred.github.io/folio-assistant-core/policies/content-agents",
+        "https://litlfred.github.io/folio-assistant/policies/folio-defaults",
+        "https://litlfred.github.io/folio-assistant/policies/http-gateway"
+      ],
+      "startTime": "2026-11-17T07:40:26.038Z"
+    },
+    {
+      "@type": "Association",
+      "activity": "editing--prose-title-page#5",
+      "agent": "https://litlfred.github.io/cat-harness/v0/scenarios/actors/owner",
+      "cat-harness:agentSubject": "https://litlfred.github.io/folio-assistant/cat-harness/actor/owner",
+      "cat-harness:planSubject": "https://litlfred.github.io/folio-assistant/folio-assistant-core/process/Process_Editing/node/Task_DraftEdit",
+      "cat-harness:roleSubject": "https://litlfred.github.io/folio-assistant/cat-harness/role/authoring-agent",
+      "plan": "https://litlfred.github.io/folio-assistant-core/v0/collab/processes/content/editing-hci-validation/Task_DraftEdit",
+      "role": "https://litlfred.github.io/cat-harness/v0/scenarios/roles/authoring-agent"
+    },
+    {
+      "@id": "editing--prose-title-page#6",
+      "@type": "Activity",
+      "cat-harness:underPolicy": [
+        "https://litlfred.github.io/fhir-harness/policies/ig-publisher-service",
+        "https://litlfred.github.io/folio-assistant-core/policies/content-agents",
+        "https://litlfred.github.io/folio-assistant/policies/folio-defaults",
+        "https://litlfred.github.io/folio-assistant/policies/http-gateway"
+      ],
+      "startTime": "2026-11-17T07:40:55.382Z"
+    },
+    {
+      "@type": "Association",
+      "activity": "editing--prose-title-page#6",
+      "agent": "https://litlfred.github.io/cat-harness/v0/scenarios/actors/owner",
+      "cat-harness:agentSubject": "https://litlfred.github.io/folio-assistant/cat-harness/actor/owner",
+      "cat-harness:planSubject": "https://litlfred.github.io/folio-assistant/folio-assistant-core/process/Process_Editing/node/Task_SchemaValidate",
+      "cat-harness:roleSubject": "https://litlfred.github.io/folio-assistant/cat-harness/role/validation-pipeline",
+      "plan": "https://litlfred.github.io/folio-assistant-core/v0/collab/processes/content/editing-hci-validation/Task_SchemaValidate",
+      "role": "https://litlfred.github.io/cat-harness/v0/scenarios/roles/validation-pipeline"
+    },
+    {
+      "@id": "editing--prose-title-page#7",
+      "@type": "Activity",
+      "cat-harness:underPolicy": [
+        "https://litlfred.github.io/fhir-harness/policies/ig-publisher-service",
+        "https://litlfred.github.io/folio-assistant-core/policies/content-agents",
+        "https://litlfred.github.io/folio-assistant/policies/folio-defaults",
+        "https://litlfred.github.io/folio-assistant/policies/http-gateway"
+      ],
+      "startTime": "2026-11-17T07:41:12.111Z"
+    },
+    {
+      "@type": "Association",
+      "activity": "editing--prose-title-page#7",
+      "agent": "https://litlfred.github.io/cat-harness/v0/scenarios/actors/owner",
+      "cat-harness:agentSubject": "https://litlfred.github.io/folio-assistant/cat-harness/actor/owner",
+      "cat-harness:planSubject": "https://litlfred.github.io/folio-assistant/folio-assistant-core/process/Process_Editing/node/Task_SyntaxSpell",
+      "cat-harness:roleSubject": "https://litlfred.github.io/folio-assistant/cat-harness/role/validation-pipeline",
+      "plan": "https://litlfred.github.io/folio-assistant-core/v0/collab/processes/content/editing-hci-validation/Task_SyntaxSpell",
+      "role": "https://litlfred.github.io/cat-harness/v0/scenarios/roles/validation-pipeline"
+    },
+    {
+      "@id": "editing--prose-title-page#8",
+      "@type": "Activity",
+      "cat-harness:underPolicy": [
+        "https://litlfred.github.io/fhir-harness/policies/ig-publisher-service",
+        "https://litlfred.github.io/folio-assistant-core/policies/content-agents",
+        "https://litlfred.github.io/folio-assistant/policies/folio-defaults",
+        "https://litlfred.github.io/folio-assistant/policies/http-gateway"
+      ],
+      "startTime": "2026-11-17T07:42:13.532Z"
+    },
+    {
+      "@type": "Association",
+      "activity": "editing--prose-title-page#8",
+      "agent": "https://litlfred.github.io/cat-harness/v0/scenarios/actors/owner",
+      "cat-harness:agentSubject": "https://litlfred.github.io/folio-assistant/cat-harness/actor/owner",
+      "cat-harness:planSubject": "https://litlfred.github.io/folio-assistant/folio-assistant-core/process/Process_Editing/node/Task_BuildGates",
+      "cat-harness:roleSubject": "https://litlfred.github.io/folio-assistant/cat-harness/role/validation-pipeline",
+      "plan": "https://litlfred.github.io/folio-assistant-core/v0/collab/processes/content/editing-hci-validation/Task_BuildGates",
+      "role": "https://litlfred.github.io/cat-harness/v0/scenarios/roles/validation-pipeline"
+    },
+    {
+      "@id": "editing--prose-title-page#9",
+      "@type": "Activity",
+      "cat-harness:underPolicy": [
+        "https://litlfred.github.io/fhir-harness/policies/ig-publisher-service",
+        "https://litlfred.github.io/folio-assistant-core/policies/content-agents",
+        "https://litlfred.github.io/folio-assistant/policies/folio-defaults",
+        "https://litlfred.github.io/folio-assistant/policies/http-gateway"
+      ],
+      "startTime": "2026-11-17T07:42:20.242Z"
+    },
+    {
+      "@type": "Association",
+      "activity": "editing--prose-title-page#9",
+      "agent": "https://litlfred.github.io/cat-harness/v0/scenarios/actors/owner",
+      "cat-harness:agentSubject": "https://litlfred.github.io/folio-assistant/cat-harness/actor/owner",
+      "cat-harness:planSubject": "https://litlfred.github.io/folio-assistant/folio-assistant-core/process/Process_Editing/node/Gateway_ReviewerKind",
+      "cat-harness:roleSubject": "https://litlfred.github.io/folio-assistant/cat-harness/role/reviewer",
+      "plan": "https://litlfred.github.io/folio-assistant-core/v0/collab/processes/content/editing-hci-validation/Gateway_ReviewerKind",
+      "role": "https://litlfred.github.io/cat-harness/v0/scenarios/roles/reviewer"
+    },
+    {
+      "@id": "editing--prose-title-page#10",
+      "@type": "Activity",
+      "cat-harness:underPolicy": [
+        "https://litlfred.github.io/fhir-harness/policies/ig-publisher-service",
+        "https://litlfred.github.io/folio-assistant-core/policies/content-agents",
+        "https://litlfred.github.io/folio-assistant/policies/folio-defaults",
+        "https://litlfred.github.io/folio-assistant/policies/http-gateway"
+      ],
+      "startTime": "2026-11-17T07:42:27.810Z"
+    },
+    {
+      "@type": "Association",
+      "activity": "editing--prose-title-page#10",
+      "agent": "https://litlfred.github.io/cat-harness/v0/scenarios/actors/owner",
+      "cat-harness:agentSubject": "https://litlfred.github.io/folio-assistant/cat-harness/actor/owner",
+      "cat-harness:planSubject": "https://litlfred.github.io/folio-assistant/folio-assistant-core/process/Process_Editing/node/Task_AgentReview",
+      "cat-harness:roleSubject": "https://litlfred.github.io/folio-assistant/cat-harness/role/reviewer",
+      "plan": "https://litlfred.github.io/folio-assistant-core/v0/collab/processes/content/editing-hci-validation/Task_AgentReview",
+      "role": "https://litlfred.github.io/cat-harness/v0/scenarios/roles/reviewer"
+    },
+    {
+      "@id": "editing--prose-title-page#11",
+      "@type": "Activity",
+      "cat-harness:underPolicy": [
+        "https://litlfred.github.io/fhir-harness/policies/ig-publisher-service",
+        "https://litlfred.github.io/folio-assistant-core/policies/content-agents",
+        "https://litlfred.github.io/folio-assistant/policies/folio-defaults",
+        "https://litlfred.github.io/folio-assistant/policies/http-gateway"
+      ],
+      "startTime": "2026-11-17T07:42:33.465Z"
+    },
+    {
+      "@type": "Association",
+      "activity": "editing--prose-title-page#11",
+      "agent": "https://litlfred.github.io/cat-harness/v0/scenarios/actors/owner",
+      "cat-harness:agentSubject": "https://litlfred.github.io/folio-assistant/cat-harness/actor/owner",
+      "cat-harness:planSubject": "https://litlfred.github.io/folio-assistant/folio-assistant-core/process/Process_Editing/node/Task_CollateFindings",
+      "cat-harness:roleSubject": "https://litlfred.github.io/folio-assistant/cat-harness/role/validation-pipeline",
+      "plan": "https://litlfred.github.io/folio-assistant-core/v0/collab/processes/content/editing-hci-validation/Task_CollateFindings",
+      "role": "https://litlfred.github.io/cat-harness/v0/scenarios/roles/validation-pipeline"
+    },
+    {
+      "@id": "editing--prose-title-page#12",
+      "@type": "Activity",
+      "cat-harness:underPolicy": [
+        "https://litlfred.github.io/fhir-harness/policies/ig-publisher-service",
+        "https://litlfred.github.io/folio-assistant-core/policies/content-agents",
+        "https://litlfred.github.io/folio-assistant/policies/folio-defaults",
+        "https://litlfred.github.io/folio-assistant/policies/http-gateway"
+      ],
+      "startTime": "2026-11-17T07:42:39.785Z"
+    },
+    {
+      "@type": "Association",
+      "activity": "editing--prose-title-page#12",
+      "agent": "https://litlfred.github.io/cat-harness/v0/scenarios/actors/owner",
+      "cat-harness:agentSubject": "https://litlfred.github.io/folio-assistant/cat-harness/actor/owner",
+      "cat-harness:planSubject": "https://litlfred.github.io/folio-assistant/folio-assistant-core/process/Process_Editing/node/Task_LogFindings",
+      "cat-harness:roleSubject": "https://litlfred.github.io/folio-assistant/cat-harness/role/authoring-agent",
+      "plan": "https://litlfred.github.io/folio-assistant-core/v0/collab/processes/content/editing-hci-validation/Task_LogFindings",
+      "role": "https://litlfred.github.io/cat-harness/v0/scenarios/roles/authoring-agent"
+    },
+    {
+      "@id": "editing--prose-title-page#13",
+      "@type": "Activity",
+      "cat-harness:underPolicy": [
+        "https://litlfred.github.io/fhir-harness/policies/ig-publisher-service",
+        "https://litlfred.github.io/folio-assistant-core/policies/content-agents",
+        "https://litlfred.github.io/folio-assistant/policies/folio-defaults",
+        "https://litlfred.github.io/folio-assistant/policies/http-gateway"
+      ],
+      "startTime": "2026-11-17T07:54:01.439Z"
+    },
+    {
+      "@type": "Association",
+      "activity": "editing--prose-title-page#13",
+      "agent": "https://litlfred.github.io/cat-harness/v0/scenarios/actors/owner",
+      "cat-harness:agentSubject": "https://litlfred.github.io/folio-assistant/cat-harness/actor/owner",
+      "cat-harness:planSubject": "https://litlfred.github.io/folio-assistant/folio-assistant-core/process/Process_Editing/node/Task_ReviewFindings",
+      "cat-harness:roleSubject": "https://litlfred.github.io/folio-assistant/cat-harness/role/author",
+      "plan": "https://litlfred.github.io/folio-assistant-core/v0/collab/processes/content/editing-hci-validation/Task_ReviewFindings",
+      "role": "https://litlfred.github.io/cat-harness/v0/scenarios/roles/author"
+    },
+    {
+      "@id": "editing--prose-title-page#14",
+      "@type": "Activity",
+      "cat-harness:underPolicy": [
+        "https://litlfred.github.io/folio-assistant/policies/folio-defaults",
+        "https://litlfred.github.io/folio-assistant/policies/http-gateway"
+      ],
+      "startTime": "2026-11-17T07:54:12.998Z"
+    },
+    {
+      "@type": "Association",
+      "activity": "editing--prose-title-page#14",
+      "agent": {
+        "@value": "litlfred"
+      },
+      "cat-harness:planSubject": "https://litlfred.github.io/folio-assistant/folio-assistant-core/process/Process_Editing/node/Call_OptionsAnalysis",
+      "cat-harness:roleSubject": "https://litlfred.github.io/folio-assistant/cat-harness/role/authoring-agent",
+      "plan": "https://litlfred.github.io/folio-assistant-core/v0/collab/processes/content/editing-hci-validation/Call_OptionsAnalysis",
+      "role": "https://litlfred.github.io/cat-harness/v0/scenarios/roles/authoring-agent"
+    },
+    {
+      "@id": "editing--prose-title-page#15",
+      "@type": "Activity",
+      "cat-harness:underPolicy": [
+        "https://litlfred.github.io/fhir-harness/policies/ig-publisher-service",
+        "https://litlfred.github.io/folio-assistant-core/policies/content-agents",
+        "https://litlfred.github.io/folio-assistant/policies/folio-defaults",
+        "https://litlfred.github.io/folio-assistant/policies/http-gateway"
+      ],
+      "startTime": "2026-11-17T11:51:18.332Z"
+    },
+    {
+      "@type": "Association",
+      "activity": "editing--prose-title-page#15",
+      "agent": "https://litlfred.github.io/cat-harness/v0/scenarios/actors/owner",
+      "cat-harness:agentSubject": "https://litlfred.github.io/folio-assistant/cat-harness/actor/owner",
+      "cat-harness:planSubject": "https://litlfred.github.io/folio-assistant/folio-assistant-core/process/Process_Editing/node/Task_RecordDecision",
+      "cat-harness:roleSubject": "https://litlfred.github.io/folio-assistant/cat-harness/role/author",
+      "plan": "https://litlfred.github.io/folio-assistant-core/v0/collab/processes/content/editing-hci-validation/Task_RecordDecision",
+      "role": "https://litlfred.github.io/cat-harness/v0/scenarios/roles/author"
+    },
+    {
+      "@id": "editing--prose-title-page#16",
+      "@type": "Activity",
+      "cat-harness:underPolicy": [
+        "https://litlfred.github.io/fhir-harness/policies/ig-publisher-service",
+        "https://litlfred.github.io/folio-assistant-core/policies/content-agents",
+        "https://litlfred.github.io/folio-assistant/policies/folio-defaults",
+        "https://litlfred.github.io/folio-assistant/policies/http-gateway"
+      ],
+      "startTime": "2026-11-17T11:51:20.902Z"
+    },
+    {
+      "@type": "Association",
+      "activity": "editing--prose-title-page#16",
+      "agent": "https://litlfred.github.io/cat-harness/v0/scenarios/actors/owner",
+      "cat-harness:agentSubject": "https://litlfred.github.io/folio-assistant/cat-harness/actor/owner",
+      "cat-harness:planSubject": "https://litlfred.github.io/folio-assistant/folio-assistant-core/process/Process_Editing/node/Gateway_EditorDecision",
+      "cat-harness:roleSubject": "https://litlfred.github.io/folio-assistant/cat-harness/role/author",
+      "plan": "https://litlfred.github.io/folio-assistant-core/v0/collab/processes/content/editing-hci-validation/Gateway_EditorDecision",
+      "role": "https://litlfred.github.io/cat-harness/v0/scenarios/roles/author"
+    },
+    {
+      "@id": "editing--prose-title-page#17",
+      "@type": "Activity",
+      "cat-harness:underPolicy": [
+        "https://litlfred.github.io/fhir-harness/policies/ig-publisher-service",
+        "https://litlfred.github.io/folio-assistant-core/policies/content-agents",
+        "https://litlfred.github.io/folio-assistant/policies/folio-defaults",
+        "https://litlfred.github.io/folio-assistant/policies/http-gateway"
+      ],
+      "startTime": "2026-11-17T11:51:56.638Z"
+    },
+    {
+      "@type": "Association",
+      "activity": "editing--prose-title-page#17",
+      "agent": "https://litlfred.github.io/cat-harness/v0/scenarios/actors/owner",
+      "cat-harness:agentSubject": "https://litlfred.github.io/folio-assistant/cat-harness/actor/owner",
+      "cat-harness:planSubject": "https://litlfred.github.io/folio-assistant/folio-assistant-core/process/Process_Editing/node/Task_ReviseEdit",
+      "cat-harness:roleSubject": "https://litlfred.github.io/folio-assistant/cat-harness/role/authoring-agent",
+      "plan": "https://litlfred.github.io/folio-assistant-core/v0/collab/processes/content/editing-hci-validation/Task_ReviseEdit",
+      "role": "https://litlfred.github.io/cat-harness/v0/scenarios/roles/authoring-agent"
+    },
+    {
+      "@id": "editing--prose-title-page#18",
+      "@type": "Activity",
+      "cat-harness:underPolicy": [
+        "https://litlfred.github.io/fhir-harness/policies/ig-publisher-service",
+        "https://litlfred.github.io/folio-assistant-core/policies/content-agents",
+        "https://litlfred.github.io/folio-assistant/policies/folio-defaults",
+        "https://litlfred.github.io/folio-assistant/policies/http-gateway"
+      ],
+      "startTime": "2026-11-17T11:52:28.500Z"
+    },
+    {
+      "@type": "Association",
+      "activity": "editing--prose-title-page#18",
+      "agent": "https://litlfred.github.io/cat-harness/v0/scenarios/actors/owner",
+      "cat-harness:agentSubject": "https://litlfred.github.io/folio-assistant/cat-harness/actor/owner",
+      "cat-harness:planSubject": "https://litlfred.github.io/folio-assistant/folio-assistant-core/process/Process_Editing/node/Task_SchemaValidate",
+      "cat-harness:roleSubject": "https://litlfred.github.io/folio-assistant/cat-harness/role/validation-pipeline",
+      "plan": "https://litlfred.github.io/folio-assistant-core/v0/collab/processes/content/editing-hci-validation/Task_SchemaValidate",
+      "role": "https://litlfred.github.io/cat-harness/v0/scenarios/roles/validation-pipeline"
+    },
+    {
+      "@id": "editing--prose-title-page#19",
+      "@type": "Activity",
+      "cat-harness:underPolicy": [
+        "https://litlfred.github.io/fhir-harness/policies/ig-publisher-service",
+        "https://litlfred.github.io/folio-assistant-core/policies/content-agents",
+        "https://litlfred.github.io/folio-assistant/policies/folio-defaults",
+        "https://litlfred.github.io/folio-assistant/policies/http-gateway"
+      ],
+      "startTime": "2026-11-17T11:52:31.486Z"
+    },
+    {
+      "@type": "Association",
+      "activity": "editing--prose-title-page#19",
+      "agent": "https://litlfred.github.io/cat-harness/v0/scenarios/actors/owner",
+      "cat-harness:agentSubject": "https://litlfred.github.io/folio-assistant/cat-harness/actor/owner",
+      "cat-harness:planSubject": "https://litlfred.github.io/folio-assistant/folio-assistant-core/process/Process_Editing/node/Task_SyntaxSpell",
+      "cat-harness:roleSubject": "https://litlfred.github.io/folio-assistant/cat-harness/role/validation-pipeline",
+      "plan": "https://litlfred.github.io/folio-assistant-core/v0/collab/processes/content/editing-hci-validation/Task_SyntaxSpell",
+      "role": "https://litlfred.github.io/cat-harness/v0/scenarios/roles/validation-pipeline"
+    },
+    {
+      "@id": "editing--prose-title-page#20",
+      "@type": "Activity",
+      "cat-harness:underPolicy": [
+        "https://litlfred.github.io/fhir-harness/policies/ig-publisher-service",
+        "https://litlfred.github.io/folio-assistant-core/policies/content-agents",
+        "https://litlfred.github.io/folio-assistant/policies/folio-defaults",
+        "https://litlfred.github.io/folio-assistant/policies/http-gateway"
+      ],
+      "startTime": "2026-11-17T11:52:34.308Z"
+    },
+    {
+      "@type": "Association",
+      "activity": "editing--prose-title-page#20",
+      "agent": "https://litlfred.github.io/cat-harness/v0/scenarios/actors/owner",
+      "cat-harness:agentSubject": "https://litlfred.github.io/folio-assistant/cat-harness/actor/owner",
+      "cat-harness:planSubject": "https://litlfred.github.io/folio-assistant/folio-assistant-core/process/Process_Editing/node/Task_BuildGates",
+      "cat-harness:roleSubject": "https://litlfred.github.io/folio-assistant/cat-harness/role/validation-pipeline",
+      "plan": "https://litlfred.github.io/folio-assistant-core/v0/collab/processes/content/editing-hci-validation/Task_BuildGates",
+      "role": "https://litlfred.github.io/cat-harness/v0/scenarios/roles/validation-pipeline"
+    },
+    {
+      "@id": "editing--prose-title-page#21",
+      "@type": "Activity",
+      "cat-harness:underPolicy": [
+        "https://litlfred.github.io/fhir-harness/policies/ig-publisher-service",
+        "https://litlfred.github.io/folio-assistant-core/policies/content-agents",
+        "https://litlfred.github.io/folio-assistant/policies/folio-defaults",
+        "https://litlfred.github.io/folio-assistant/policies/http-gateway"
+      ],
+      "startTime": "2026-11-17T11:52:43.366Z"
+    },
+    {
+      "@type": "Association",
+      "activity": "editing--prose-title-page#21",
+      "agent": "https://litlfred.github.io/cat-harness/v0/scenarios/actors/owner",
+      "cat-harness:agentSubject": "https://litlfred.github.io/folio-assistant/cat-harness/actor/owner",
+      "cat-harness:planSubject": "https://litlfred.github.io/folio-assistant/folio-assistant-core/process/Process_Editing/node/Gateway_ReviewerKind",
+      "cat-harness:roleSubject": "https://litlfred.github.io/folio-assistant/cat-harness/role/reviewer",
+      "plan": "https://litlfred.github.io/folio-assistant-core/v0/collab/processes/content/editing-hci-validation/Gateway_ReviewerKind",
+      "role": "https://litlfred.github.io/cat-harness/v0/scenarios/roles/reviewer"
+    },
+    {
+      "@id": "editing--prose-title-page#22",
+      "@type": "Activity",
+      "cat-harness:underPolicy": [
+        "https://litlfred.github.io/fhir-harness/policies/ig-publisher-service",
+        "https://litlfred.github.io/folio-assistant-core/policies/content-agents",
+        "https://litlfred.github.io/folio-assistant/policies/folio-defaults",
+        "https://litlfred.github.io/folio-assistant/policies/http-gateway"
+      ],
+      "startTime": "2026-11-17T11:52:46.080Z"
+    },
+    {
+      "@type": "Association",
+      "activity": "editing--prose-title-page#22",
+      "agent": "https://litlfred.github.io/cat-harness/v0/scenarios/actors/owner",
+      "cat-harness:agentSubject": "https://litlfred.github.io/folio-assistant/cat-harness/actor/owner",
+      "cat-harness:planSubject": "https://litlfred.github.io/folio-assistant/folio-assistant-core/process/Process_Editing/node/Task_AgentReview",
+      "cat-harness:roleSubject": "https://litlfred.github.io/folio-assistant/cat-harness/role/reviewer",
+      "plan": "https://litlfred.github.io/folio-assistant-core/v0/collab/processes/content/editing-hci-validation/Task_AgentReview",
+      "role": "https://litlfred.github.io/cat-harness/v0/scenarios/roles/reviewer"
+    },
+    {
+      "@id": "editing--prose-title-page#23",
+      "@type": "Activity",
+      "cat-harness:underPolicy": [
+        "https://litlfred.github.io/fhir-harness/policies/ig-publisher-service",
+        "https://litlfred.github.io/folio-assistant-core/policies/content-agents",
+        "https://litlfred.github.io/folio-assistant/policies/folio-defaults",
+        "https://litlfred.github.io/folio-assistant/policies/http-gateway"
+      ],
+      "startTime": "2026-11-17T11:52:48.675Z"
+    },
+    {
+      "@type": "Association",
+      "activity": "editing--prose-title-page#23",
+      "agent": "https://litlfred.github.io/cat-harness/v0/scenarios/actors/owner",
+      "cat-harness:agentSubject": "https://litlfred.github.io/folio-assistant/cat-harness/actor/owner",
+      "cat-harness:planSubject": "https://litlfred.github.io/folio-assistant/folio-assistant-core/process/Process_Editing/node/Task_CollateFindings",
+      "cat-harness:roleSubject": "https://litlfred.github.io/folio-assistant/cat-harness/role/validation-pipeline",
+      "plan": "https://litlfred.github.io/folio-assistant-core/v0/collab/processes/content/editing-hci-validation/Task_CollateFindings",
+      "role": "https://litlfred.github.io/cat-harness/v0/scenarios/roles/validation-pipeline"
+    },
+    {
+      "@id": "editing--prose-title-page#24",
+      "@type": "Activity",
+      "cat-harness:underPolicy": [
+        "https://litlfred.github.io/fhir-harness/policies/ig-publisher-service",
+        "https://litlfred.github.io/folio-assistant-core/policies/content-agents",
+        "https://litlfred.github.io/folio-assistant/policies/folio-defaults",
+        "https://litlfred.github.io/folio-assistant/policies/http-gateway"
+      ],
+      "startTime": "2026-11-17T11:52:56.681Z"
+    },
+    {
+      "@type": "Association",
+      "activity": "editing--prose-title-page#24",
+      "agent": "https://litlfred.github.io/cat-harness/v0/scenarios/actors/owner",
+      "cat-harness:agentSubject": "https://litlfred.github.io/folio-assistant/cat-harness/actor/owner",
+      "cat-harness:planSubject": "https://litlfred.github.io/folio-assistant/folio-assistant-core/process/Process_Editing/node/Task_LogFindings",
+      "cat-harness:roleSubject": "https://litlfred.github.io/folio-assistant/cat-harness/role/authoring-agent",
+      "plan": "https://litlfred.github.io/folio-assistant-core/v0/collab/processes/content/editing-hci-validation/Task_LogFindings",
+      "role": "https://litlfred.github.io/cat-harness/v0/scenarios/roles/authoring-agent"
+    },
+    {
+      "@id": "editing--prose-title-page#25",
+      "@type": "Activity",
+      "cat-harness:underPolicy": [
+        "https://litlfred.github.io/fhir-harness/policies/ig-publisher-service",
+        "https://litlfred.github.io/folio-assistant-core/policies/content-agents",
+        "https://litlfred.github.io/folio-assistant/policies/folio-defaults",
+        "https://litlfred.github.io/folio-assistant/policies/http-gateway"
+      ],
+      "startTime": "2026-11-17T11:52:59.716Z"
+    },
+    {
+      "@type": "Association",
+      "activity": "editing--prose-title-page#25",
+      "agent": "https://litlfred.github.io/cat-harness/v0/scenarios/actors/owner",
+      "cat-harness:agentSubject": "https://litlfred.github.io/folio-assistant/cat-harness/actor/owner",
+      "cat-harness:planSubject": "https://litlfred.github.io/folio-assistant/folio-assistant-core/process/Process_Editing/node/Task_ReviewFindings",
+      "cat-harness:roleSubject": "https://litlfred.github.io/folio-assistant/cat-harness/role/author",
+      "plan": "https://litlfred.github.io/folio-assistant-core/v0/collab/processes/content/editing-hci-validation/Task_ReviewFindings",
+      "role": "https://litlfred.github.io/cat-harness/v0/scenarios/roles/author"
+    },
+    {
+      "@id": "editing--prose-title-page#26",
+      "@type": "Activity",
+      "cat-harness:underPolicy": [
+        "https://litlfred.github.io/folio-assistant/policies/folio-defaults",
+        "https://litlfred.github.io/folio-assistant/policies/http-gateway"
+      ],
+      "startTime": "2026-11-17T11:53:13.810Z"
+    },
+    {
+      "@type": "Association",
+      "activity": "editing--prose-title-page#26",
+      "agent": {
+        "@value": "litlfred"
+      },
+      "cat-harness:planSubject": "https://litlfred.github.io/folio-assistant/folio-assistant-core/process/Process_Editing/node/Call_OptionsAnalysis",
+      "cat-harness:roleSubject": "https://litlfred.github.io/folio-assistant/cat-harness/role/authoring-agent",
+      "plan": "https://litlfred.github.io/folio-assistant-core/v0/collab/processes/content/editing-hci-validation/Call_OptionsAnalysis",
+      "role": "https://litlfred.github.io/cat-harness/v0/scenarios/roles/authoring-agent"
+    },
+    {
+      "@id": "editing--prose-title-page#27",
+      "@type": "Activity",
+      "cat-harness:underPolicy": [
+        "https://litlfred.github.io/fhir-harness/policies/ig-publisher-service",
+        "https://litlfred.github.io/folio-assistant-core/policies/content-agents",
+        "https://litlfred.github.io/folio-assistant/policies/folio-defaults",
+        "https://litlfred.github.io/folio-assistant/policies/http-gateway"
+      ],
+      "startTime": "2026-11-17T11:53:16.847Z"
+    },
+    {
+      "@type": "Association",
+      "activity": "editing--prose-title-page#27",
+      "agent": "https://litlfred.github.io/cat-harness/v0/scenarios/actors/owner",
+      "cat-harness:agentSubject": "https://litlfred.github.io/folio-assistant/cat-harness/actor/owner",
+      "cat-harness:planSubject": "https://litlfred.github.io/folio-assistant/folio-assistant-core/process/Process_Editing/node/Task_RecordDecision",
+      "cat-harness:roleSubject": "https://litlfred.github.io/folio-assistant/cat-harness/role/author",
+      "plan": "https://litlfred.github.io/folio-assistant-core/v0/collab/processes/content/editing-hci-validation/Task_RecordDecision",
+      "role": "https://litlfred.github.io/cat-harness/v0/scenarios/roles/author"
+    },
+    {
+      "@id": "editing--prose-title-page#28",
+      "@type": "Activity",
+      "cat-harness:underPolicy": [
+        "https://litlfred.github.io/fhir-harness/policies/ig-publisher-service",
+        "https://litlfred.github.io/folio-assistant-core/policies/content-agents",
+        "https://litlfred.github.io/folio-assistant/policies/folio-defaults",
+        "https://litlfred.github.io/folio-assistant/policies/http-gateway"
+      ],
+      "startTime": "2026-11-17T11:53:19.777Z"
+    },
+    {
+      "@type": "Association",
+      "activity": "editing--prose-title-page#28",
+      "agent": "https://litlfred.github.io/cat-harness/v0/scenarios/actors/owner",
+      "cat-harness:agentSubject": "https://litlfred.github.io/folio-assistant/cat-harness/actor/owner",
+      "cat-harness:planSubject": "https://litlfred.github.io/folio-assistant/folio-assistant-core/process/Process_Editing/node/Gateway_EditorDecision",
+      "cat-harness:roleSubject": "https://litlfred.github.io/folio-assistant/cat-harness/role/author",
+      "plan": "https://litlfred.github.io/folio-assistant-core/v0/collab/processes/content/editing-hci-validation/Gateway_EditorDecision",
+      "role": "https://litlfred.github.io/cat-harness/v0/scenarios/roles/author"
+    },
+    {
+      "@id": "editing--prose-title-page#29",
+      "@type": "Activity",
+      "cat-harness:underPolicy": [
+        "https://litlfred.github.io/fhir-harness/policies/ig-publisher-service",
+        "https://litlfred.github.io/folio-assistant-core/policies/content-agents",
+        "https://litlfred.github.io/folio-assistant/policies/folio-defaults",
+        "https://litlfred.github.io/folio-assistant/policies/http-gateway"
+      ],
+      "startTime": "2026-11-17T16:40:05.528Z"
+    },
+    {
+      "@type": "Association",
+      "activity": "editing--prose-title-page#29",
+      "agent": "https://litlfred.github.io/cat-harness/v0/scenarios/actors/owner",
+      "cat-harness:agentSubject": "https://litlfred.github.io/folio-assistant/cat-harness/actor/owner",
+      "cat-harness:planSubject": "https://litlfred.github.io/folio-assistant/folio-assistant-core/process/Process_Editing/node/Task_Commit",
+      "cat-harness:roleSubject": "https://litlfred.github.io/folio-assistant/cat-harness/role/authoring-agent",
+      "plan": "https://litlfred.github.io/folio-assistant-core/v0/collab/processes/content/editing-hci-validation/Task_Commit",
+      "role": "https://litlfred.github.io/cat-harness/v0/scenarios/roles/authoring-agent"
+    },
+    {
+      "@id": "editing--prose-title-page#30",
+      "@type": "Activity",
+      "cat-harness:underPolicy": [
+        "https://litlfred.github.io/folio-assistant/policies/folio-defaults",
+        "https://litlfred.github.io/folio-assistant/policies/http-gateway"
+      ],
+      "startTime": "2026-11-17T16:40:46.339Z"
+    },
+    {
+      "@type": "Association",
+      "activity": "editing--prose-title-page#30",
+      "agent": {
+        "@value": "litlfred"
+      },
+      "cat-harness:planSubject": "https://litlfred.github.io/folio-assistant/folio-assistant-core/process/Process_Editing/node/Task_ResolveBean",
+      "cat-harness:roleSubject": "https://litlfred.github.io/folio-assistant/cat-harness/role/authoring-agent",
+      "plan": "https://litlfred.github.io/folio-assistant-core/v0/collab/processes/content/editing-hci-validation/Task_ResolveBean",
+      "role": "https://litlfred.github.io/cat-harness/v0/scenarios/roles/authoring-agent"
+    },
+    {
+      "@id": "editing--prose-title-page#31",
+      "@type": "Activity",
+      "cat-harness:underPolicy": [
+        "https://litlfred.github.io/fhir-harness/policies/ig-publisher-service",
+        "https://litlfred.github.io/folio-assistant-core/policies/content-agents",
+        "https://litlfred.github.io/folio-assistant/policies/folio-defaults",
+        "https://litlfred.github.io/folio-assistant/policies/http-gateway"
+      ],
+      "startTime": "2026-11-17T16:40:58.834Z"
+    },
+    {
+      "@type": "Association",
+      "activity": "editing--prose-title-page#31",
+      "agent": "https://litlfred.github.io/cat-harness/v0/scenarios/actors/owner",
+      "cat-harness:agentSubject": "https://litlfred.github.io/folio-assistant/cat-harness/actor/owner",
+      "cat-harness:planSubject": "https://litlfred.github.io/folio-assistant/folio-assistant-core/process/Process_Editing/node/GW_BeanClosedHow",
+      "cat-harness:roleSubject": "https://litlfred.github.io/folio-assistant/cat-harness/role/authoring-agent",
+      "plan": "https://litlfred.github.io/folio-assistant-core/v0/collab/processes/content/editing-hci-validation/GW_BeanClosedHow",
+      "role": "https://litlfred.github.io/cat-harness/v0/scenarios/roles/authoring-agent"
+    },
+    {
+      "@id": "editing--prose-title-page/CallActivity_Evidence#1",
+      "@type": "Activity",
+      "cat-harness:underPolicy": [
+        "https://litlfred.github.io/fhir-harness/policies/ig-publisher-service",
+        "https://litlfred.github.io/folio-assistant-core/policies/content-agents",
+        "https://litlfred.github.io/folio-assistant/policies/folio-defaults",
+        "https://litlfred.github.io/folio-assistant/policies/http-gateway"
+      ],
+      "startTime": "2026-11-17T07:40:19.527Z"
+    },
+    {
+      "@type": "Association",
+      "activity": "editing--prose-title-page/CallActivity_Evidence#1",
+      "agent": "https://litlfred.github.io/cat-harness/v0/scenarios/actors/owner",
+      "cat-harness:agentSubject": "https://litlfred.github.io/folio-assistant/cat-harness/actor/owner",
+      "cat-harness:planSubject": "https://litlfred.github.io/folio-assistant/folio-assistant-core/process/Process_EvidenceRetrieval/node/Gateway_RecommendationInPlay",
+      "cat-harness:roleSubject": "https://litlfred.github.io/folio-assistant/cat-harness/role/author",
+      "plan": "https://litlfred.github.io/folio-assistant-core/v0/collab/processes/content/evidence-retrieval/Gateway_RecommendationInPlay",
+      "role": "https://litlfred.github.io/cat-harness/v0/scenarios/roles/author"
+    },
+    {
+      "@id": "editing--prose-title-page/Call_OptionsAnalysis#1",
+      "@type": "Activity",
+      "cat-harness:underPolicy": [
+        "https://litlfred.github.io/fhir-harness/policies/ig-publisher-service",
+        "https://litlfred.github.io/folio-assistant-core/policies/content-agents",
+        "https://litlfred.github.io/folio-assistant/policies/folio-defaults",
+        "https://litlfred.github.io/folio-assistant/policies/http-gateway"
+      ],
+      "startTime": "2026-11-17T11:53:10.811Z"
+    },
+    {
+      "@type": "Association",
+      "activity": "editing--prose-title-page/Call_OptionsAnalysis#1",
+      "agent": "https://litlfred.github.io/cat-harness/v0/scenarios/actors/owner",
+      "cat-harness:agentSubject": "https://litlfred.github.io/folio-assistant/cat-harness/actor/owner",
+      "cat-harness:planSubject": "https://litlfred.github.io/folio-assistant/cat-harness/process/Process_OptionsAnalysis/node/A_Frame",
+      "cat-harness:roleSubject": "https://litlfred.github.io/folio-assistant/cat-harness/role/business-analyst",
+      "plan": "https://litlfred.github.io/cat-harness/v0/processes/process/options-analysis/A_Frame",
+      "role": "https://litlfred.github.io/cat-harness/v0/scenarios/roles/business-analyst"
+    },
+    {
+      "@id": "editing--prose-title-page/Call_OptionsAnalysis#2",
+      "@type": "Activity",
+      "cat-harness:underPolicy": [
+        "https://litlfred.github.io/fhir-harness/policies/ig-publisher-service",
+        "https://litlfred.github.io/folio-assistant-core/policies/content-agents",
+        "https://litlfred.github.io/folio-assistant/policies/folio-defaults",
+        "https://litlfred.github.io/folio-assistant/policies/http-gateway"
+      ],
+      "startTime": "2026-11-17T11:53:13.807Z"
+    },
+    {
+      "@type": "Association",
+      "activity": "editing--prose-title-page/Call_OptionsAnalysis#2",
+      "agent": "https://litlfred.github.io/cat-harness/v0/scenarios/actors/owner",
+      "cat-harness:agentSubject": "https://litlfred.github.io/folio-assistant/cat-harness/actor/owner",
+      "cat-harness:planSubject": "https://litlfred.github.io/folio-assistant/cat-harness/process/Process_OptionsAnalysis/node/GW_Trigger",
+      "cat-harness:roleSubject": "https://litlfred.github.io/folio-assistant/cat-harness/role/business-analyst",
+      "plan": "https://litlfred.github.io/cat-harness/v0/processes/process/options-analysis/GW_Trigger",
+      "role": "https://litlfred.github.io/cat-harness/v0/scenarios/roles/business-analyst"
+    },
+    {
+      "@id": "editing--prose-title-page/Task_ClaimBean#1",
+      "@type": "Activity",
+      "cat-harness:underPolicy": [
+        "https://litlfred.github.io/fhir-harness/policies/ig-publisher-service",
+        "https://litlfred.github.io/folio-assistant-core/policies/content-agents",
+        "https://litlfred.github.io/folio-assistant/policies/folio-defaults",
+        "https://litlfred.github.io/folio-assistant/policies/http-gateway"
+      ],
+      "startTime": "2026-11-17T07:39:46.416Z"
+    },
+    {
+      "@type": "Association",
+      "activity": "editing--prose-title-page/Task_ClaimBean#1",
+      "agent": "https://litlfred.github.io/cat-harness/v0/scenarios/actors/owner",
+      "cat-harness:agentSubject": "https://litlfred.github.io/folio-assistant/cat-harness/actor/owner",
+      "cat-harness:planSubject": "https://litlfred.github.io/folio-assistant/cat-harness/process/Process_BeanOpen/node/Open_CheckExists",
+      "cat-harness:roleSubject": "https://litlfred.github.io/folio-assistant/cat-harness/role/authoring-agent",
+      "plan": "https://litlfred.github.io/cat-harness/v0/sdlc/processes/bean-open/Open_CheckExists",
+      "role": "https://litlfred.github.io/cat-harness/v0/scenarios/roles/authoring-agent"
+    },
+    {
+      "@id": "editing--prose-title-page/Task_ClaimBean#2",
+      "@type": "Activity",
+      "cat-harness:underPolicy": [
+        "https://litlfred.github.io/fhir-harness/policies/ig-publisher-service",
+        "https://litlfred.github.io/folio-assistant-core/policies/content-agents",
+        "https://litlfred.github.io/folio-assistant/policies/folio-defaults",
+        "https://litlfred.github.io/folio-assistant/policies/http-gateway"
+      ],
+      "startTime": "2026-11-17T07:39:51.250Z"
+    },
+    {
+      "@type": "Association",
+      "activity": "editing--prose-title-page/Task_ClaimBean#2",
+      "agent": "https://litlfred.github.io/cat-harness/v0/scenarios/actors/owner",
+      "cat-harness:agentSubject": "https://litlfred.github.io/folio-assistant/cat-harness/actor/owner",
+      "cat-harness:planSubject": "https://litlfred.github.io/folio-assistant/cat-harness/process/Process_BeanOpen/node/Open_Exists",
+      "cat-harness:roleSubject": "https://litlfred.github.io/folio-assistant/cat-harness/role/authoring-agent",
+      "plan": "https://litlfred.github.io/cat-harness/v0/sdlc/processes/bean-open/Open_Exists",
+      "role": "https://litlfred.github.io/cat-harness/v0/scenarios/roles/authoring-agent"
+    },
+    {
+      "@id": "editing--prose-title-page/Task_ClaimBean#3",
+      "@type": "Activity",
+      "cat-harness:underPolicy": [
+        "https://litlfred.github.io/fhir-harness/policies/ig-publisher-service",
+        "https://litlfred.github.io/folio-assistant-core/policies/content-agents",
+        "https://litlfred.github.io/folio-assistant/policies/folio-defaults",
+        "https://litlfred.github.io/folio-assistant/policies/http-gateway"
+      ],
+      "startTime": "2026-11-17T07:40:02.611Z"
+    },
+    {
+      "@type": "Association",
+      "activity": "editing--prose-title-page/Task_ClaimBean#3",
+      "agent": "https://litlfred.github.io/cat-harness/v0/scenarios/actors/owner",
+      "cat-harness:agentSubject": "https://litlfred.github.io/folio-assistant/cat-harness/actor/owner",
+      "cat-harness:planSubject": "https://litlfred.github.io/folio-assistant/cat-harness/process/Process_BeanOpen/node/Open_Create",
+      "cat-harness:roleSubject": "https://litlfred.github.io/folio-assistant/cat-harness/role/authoring-agent",
+      "plan": "https://litlfred.github.io/cat-harness/v0/sdlc/processes/bean-open/Open_Create",
+      "role": "https://litlfred.github.io/cat-harness/v0/scenarios/roles/authoring-agent"
+    },
+    {
+      "@id": "editing--prose-title-page/Task_ClaimBean#4",
+      "@type": "Activity",
+      "cat-harness:underPolicy": [
+        "https://litlfred.github.io/fhir-harness/policies/ig-publisher-service",
+        "https://litlfred.github.io/folio-assistant-core/policies/content-agents",
+        "https://litlfred.github.io/folio-assistant/policies/folio-defaults",
+        "https://litlfred.github.io/folio-assistant/policies/http-gateway"
+      ],
+      "startTime": "2026-11-17T07:40:08.036Z"
+    },
+    {
+      "@type": "Association",
+      "activity": "editing--prose-title-page/Task_ClaimBean#4",
+      "agent": "https://litlfred.github.io/cat-harness/v0/scenarios/actors/owner",
+      "cat-harness:agentSubject": "https://litlfred.github.io/folio-assistant/cat-harness/actor/owner",
+      "cat-harness:planSubject": "https://litlfred.github.io/folio-assistant/cat-harness/process/Process_BeanOpen/node/Open_Claim",
+      "cat-harness:roleSubject": "https://litlfred.github.io/folio-assistant/cat-harness/role/authoring-agent",
+      "plan": "https://litlfred.github.io/cat-harness/v0/sdlc/processes/bean-open/Open_Claim",
+      "role": "https://litlfred.github.io/cat-harness/v0/scenarios/roles/authoring-agent"
+    },
+    {
+      "@id": "editing--prose-title-page/Task_ResolveBean#1",
+      "@type": "Activity",
+      "cat-harness:underPolicy": [
+        "https://litlfred.github.io/fhir-harness/policies/ig-publisher-service",
+        "https://litlfred.github.io/folio-assistant-core/policies/content-agents",
+        "https://litlfred.github.io/folio-assistant/policies/folio-defaults",
+        "https://litlfred.github.io/folio-assistant/policies/http-gateway"
+      ],
+      "startTime": "2026-11-17T16:40:15.786Z"
+    },
+    {
+      "@type": "Association",
+      "activity": "editing--prose-title-page/Task_ResolveBean#1",
+      "agent": "https://litlfred.github.io/cat-harness/v0/scenarios/actors/owner",
+      "cat-harness:agentSubject": "https://litlfred.github.io/folio-assistant/cat-harness/actor/owner",
+      "cat-harness:planSubject": "https://litlfred.github.io/folio-assistant/cat-harness/process/Process_BeanClose/node/Close_Outcome",
+      "cat-harness:roleSubject": "https://litlfred.github.io/folio-assistant/cat-harness/role/authoring-agent",
+      "plan": "https://litlfred.github.io/cat-harness/v0/sdlc/processes/bean-close/Close_Outcome",
+      "role": "https://litlfred.github.io/cat-harness/v0/scenarios/roles/authoring-agent"
+    },
+    {
+      "@id": "editing--prose-title-page/Task_ResolveBean#2",
+      "@type": "Activity",
+      "cat-harness:underPolicy": [
+        "https://litlfred.github.io/fhir-harness/policies/ig-publisher-service",
+        "https://litlfred.github.io/folio-assistant-core/policies/content-agents",
+        "https://litlfred.github.io/folio-assistant/policies/folio-defaults",
+        "https://litlfred.github.io/folio-assistant/policies/http-gateway"
+      ],
+      "startTime": "2026-11-17T16:40:32.945Z"
+    },
+    {
+      "@type": "Association",
+      "activity": "editing--prose-title-page/Task_ResolveBean#2",
+      "agent": "https://litlfred.github.io/cat-harness/v0/scenarios/actors/owner",
+      "cat-harness:agentSubject": "https://litlfred.github.io/folio-assistant/cat-harness/actor/owner",
+      "cat-harness:planSubject": "https://litlfred.github.io/folio-assistant/cat-harness/process/Process_BeanClose/node/Close_Complete",
+      "cat-harness:roleSubject": "https://litlfred.github.io/folio-assistant/cat-harness/role/authoring-agent",
+      "plan": "https://litlfred.github.io/cat-harness/v0/sdlc/processes/bean-close/Close_Complete",
+      "role": "https://litlfred.github.io/cat-harness/v0/scenarios/roles/authoring-agent"
+    },
+    {
+      "@id": "editing--prose-title-page/Task_ResolveBean#3",
+      "@type": "Activity",
+      "cat-harness:underPolicy": [
+        "https://litlfred.github.io/fhir-harness/policies/ig-publisher-service",
+        "https://litlfred.github.io/folio-assistant-core/policies/content-agents",
+        "https://litlfred.github.io/folio-assistant/policies/folio-defaults",
+        "https://litlfred.github.io/folio-assistant/policies/http-gateway"
+      ],
+      "startTime": "2026-11-17T16:40:46.337Z"
+    },
+    {
+      "@type": "Association",
+      "activity": "editing--prose-title-page/Task_ResolveBean#3",
+      "agent": "https://litlfred.github.io/cat-harness/v0/scenarios/actors/owner",
+      "cat-harness:agentSubject": "https://litlfred.github.io/folio-assistant/cat-harness/actor/owner",
+      "cat-harness:planSubject": "https://litlfred.github.io/folio-assistant/cat-harness/process/Process_BeanClose/node/Close_Archive",
+      "cat-harness:roleSubject": "https://litlfred.github.io/folio-assistant/cat-harness/role/authoring-agent",
+      "plan": "https://litlfred.github.io/cat-harness/v0/sdlc/processes/bean-close/Close_Archive",
+      "role": "https://litlfred.github.io/cat-harness/v0/scenarios/roles/authoring-agent"
+    }
+  ],
+  "@id": "editing--prose-title-page"
+}
