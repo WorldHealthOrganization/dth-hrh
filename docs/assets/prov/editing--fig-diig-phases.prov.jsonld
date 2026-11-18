@@ -1,0 +1,294 @@
+{
+  "@context": [
+    "https://openprovenance.org/prov-jsonld/context.jsonld",
+    {
+      "@base": "https://litlfred.github.io/folio/",
+      "cat-harness": "https://litlfred.github.io/cat-harness/v0/ns/",
+      "cat-harness:agentSubject": {
+        "@type": "@id"
+      },
+      "cat-harness:planSubject": {
+        "@type": "@id"
+      },
+      "cat-harness:roleSubject": {
+        "@type": "@id"
+      },
+      "cat-harness:underPolicy": {
+        "@type": "@id"
+      }
+    }
+  ],
+  "@graph": [
+    {
+      "@id": "editing--fig-diig-phases#0",
+      "@type": "Activity",
+      "cat-harness:underPolicy": [
+        "https://litlfred.github.io/folio-assistant/policies/folio-defaults",
+        "https://litlfred.github.io/folio-assistant/policies/http-gateway"
+      ],
+      "startTime": "2026-10-31T21:00:00.000Z"
+    },
+    {
+      "@type": "Association",
+      "activity": "editing--fig-diig-phases#0",
+      "agent": {
+        "@value": "litlfred"
+      },
+      "cat-harness:planSubject": "https://litlfred.github.io/folio-assistant/folio-assistant-core/process/Process_Editing/node/Task_DescribeChange",
+      "cat-harness:roleSubject": "https://litlfred.github.io/folio-assistant/cat-harness/role/author",
+      "plan": "https://litlfred.github.io/folio-assistant-core/v0/collab/processes/content/editing-hci-validation/Task_DescribeChange",
+      "role": "https://litlfred.github.io/cat-harness/v0/scenarios/roles/author"
+    },
+    {
+      "@id": "editing--fig-diig-phases#1",
+      "@type": "Activity",
+      "cat-harness:underPolicy": [
+        "https://litlfred.github.io/folio-assistant/policies/folio-defaults",
+        "https://litlfred.github.io/folio-assistant/policies/http-gateway"
+      ],
+      "startTime": "2026-10-31T21:05:00.000Z"
+    },
+    {
+      "@type": "Association",
+      "activity": "editing--fig-diig-phases#1",
+      "agent": "https://litlfred.github.io/cat-harness/v0/scenarios/actors/claude",
+      "cat-harness:agentSubject": "https://litlfred.github.io/folio-assistant/cat-harness/actor/claude",
+      "cat-harness:planSubject": "https://litlfred.github.io/folio-assistant/folio-assistant-core/process/Process_Editing/node/Task_DraftEdit",
+      "cat-harness:roleSubject": "https://litlfred.github.io/folio-assistant/cat-harness/role/authoring-agent",
+      "plan": "https://litlfred.github.io/folio-assistant-core/v0/collab/processes/content/editing-hci-validation/Task_DraftEdit",
+      "role": "https://litlfred.github.io/cat-harness/v0/scenarios/roles/authoring-agent"
+    },
+    {
+      "@id": "editing--fig-diig-phases#2",
+      "@type": "Activity",
+      "cat-harness:underPolicy": [
+        "https://litlfred.github.io/folio-assistant/policies/folio-defaults",
+        "https://litlfred.github.io/folio-assistant/policies/http-gateway"
+      ],
+      "startTime": "2026-10-31T21:10:00.000Z"
+    },
+    {
+      "@type": "Association",
+      "activity": "editing--fig-diig-phases#2",
+      "agent": "https://litlfred.github.io/cat-harness/v0/scenarios/actors/claude",
+      "cat-harness:agentSubject": "https://litlfred.github.io/folio-assistant/cat-harness/actor/claude",
+      "cat-harness:planSubject": "https://litlfred.github.io/folio-assistant/folio-assistant-core/process/Process_Editing/node/Task_SchemaValidate",
+      "cat-harness:roleSubject": "https://litlfred.github.io/folio-assistant/cat-harness/role/validation-pipeline",
+      "plan": "https://litlfred.github.io/folio-assistant-core/v0/collab/processes/content/editing-hci-validation/Task_SchemaValidate",
+      "role": "https://litlfred.github.io/cat-harness/v0/scenarios/roles/validation-pipeline"
+    },
+    {
+      "@id": "editing--fig-diig-phases#3",
+      "@type": "Activity",
+      "cat-harness:underPolicy": [
+        "https://litlfred.github.io/folio-assistant/policies/folio-defaults",
+        "https://litlfred.github.io/folio-assistant/policies/http-gateway"
+      ],
+      "startTime": "2026-10-31T21:10:00.000Z"
+    },
+    {
+      "@type": "Association",
+      "activity": "editing--fig-diig-phases#3",
+      "agent": "https://litlfred.github.io/cat-harness/v0/scenarios/actors/claude",
+      "cat-harness:agentSubject": "https://litlfred.github.io/folio-assistant/cat-harness/actor/claude",
+      "cat-harness:planSubject": "https://litlfred.github.io/folio-assistant/folio-assistant-core/process/Process_Editing/node/Task_SyntaxSpell",
+      "cat-harness:roleSubject": "https://litlfred.github.io/folio-assistant/cat-harness/role/validation-pipeline",
+      "plan": "https://litlfred.github.io/folio-assistant-core/v0/collab/processes/content/editing-hci-validation/Task_SyntaxSpell",
+      "role": "https://litlfred.github.io/cat-harness/v0/scenarios/roles/validation-pipeline"
+    },
+    {
+      "@id": "editing--fig-diig-phases#4",
+      "@type": "Activity",
+      "cat-harness:underPolicy": [
+        "https://litlfred.github.io/folio-assistant/policies/folio-defaults",
+        "https://litlfred.github.io/folio-assistant/policies/http-gateway"
+      ],
+      "startTime": "2026-10-31T21:10:00.000Z"
+    },
+    {
+      "@type": "Association",
+      "activity": "editing--fig-diig-phases#4",
+      "agent": "https://litlfred.github.io/cat-harness/v0/scenarios/actors/claude",
+      "cat-harness:agentSubject": "https://litlfred.github.io/folio-assistant/cat-harness/actor/claude",
+      "cat-harness:planSubject": "https://litlfred.github.io/folio-assistant/folio-assistant-core/process/Process_Editing/node/Task_BuildGates",
+      "cat-harness:roleSubject": "https://litlfred.github.io/folio-assistant/cat-harness/role/validation-pipeline",
+      "plan": "https://litlfred.github.io/folio-assistant-core/v0/collab/processes/content/editing-hci-validation/Task_BuildGates",
+      "role": "https://litlfred.github.io/cat-harness/v0/scenarios/roles/validation-pipeline"
+    },
+    {
+      "@id": "editing--fig-diig-phases#5",
+      "@type": "Activity",
+      "cat-harness:underPolicy": [
+        "https://litlfred.github.io/folio-assistant/policies/folio-defaults",
+        "https://litlfred.github.io/folio-assistant/policies/http-gateway"
+      ],
+      "startTime": "2026-10-31T21:12:00.000Z"
+    },
+    {
+      "@type": "Association",
+      "activity": "editing--fig-diig-phases#5",
+      "agent": "https://litlfred.github.io/cat-harness/v0/scenarios/actors/claude",
+      "cat-harness:agentSubject": "https://litlfred.github.io/folio-assistant/cat-harness/actor/claude",
+      "cat-harness:planSubject": "https://litlfred.github.io/folio-assistant/folio-assistant-core/process/Process_Editing/node/Gateway_ReviewerKind",
+      "cat-harness:roleSubject": "https://litlfred.github.io/folio-assistant/cat-harness/role/reviewer",
+      "plan": "https://litlfred.github.io/folio-assistant-core/v0/collab/processes/content/editing-hci-validation/Gateway_ReviewerKind",
+      "role": "https://litlfred.github.io/cat-harness/v0/scenarios/roles/reviewer"
+    },
+    {
+      "@id": "editing--fig-diig-phases#6",
+      "@type": "Activity",
+      "cat-harness:underPolicy": [
+        "https://litlfred.github.io/folio-assistant/policies/folio-defaults",
+        "https://litlfred.github.io/folio-assistant/policies/http-gateway"
+      ],
+      "startTime": "2026-10-31T21:14:00.000Z"
+    },
+    {
+      "@type": "Association",
+      "activity": "editing--fig-diig-phases#6",
+      "agent": "https://litlfred.github.io/cat-harness/v0/scenarios/actors/claude",
+      "cat-harness:agentSubject": "https://litlfred.github.io/folio-assistant/cat-harness/actor/claude",
+      "cat-harness:planSubject": "https://litlfred.github.io/folio-assistant/folio-assistant-core/process/Process_Editing/node/Task_AgentReview",
+      "cat-harness:roleSubject": "https://litlfred.github.io/folio-assistant/cat-harness/role/reviewer",
+      "plan": "https://litlfred.github.io/folio-assistant-core/v0/collab/processes/content/editing-hci-validation/Task_AgentReview",
+      "role": "https://litlfred.github.io/cat-harness/v0/scenarios/roles/reviewer"
+    },
+    {
+      "@id": "editing--fig-diig-phases#7",
+      "@type": "Activity",
+      "cat-harness:underPolicy": [
+        "https://litlfred.github.io/folio-assistant/policies/folio-defaults",
+        "https://litlfred.github.io/folio-assistant/policies/http-gateway"
+      ],
+      "startTime": "2026-10-31T21:15:00.000Z"
+    },
+    {
+      "@type": "Association",
+      "activity": "editing--fig-diig-phases#7",
+      "agent": "https://litlfred.github.io/cat-harness/v0/scenarios/actors/claude",
+      "cat-harness:agentSubject": "https://litlfred.github.io/folio-assistant/cat-harness/actor/claude",
+      "cat-harness:planSubject": "https://litlfred.github.io/folio-assistant/folio-assistant-core/process/Process_Editing/node/Task_CollateFindings",
+      "cat-harness:roleSubject": "https://litlfred.github.io/folio-assistant/cat-harness/role/validation-pipeline",
+      "plan": "https://litlfred.github.io/folio-assistant-core/v0/collab/processes/content/editing-hci-validation/Task_CollateFindings",
+      "role": "https://litlfred.github.io/cat-harness/v0/scenarios/roles/validation-pipeline"
+    },
+    {
+      "@id": "editing--fig-diig-phases#8",
+      "@type": "Activity",
+      "cat-harness:underPolicy": [
+        "https://litlfred.github.io/folio-assistant/policies/folio-defaults",
+        "https://litlfred.github.io/folio-assistant/policies/http-gateway"
+      ],
+      "startTime": "2026-10-31T21:16:00.000Z"
+    },
+    {
+      "@type": "Association",
+      "activity": "editing--fig-diig-phases#8",
+      "agent": "https://litlfred.github.io/cat-harness/v0/scenarios/actors/claude",
+      "cat-harness:agentSubject": "https://litlfred.github.io/folio-assistant/cat-harness/actor/claude",
+      "cat-harness:planSubject": "https://litlfred.github.io/folio-assistant/folio-assistant-core/process/Process_Editing/node/Task_LogFindings",
+      "cat-harness:roleSubject": "https://litlfred.github.io/folio-assistant/cat-harness/role/authoring-agent",
+      "plan": "https://litlfred.github.io/folio-assistant-core/v0/collab/processes/content/editing-hci-validation/Task_LogFindings",
+      "role": "https://litlfred.github.io/cat-harness/v0/scenarios/roles/authoring-agent"
+    },
+    {
+      "@id": "editing--fig-diig-phases#9",
+      "@type": "Activity",
+      "cat-harness:underPolicy": [
+        "https://litlfred.github.io/folio-assistant/policies/folio-defaults",
+        "https://litlfred.github.io/folio-assistant/policies/http-gateway"
+      ],
+      "startTime": "2026-10-31T21:18:00.000Z"
+    },
+    {
+      "@type": "Association",
+      "activity": "editing--fig-diig-phases#9",
+      "agent": {
+        "@value": "litlfred"
+      },
+      "cat-harness:planSubject": "https://litlfred.github.io/folio-assistant/folio-assistant-core/process/Process_Editing/node/Task_ReviewFindings",
+      "cat-harness:roleSubject": "https://litlfred.github.io/folio-assistant/cat-harness/role/author",
+      "plan": "https://litlfred.github.io/folio-assistant-core/v0/collab/processes/content/editing-hci-validation/Task_ReviewFindings",
+      "role": "https://litlfred.github.io/cat-harness/v0/scenarios/roles/author"
+    },
+    {
+      "@id": "editing--fig-diig-phases#10",
+      "@type": "Activity",
+      "cat-harness:underPolicy": [
+        "https://litlfred.github.io/folio-assistant/policies/folio-defaults",
+        "https://litlfred.github.io/folio-assistant/policies/http-gateway"
+      ],
+      "startTime": "2026-10-31T21:19:00.000Z"
+    },
+    {
+      "@type": "Association",
+      "activity": "editing--fig-diig-phases#10",
+      "agent": {
+        "@value": "litlfred"
+      },
+      "cat-harness:planSubject": "https://litlfred.github.io/folio-assistant/folio-assistant-core/process/Process_Editing/node/Task_RecordDecision",
+      "cat-harness:roleSubject": "https://litlfred.github.io/folio-assistant/cat-harness/role/author",
+      "plan": "https://litlfred.github.io/folio-assistant-core/v0/collab/processes/content/editing-hci-validation/Task_RecordDecision",
+      "role": "https://litlfred.github.io/cat-harness/v0/scenarios/roles/author"
+    },
+    {
+      "@id": "editing--fig-diig-phases#11",
+      "@type": "Activity",
+      "cat-harness:underPolicy": [
+        "https://litlfred.github.io/folio-assistant/policies/folio-defaults",
+        "https://litlfred.github.io/folio-assistant/policies/http-gateway"
+      ],
+      "startTime": "2026-10-31T21:19:30.000Z"
+    },
+    {
+      "@type": "Association",
+      "activity": "editing--fig-diig-phases#11",
+      "agent": {
+        "@value": "litlfred"
+      },
+      "cat-harness:planSubject": "https://litlfred.github.io/folio-assistant/folio-assistant-core/process/Process_Editing/node/Gateway_EditorDecision",
+      "cat-harness:roleSubject": "https://litlfred.github.io/folio-assistant/cat-harness/role/author",
+      "plan": "https://litlfred.github.io/folio-assistant-core/v0/collab/processes/content/editing-hci-validation/Gateway_EditorDecision",
+      "role": "https://litlfred.github.io/cat-harness/v0/scenarios/roles/author"
+    },
+    {
+      "@id": "editing--fig-diig-phases#12",
+      "@type": "Activity",
+      "cat-harness:underPolicy": [
+        "https://litlfred.github.io/folio-assistant/policies/folio-defaults",
+        "https://litlfred.github.io/folio-assistant/policies/http-gateway"
+      ],
+      "startTime": "2026-10-31T21:20:00.000Z"
+    },
+    {
+      "@type": "Association",
+      "activity": "editing--fig-diig-phases#12",
+      "agent": "https://litlfred.github.io/cat-harness/v0/scenarios/actors/claude",
+      "cat-harness:agentSubject": "https://litlfred.github.io/folio-assistant/cat-harness/actor/claude",
+      "cat-harness:planSubject": "https://litlfred.github.io/folio-assistant/folio-assistant-core/process/Process_Editing/node/Task_Commit",
+      "cat-harness:roleSubject": "https://litlfred.github.io/folio-assistant/cat-harness/role/authoring-agent",
+      "plan": "https://litlfred.github.io/folio-assistant-core/v0/collab/processes/content/editing-hci-validation/Task_Commit",
+      "role": "https://litlfred.github.io/cat-harness/v0/scenarios/roles/authoring-agent"
+    },
+    {
+      "@id": "editing--fig-diig-phases#13",
+      "@type": "Activity",
+      "cat-harness:underPolicy": [
+        "https://litlfred.github.io/folio-assistant/policies/folio-defaults",
+        "https://litlfred.github.io/folio-assistant/policies/http-gateway"
+      ],
+      "startTime": "2026-10-31T21:20:30.000Z"
+    },
+    {
+      "@type": "Association",
+      "activity": "editing--fig-diig-phases#13",
+      "agent": "https://litlfred.github.io/cat-harness/v0/scenarios/actors/claude",
+      "cat-harness:agentSubject": "https://litlfred.github.io/folio-assistant/cat-harness/actor/claude",
+      "cat-harness:planSubject": "https://litlfred.github.io/folio-assistant/folio-assistant-core/process/Process_Editing/node/Task_ResolveBean",
+      "cat-harness:roleSubject": "https://litlfred.github.io/folio-assistant/cat-harness/role/authoring-agent",
+      "plan": "https://litlfred.github.io/folio-assistant-core/v0/collab/processes/content/editing-hci-validation/Task_ResolveBean",
+      "role": "https://litlfred.github.io/cat-harness/v0/scenarios/roles/authoring-agent"
+    }
+  ],
+  "@id": "editing--fig-diig-phases"
+}
