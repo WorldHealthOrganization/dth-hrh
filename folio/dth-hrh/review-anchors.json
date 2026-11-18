@@ -1553,7 +1553,7 @@
    "sections": [
     "sec:4-3"
    ],
-   "hash": "8039be3a6cb3",
+   "hash": "503a7690199c",
    "excerpt": "Maintains a single authoritative registry record for a health worker from pre-service education through registration, active employment, payroll reconciliation ",
    "method": "folio-snapshot"
   },
@@ -1649,7 +1649,7 @@
    "sections": [
     "sec:5-1"
    ],
-   "hash": "88e9e33bd9ff",
+   "hash": "4e7e2479828b",
    "excerpt": "Person. A person whose job is to protect and improve the health of their community: holds a registration, licence and employment record in the registry, and nee",
    "method": "folio-snapshot"
   },
@@ -1661,7 +1661,7 @@
    "sections": [
     "sec:5-1"
    ],
-   "hash": "8b6cf36e8bd0",
+   "hash": "531e3137df81",
    "excerpt": "Person. Staff of a professional council or regulatory body who registers and licenses practitioners, records status changes and answers verification requests. D",
    "method": "folio-snapshot"
   },
@@ -1673,7 +1673,7 @@
    "sections": [
     "sec:5-1"
    ],
-   "hash": "261144469bda",
+   "hash": "7b0f41c6590a",
    "excerpt": "Person. Recruits, deploys and manages health workers for a public or private employer or facility; verifies credentials and records changes of employment and pl",
    "method": "folio-snapshot"
   },
@@ -1685,7 +1685,7 @@
    "sections": [
     "sec:5-1"
    ],
-   "hash": "f1dc21a10cdc",
+   "hash": "5123152cf10a",
    "excerpt": "Person. Records enrolment and graduation in a pre-service education institution and confirms qualifications to the regulator. Draft for working-group review Out",
    "method": "folio-snapshot"
   },
@@ -1697,7 +1697,7 @@
    "sections": [
     "sec:5-1"
    ],
-   "hash": "c151aec48845",
+   "hash": "982d00a8a497",
    "excerpt": "Person. Uses stock, distribution, skill mix, attrition and migration data for planning and NHWA reporting. Specialises the SMART Guidelines generic persona: Hea",
    "method": "folio-snapshot"
   },
@@ -1709,7 +1709,7 @@
    "sections": [
     "sec:5-1"
    ],
-   "hash": "d429bf3f3cfb",
+   "hash": "c9db16b97cbb",
    "excerpt": "Person. Checks that a practitioner is qualified and authorized to practise. Specialises the SMART Guidelines generic persona: Person. Draft for working-group re",
    "method": "folio-snapshot"
   },
@@ -1721,7 +1721,7 @@
    "sections": [
     "sec:5-1"
    ],
-   "hash": "7ac4d1016233",
+   "hash": "ae8fa4e1c6cd",
    "excerpt": "Person. Identifies, verifies and deploys qualified health workers, emergency medical teams and volunteers during an emergency. Draft for working-group review Ou",
    "method": "folio-snapshot"
   },
@@ -1733,7 +1733,7 @@
    "sections": [
     "sec:5-1"
    ],
-   "hash": "fb27f8971a32",
+   "hash": "60b3ab37cd45",
    "excerpt": "System. Manages employment transactions, payroll processing, leave and scheduling; supplies employment data to the registry and uses its identities. Draft for w",
    "method": "folio-snapshot"
   },
@@ -1745,7 +1745,7 @@
    "sections": [
     "sec:5-1"
    ],
-   "hash": "81ba496e148e",
+   "hash": "d5effcd10567",
    "excerpt": "System. Pays health workers; reconciled against the registry to remove duplicate and ghost records. Draft for working-group review Outline basis --- --- --- Pur",
    "method": "folio-snapshot"
   },
@@ -1757,7 +1757,7 @@
    "sections": [
     "sec:5-1"
    ],
-   "hash": "b55021dc7ffa",
+   "hash": "20006a9cb4ad",
    "excerpt": "System. Identifies and authorizes health workers at the point of care, for example a prescriber, by querying the registry. Specialises the SMART Guidelines gene",
    "method": "folio-snapshot"
   },
@@ -1769,7 +1769,7 @@
    "sections": [
     "sec:5-1"
    ],
-   "hash": "d5fa8fd24989",
+   "hash": "4556dc36601f",
    "excerpt": "System. The authoritative list of health facilities; the registry links each place of practice to it. Draft for working-group review Outline basis --- --- --- P",
    "method": "folio-snapshot"
   },
@@ -1781,7 +1781,7 @@
    "sections": [
     "sec:5-1"
    ],
-   "hash": "6bcdaa79ef40",
+   "hash": "e4598e8bde3f",
    "excerpt": "System. Foundational identity; the registry may link each health worker to a national identity number where available and lawful. Specialises the SMART Guidelin",
    "method": "folio-snapshot"
   },
@@ -1793,7 +1793,7 @@
    "sections": [
     "sec:5-1"
    ],
-   "hash": "ba50c7ef52c6",
+   "hash": "379019aa47a6",
    "excerpt": "System. The National Health Workforce Accounts data platform; receives indicator data derived from the registry. Specialises the SMART Guidelines generic person",
    "method": "folio-snapshot"
   },
@@ -1829,7 +1829,7 @@
    "sections": [
     "sec:5-2"
    ],
-   "hash": "92e9f5f689f7",
+   "hash": "0016e9b0283a",
    "excerpt": "Registers and licenses a newly graduated health worker by verifying pre-service qualification with the training institution, checking foundational identity and ",
    "method": "folio-snapshot"
   },
@@ -1865,7 +1865,7 @@
    "sections": [
     "sec:5-2"
    ],
-   "hash": "02950f4d3da2",
+   "hash": "537677e19e54",
    "excerpt": "Renews a health worker's licence to practise based on continuing professional development and good-standing rules, and serves tiered status verification respons",
    "method": "folio-snapshot"
   },
@@ -1889,7 +1889,7 @@
    "sections": [
     "sec:5-2"
    ],
-   "hash": "f228f842e38b",
+   "hash": "4c0f8cbfd440",
    "excerpt": "Updates a health worker's employer, position, facility affiliation and emergency surge deployment in the registry while validating facility identifiers against ",
    "method": "folio-snapshot"
   },
@@ -1913,7 +1913,7 @@
    "sections": [
     "sec:5-2"
    ],
-   "hash": "e9688643ec25",
+   "hash": "112cdaa657ac",
    "excerpt": "Produces de-identified workforce stock, distribution, skill-mix, attrition and migration indicators from the registry and submits validated aggregate extracts t",
    "method": "folio-snapshot"
   },
@@ -2021,7 +2021,7 @@
    "sections": [
     "sec:6-1"
    ],
-   "hash": "dab57d31a352",
+   "hash": "863078cb7115",
    "excerpt": "Person. Multi-stakeholder steering committee (bringing together the Ministry of Health, regulatory councils, public and private employers, training institutions",
    "method": "folio-snapshot"
   },
@@ -2057,7 +2057,7 @@
    "sections": [
     "sec:6-3"
    ],
-   "hash": "c5519051c6f4",
+   "hash": "09bd8c5a0a40",
    "excerpt": "Person. Designated operational and data-stewardship team that operates the health workforce registry, enforces role-based access and audit logging, runs routine",
    "method": "folio-snapshot"
   },
@@ -2069,7 +2069,7 @@
    "sections": [
     "sec:6-3"
    ],
-   "hash": "ea3cf5058626",
+   "hash": "4545a21515f3",
    "excerpt": "Governs inter-institutional data-sharing agreements and access tiers through the multi-stakeholder steering committee, enforces routine data quality and dedupli",
    "method": "folio-snapshot"
   },
@@ -2201,7 +2201,7 @@
    "sections": [
     "sec:7-1"
    ],
-   "hash": "380071aa70fa",
+   "hash": "d69f08ffb20e",
    "excerpt": "Purpose. This table decides what happens to a registration application: register and license, hold it for duplicate review or pending verification, or reject it",
    "method": "folio-snapshot"
   },
@@ -2309,7 +2309,7 @@
    "sections": [
     "sec:7-3"
    ],
-   "hash": "9613f3546577",
+   "hash": "3d9384d714d9",
    "excerpt": "Purpose. This table decides a practitioner's new registration and licence status after a lifecycle event (renewal, expiry, suspension, revocation, reinstatement",
    "method": "folio-snapshot"
   },
@@ -2369,7 +2369,7 @@
    "sections": [
     "sec:7-4"
    ],
-   "hash": "cada170b245d",
+   "hash": "4c1c7d1d1902",
    "excerpt": "Purpose. This table decides how much of a health worker's record to disclose when someone asks for it: public status only, an operational view for authorized em",
    "method": "folio-snapshot"
   },

@@ -1,6 +1,6 @@
 {
   "@context": [
-    "https://litlfred.github.io/dth-hrh/ns/context/v1.jsonld",
+    "https://worldhealthorganization.github.io/dth-hrh/ns/context/v1.jsonld",
     {
       "@base": "https://litlfred.github.io/folio/",
       "smart-base": "https://litlfred.github.io/smart-base/v0/ns/"
@@ -57,40 +57,40 @@
       "basis": "agent-proposed by name, for working-group review (dth-hrh#47)",
       "elements": [
         {
-          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/elements/id-350840520ae44f658b6ad3b3762e382e.jsonld",
+          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/element/id-350840520ae44f658b6ad3b3762e382e",
           "name": "DPI-H Health Workforce Registry (HWR)",
           "type": "ApplicationComponent"
         },
         {
-          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/elements/id-3bc59974bc1e4e5d8e795cdc1606587e.jsonld",
+          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/element/id-3bc59974bc1e4e5d8e795cdc1606587e",
           "name": "Credential & License",
           "type": "ApplicationFunction"
         },
         {
-          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/elements/id-30440ab5646f46c9bc8cd4447152be26.jsonld",
+          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/element/id-30440ab5646f46c9bc8cd4447152be26",
           "name": "Employment/ Facility Mapping",
           "type": "ApplicationFunction"
         },
         {
-          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/elements/id-a47752af90b9418e8832f41d54ec8e63.jsonld",
+          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/element/id-a47752af90b9418e8832f41d54ec8e63",
           "name": "Retention Management (Payroll, Benefits)",
           "type": "ApplicationFunction"
         }
       ],
       "views": [
         {
-          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/views/id-19be800d18a34a618d6e1955cf58e956.jsonld",
+          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/view/id-19be800d18a34a618d6e1955cf58e956",
           "name": "ALL High Level - Health Workforce"
         }
       ]
     },
     "glossaryTerms": [
-      "https://litlfred.github.io/dth-hrh/v0/ns#glossary/dth-hrh/health-workforce-registry",
-      "https://litlfred.github.io/dth-hrh/v0/ns#glossary/dth-hrh/pre-service-education",
-      "https://litlfred.github.io/dth-hrh/v0/ns#glossary/dth-hrh/registration",
-      "https://litlfred.github.io/dth-hrh/v0/ns#glossary/dth-hrh/licensing",
-      "https://litlfred.github.io/dth-hrh/v0/ns#glossary/dth-hrh/recruitment",
-      "https://litlfred.github.io/dth-hrh/v0/ns#glossary/dth-hrh/attrition"
+      "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/dth-hrh/health-workforce-registry",
+      "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/dth-hrh/pre-service-education",
+      "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/dth-hrh/registration",
+      "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/dth-hrh/licensing",
+      "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/dth-hrh/recruitment",
+      "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/dth-hrh/attrition"
     ],
     "relatedBlocks": [
       "pers:training-institution-registrar",

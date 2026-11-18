@@ -1,6 +1,6 @@
 {
   "@context": [
-    "https://litlfred.github.io/dth-hrh/ns/context/v1.jsonld",
+    "https://worldhealthorganization.github.io/dth-hrh/ns/context/v1.jsonld",
     {
       "@base": "https://litlfred.github.io/folio/",
       "smart-base": "https://litlfred.github.io/smart-base/v0/ns/"
@@ -27,24 +27,24 @@
     "requirementId": "FR-REC-01",
     "priority": "to-be-prioritized",
     "externalGlossaryReferences": {
-      "scheme": "https://litlfred.github.io/who-iris/v0/ns/glossary/hrhis-registry-2015",
+      "scheme": "https://worldhealthorganization.github.io/who-iris/v0/ns/glossary/hrhis-registry-2015",
       "schemeId": "hrhis-registry-2015",
       "publisher": "who-iris glossary (who-iris#167)",
       "role": "external, non-definitional: contributes to a definition, does not define it; this handbook's terms stay its own working definitions (owner, 2026-11-02 07:10Z)",
       "basis": "agent-proposed by reading, for working-group review (dth-hrh#47)",
       "concepts": [
         {
-          "iri": "https://litlfred.github.io/who-iris/v0/ns/glossary/hrhis-registry-2015/fr-sec-006-01",
+          "iri": "https://worldhealthorganization.github.io/who-iris/v0/ns/glossary/hrhis-registry-2015/fr-sec-006-01",
           "id": "fr-sec-006-01"
         },
         {
-          "iri": "https://litlfred.github.io/who-iris/v0/ns/glossary/hrhis-registry-2015/fr-sec-006-05",
+          "iri": "https://worldhealthorganization.github.io/who-iris/v0/ns/glossary/hrhis-registry-2015/fr-sec-006-05",
           "id": "fr-sec-006-05"
         }
       ],
       "systemTypes": [
         {
-          "iri": "https://litlfred.github.io/who-iris/v0/ns/glossary/hrhis-registry-2015/health-workforce-registry",
+          "iri": "https://worldhealthorganization.github.io/who-iris/v0/ns/glossary/hrhis-registry-2015/health-workforce-registry",
           "id": "health-workforce-registry"
         }
       ]
@@ -54,11 +54,11 @@
       "basis": "agent-proposed by name, for working-group review (dth-hrh#47)",
       "elements": [
         {
-          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/elements/id-58e4795bc57845649434ec98dfb53fa4.jsonld",
+          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/element/id-58e4795bc57845649434ec98dfb53fa4",
           "name": "CRUD Health Workforce Record"
         },
         {
-          "iri": "https://litlfred.github.io/dth-hrh/archimate/0.1.0-draft.1/elements/id-e162b2223da4440983514be5854b654d.jsonld",
+          "iri": "https://worldhealthorganization.github.io/dth-hrh/archimate/0.1.0-draft.1/element/id-e162b2223da4440983514be5854b654d",
           "name": "CDE-HWR: Core Data Elements for the Health Workforce Registry"
         }
       ]

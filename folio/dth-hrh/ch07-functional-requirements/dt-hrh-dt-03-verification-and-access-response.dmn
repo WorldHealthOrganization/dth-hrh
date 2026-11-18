@@ -2,7 +2,7 @@
 <definitions xmlns="https://www.omg.org/spec/DMN/20191111/MODEL/"
              id="Definitions_HRH_DT_03"
              name="HRH-DT-03 Tiered verification and disclosure response"
-             namespace="https://litlfred.github.io/dth-hrh/dmn/hrh-dt-03">
+             namespace="https://worldhealthorganization.github.io/dth-hrh/dmn/hrh-dt-03">
 
   <decision id="Decision_HRH_DT_03" name="Verification service and tiered disclosure response">
     <description>Determines the disclosure tier and verification response payload returned to a requester based on requester category, authentication/data-sharing authorization, and channel. Source passages: prose:ch07-verification-services (Section 7.4), freq:FR-VER-01 (Public lookup), freq:FR-VER-02 (System-to-system verification), freq:FR-VER-03 (Verifiable digital credentials), freq:FR-AN-03 (De-identified analytics extracts), nfreq:NFR-01 (Role-based access and audit), prose:ch06-legal-foundations (Section 6.2 tiered disclosure). Threshold provenance: qualitative access tiers from source text only; no numeric thresholds are specified in the narrative.</description>

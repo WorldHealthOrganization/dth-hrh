@@ -56,8 +56,8 @@ the element's IRI in its manifest's `meta.archimate`:
 "archimate": {
   "model": "smart-ra 0.2.0",
   "basis": "agent-proposed by name, for working-group review (dth-hrh#47)",
-  "elements": [{ "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/elements/id-….jsonld", "name": "…" }],
-  "views": [{ "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/views/id-….jsonld", "name": "…" }]
+  "elements": [{ "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/element/id-…", "name": "…" }],
+  "views": [{ "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/view/id-…", "name": "…" }]
 }
 ```
 
@@ -77,7 +77,7 @@ dth-phc and dth-hrh (`archimate/README.md` in each):
   element, same id and name, the smart-ra IRI as the value) or
   `overlay:owner` = `<dth>` (the DTH's own).
 - Blocks link owned elements with
-  `https://litlfred.github.io/<dth>/archimate/<version>/elements/<id>.jsonld`,
+  `https://litlfred.github.io/<dth>/archimate/<version>/element/<id>`,
   and keep smart-ra IRIs for everything smart-ra holds.
 - `bun run cat-harness-tools/archimate/scripts/check-archimate.ts --instance .`
   checks the model parses and resolves.

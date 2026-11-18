@@ -4,7 +4,7 @@
                   xmlns:dc="http://www.omg.org/spec/DD/20100524/DC"
                   xmlns:di="http://www.omg.org/spec/DD/20100524/DI"
                   id="Definitions_HRH_BP_06"
-                  targetNamespace="https://litlfred.github.io/dth-hrh/bpmn">
+                  targetNamespace="https://worldhealthorganization.github.io/dth-hrh/bpmn">
 
   <bpmn:resource id="pers:registry-governance-body" name="Registry governance body (steering committee)"/>
   <bpmn:resource id="pers:registry-custodian" name="Registry operator and data custodian"/>

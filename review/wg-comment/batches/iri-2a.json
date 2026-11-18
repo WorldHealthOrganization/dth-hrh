@@ -1,0 +1,14 @@
+{
+  "id": "iri-2a",
+  "channel": "narrative",
+  "sha256": "f3fb3e13c1cd6857a0067a745b14234f5f95ac005b3fa6b35f075a04950d9796",
+  "importedAt": "2026-11-18T18:46:30.873Z",
+  "rows": 1,
+  "created": [
+    "PC-0004"
+  ],
+  "unplaced": [
+    "PC-0004"
+  ],
+  "skipped": []
+}

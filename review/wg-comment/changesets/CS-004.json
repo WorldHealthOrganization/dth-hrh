@@ -1,0 +1,21 @@
+{
+  "id": "CS-004",
+  "title": "Move the IRI base to the WHO site (mechanical IRI change set)",
+  "requirements": "- Mechanical IRI-base change set (owner, IRI scan option 2A, 2026-11-18); not a working-group decision and changes no text.\n- iriBase to https://worldhealthorganization.github.io/dth-hrh/; regenerate glossary, KG and anchors.\n- ArchiMate links to archimate/<v>/element|view/<id>; who-iris links on the WHO host.\n- Made in WorldHealthOrganization/dth-hrh#154.",
+  "refs": [
+    "PC-0004"
+  ],
+  "status": "proposed",
+  "issues": [],
+  "committeeMoves": [],
+  "proposedBy": "litlfred",
+  "proposedAt": "2026-11-18T18:46:37.802Z",
+  "history": [
+    {
+      "at": "2026-11-18T18:46:37.802Z",
+      "by": "litlfred",
+      "what": "proposed with 1 comment(s)"
+    }
+  ],
+  "$schema": "changeset/1.0.0"
+}
