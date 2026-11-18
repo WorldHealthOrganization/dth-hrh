@@ -1,0 +1,13 @@
+{
+  "$schema": "folio-log/v1",
+  "id": "2026-11-18T18-47-42-451Z-bim1jf",
+  "at": "2026-11-18T18:47:42.451Z",
+  "event": "task-end",
+  "summary": "completed GW_Trigger in Process_ContentChangeReview",
+  "detail": "instance contentchangereview--iri-base-to-who-site-dth-hrh-154 is now running — Reversible text rewrite; owner-decided — AUTHORIZED (strict) — owner via github [litlfred] as business-analyst: unconstrained; policy permit",
+  "role": "Business analyst",
+  "process": "Process_ContentChangeReview",
+  "task": "GW_Trigger",
+  "session": "contentchangereview--iri-base-to-who-site-dth-hrh-154",
+  "capture": "unknown"
+}

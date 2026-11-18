@@ -1,0 +1,13 @@
+{
+  "$schema": "folio-log/v1",
+  "id": "2026-11-18T18-47-00-830Z-gpo43f",
+  "at": "2026-11-18T18:47:00.830Z",
+  "event": "task-end",
+  "summary": "completed Task_EditContent in Process_ContentChangeReview",
+  "detail": "instance contentchangereview--iri-base-to-who-site-dth-hrh-154 is now running — IRI rewrite only (host, singular ArchiMate paths); no prose text changed. Commit 10f8450. — AUTHORIZED (strict) — owner via github [litlfred] as authoring-agent: unconstrained; policy permit",
+  "role": "Folio-Assistant Agent",
+  "process": "Process_ContentChangeReview",
+  "task": "Task_EditContent",
+  "session": "contentchangereview--iri-base-to-who-site-dth-hrh-154",
+  "capture": "unknown"
+}

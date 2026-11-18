@@ -1,0 +1,13 @@
+{
+  "$schema": "folio-log/v1",
+  "id": "2026-11-18T18-47-08-071Z-yjzysc",
+  "at": "2026-11-18T18:47:08.071Z",
+  "event": "task-end",
+  "summary": "completed Task_EditLogic in Process_ContentChangeReview",
+  "detail": "instance contentchangereview--iri-base-to-who-site-dth-hrh-154 is now running — build_glossary.py NS follows the new iriBase — AUTHORIZED (strict) — owner via github [litlfred] as authoring-agent: unconstrained; policy permit",
+  "role": "Folio-Assistant Agent",
+  "process": "Process_ContentChangeReview",
+  "task": "Task_EditLogic",
+  "session": "contentchangereview--iri-base-to-who-site-dth-hrh-154",
+  "capture": "unknown"
+}

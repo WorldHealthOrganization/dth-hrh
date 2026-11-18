@@ -1,0 +1,13 @@
+{
+  "$schema": "folio-log/v1",
+  "id": "2026-11-18T18-44-04-977Z-o9a73e",
+  "at": "2026-11-18T18:44:04.977Z",
+  "event": "task-end",
+  "summary": "completed Task_DescribeChange in Process_ContentChangeReview",
+  "detail": "instance contentchangereview--iri-base-to-who-site-dth-hrh-154 is now running — Owner-approved IRI scan option 2A (2026-11-18), confirmed by litlfred in session session_01EucfRmKLrFezKp16GjTKi4 ('Yes, all'): move iriBase to the WHO site, singular ArchiMate paths, who-iris links on WHO. Mechanical IRI rewrite; no prose changes. — AUTHORIZED (strict) — owner via github [litlfred] as author: unconstrained; policy permit",
+  "role": "Content Author",
+  "process": "Process_ContentChangeReview",
+  "task": "Task_DescribeChange",
+  "session": "contentchangereview--iri-base-to-who-site-dth-hrh-154",
+  "capture": "unknown"
+}

@@ -1,0 +1,13 @@
+{
+  "$schema": "folio-log/v1",
+  "id": "2026-11-18T18-44-53-655Z-aaz0vk",
+  "at": "2026-11-18T18:44:53.655Z",
+  "event": "task-end",
+  "summary": "completed Open_CheckExists in Process_ContentChangeReview",
+  "detail": "instance contentchangereview--iri-base-to-who-site-dth-hrh-154 is now running — beans list: no bean on the IRI base move — AUTHORIZED (strict) — owner via github [litlfred] as authoring-agent: unconstrained; policy permit",
+  "role": "Agent (this session)",
+  "process": "Process_ContentChangeReview",
+  "task": "Open_CheckExists",
+  "session": "contentchangereview--iri-base-to-who-site-dth-hrh-154",
+  "capture": "unknown"
+}
