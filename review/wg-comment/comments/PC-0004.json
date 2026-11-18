@@ -1,0 +1,66 @@
+{
+  "id": "pc-0004",
+  "summary": "The site at https://litlfred.github.io/dth-hrh/ does not exist, so every dth-hrh IRI under it is dead. Move the iriBase…",
+  "comment": "The site at https://litlfred.github.io/dth-hrh/ does not exist, so every dth-hrh IRI under it is dead. Move the iriBase to https://worldhealthorganization.github.io/dth-hrh/ (the live WHO site), regenerate what is derived from it, rewrite the ArchiMate links to the singular element/ and view/ paths the generator now writes, and point the who-iris glossary links at the WHO host. This is a mechanical IRI change (owner, IRI scan option 2A, 2026-11-18), not a change to any text.",
+  "createdAt": "2026-11-18T18:46:30.873Z",
+  "targetLabel": null,
+  "tags": {
+    "roles": [
+      "feedback-provider"
+    ],
+    "processes": [
+      "Process_PublicComment"
+    ],
+    "tasks": [
+      {
+        "process": "Process_PublicComment",
+        "task": "Task_Ingest"
+      }
+    ],
+    "identities": [],
+    "references": [],
+    "artefacts": []
+  },
+  "status": "received",
+  "priority": "medium",
+  "origin": "human",
+  "$schema": "public-comment/1.0.0",
+  "public": {
+    "ref": "PC-0004",
+    "source": {
+      "channel": "narrative",
+      "batch": "iri-2a",
+      "sha256": "f3fb3e13c1cd6857a0067a745b14234f5f95ac005b3fa6b35f075a04950d9796",
+      "segment": 0,
+      "receivedAt": "2026-11-18T18:46:30.873Z"
+    },
+    "reviewer": {
+      "id": "r-b91ad03bec",
+      "organisation": "World Health Organization",
+      "acknowledge": false
+    },
+    "citation": {
+      "raw": "(no citation)"
+    },
+    "anchor": {
+      "targetLabel": null,
+      "method": "unplaced",
+      "confidence": "low",
+      "candidates": [],
+      "note": "nothing in the citation resolved; triage places it"
+    },
+    "type": "general",
+    "text": "The site at https://litlfred.github.io/dth-hrh/ does not exist, so every dth-hrh IRI under it is dead. Move the iriBase to https://worldhealthorganization.github.io/dth-hrh/ (the live WHO site), regenerate what is derived from it, rewrite the ArchiMate links to the singular element/ and view/ paths the generator now writes, and point the who-iris glossary links at the WHO host. This is a mechanical IRI change (owner, IRI scan option 2A, 2026-11-18), not a change to any text.",
+    "assignees": [],
+    "recommendations": [],
+    "history": [
+      {
+        "at": "2026-11-18T18:46:30.873Z",
+        "transition": "ingest",
+        "by": "intake",
+        "task": "Process_PublicComment#Task_Ingest",
+        "note": "iri-2a"
+      }
+    ]
+  }
+}
