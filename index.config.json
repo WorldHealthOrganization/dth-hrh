@@ -35,14 +35,9 @@
       },
       "site": {
         "build": {
+          "extends": "document-folio",
           "sourceSteps": [
-            "site:document",
-            "site:wg-comment",
-            "site:library",
-            "site:review-sheet",
-            "site:glossary",
-            "site:archimate",
-            "site:context"
+            "site:wg-comment"
           ],
           "siteSteps": [
             "site:node-kinds",
@@ -57,6 +52,7 @@
           ]
         }
       },
+      "_site_build_comment": "`extends: document-folio` (folio-assistant-core templates/site-presets/, litlfred/cat-harness-tools#2345): the shared document-folio steps run first (document, library, review sheet, glossary, bibliography, ArchiMate, context) and the publish refuses on any broken internal link. Only this folio's own steps are listed here; its package.json site:document keeps --downloads.",
       "_site_comment": "`site:context` builds the JSON-LD context the KG nodes name (ns/context/v1.jsonld under iriBase) into the site, so it is published with it (cat-harness-tools#1052); nothing else writes it, so nothing is kept."
     },
     {
