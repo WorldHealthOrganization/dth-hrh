@@ -1,8 +1,8 @@
 {
   "@context": [
-    "https://litlfred.github.io/dth-hrh/ns/context/v1.jsonld",
+    "https://worldhealthorganization.github.io/dth-hrh/ns/context/v1.jsonld",
     {
-      "@base": "https://litlfred.github.io/folio/",
+      "@base": "https://worldhealthorganization.github.io/dth-hrh/v0/",
       "smart-base": "https://litlfred.github.io/smart-base/v0/ns/"
     }
   ],
@@ -93,20 +93,20 @@
       ]
     },
     "externalGlossaryReferences": {
-      "scheme": "https://litlfred.github.io/who-iris/v0/ns/glossary/hrhis-registry-2015",
+      "scheme": "https://worldhealthorganization.github.io/who-iris/v0/ns/glossary/hrhis-registry-2015",
       "schemeId": "hrhis-registry-2015",
       "publisher": "who-iris glossary (who-iris#167)",
       "role": "external, non-definitional: contributes to a definition, does not define it; this handbook's terms stay its own working definitions (owner, 2026-11-02 07:10Z)",
       "basis": "agent-proposed by reading, for working-group review (dth-hrh#47)",
       "concepts": [
         {
-          "iri": "https://litlfred.github.io/who-iris/v0/ns/glossary/hrhis-registry-2015/fr-sec-006-04",
+          "iri": "https://worldhealthorganization.github.io/who-iris/v0/ns/glossary/hrhis-registry-2015/fr-sec-006-04",
           "id": "fr-sec-006-04"
         }
       ],
       "systemTypes": [
         {
-          "iri": "https://litlfred.github.io/who-iris/v0/ns/glossary/hrhis-registry-2015/health-workforce-registry",
+          "iri": "https://worldhealthorganization.github.io/who-iris/v0/ns/glossary/hrhis-registry-2015/health-workforce-registry",
           "id": "health-workforce-registry"
         }
       ]
@@ -116,7 +116,7 @@
       "basis": "agent-proposed by name, for working-group review (dth-hrh#47)",
       "elements": [
         {
-          "iri": "https://litlfred.github.io/dth-hrh/archimate/0.1.0-draft.1/elements/id-145e885489634e469e8a6734f56b7df5.jsonld",
+          "iri": "https://worldhealthorganization.github.io/dth-hrh/archimate/0.1.0-draft.1/element/id-145e885489634e469e8a6734f56b7df5",
           "name": "NHWA Dataset (linking and indexing, built on CDE-HWR)"
         }
       ]

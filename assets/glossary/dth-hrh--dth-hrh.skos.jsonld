@@ -7,7 +7,7 @@
   "_generated": "folio-assistant-core/scripts/glossary-page.ts — do not hand-edit; run `bun run cat glossary:page`",
   "@graph": [
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh",
       "@type": "skos:ConceptScheme",
       "skos:prefLabel": "Glossary of the Digital Transformation Handbook for Human Resources for Health and Health Worker Registries",
       "skos:definition": "The handbook's health workforce terms (digital terms are addressed separately). One concept per term, each related to the candidate definitions in twg-candidates.glossary.json. A term becomes 'authored' only when the working group adopts a definition: a person sets `definition` and `status`, citing the change set that decided it in `scopeNote`. Re-running scripts/glossary/build_glossary.py keeps authored terms. Organizations several handbooks name live once in smart-ra's organizations scheme (litlfred/smart-ra#198) and are listed under members; organization terms here carry a foaf:focus to a W3C ORG organization (litlfred/folio-assistant-core#411).",
@@ -16,597 +16,665 @@
       "dcterms:license": "CC-BY-NC-SA-3.0-IGO"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/accreditation",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/accreditation",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Accreditation"
+          "@value": "Accreditation",
+          "@language": "en"
         }
       ],
       "skos:scopeNote": "Open for working-group review: 1 candidate definition, none adopted.",
       "skos:related": [
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/accreditation--who-hpr-2024"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/accreditation--who-hpr-2024"
         }
       ],
       "dcterms:source": "library/twg-glossary-2026-09-29/HWF_registry_DTH_Glossary_DRAFT.xlsx",
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/active-health-worker",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/active-health-worker",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Active health worker"
+          "@value": "Active health worker",
+          "@language": "en"
         }
       ],
       "skos:scopeNote": "Open for working-group review: 1 candidate definition, none adopted.",
       "skos:related": [
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/active-health-worker--who-nhwa-2023"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/active-health-worker--who-nhwa-2023"
         }
       ],
       "dcterms:source": "library/twg-glossary-2026-09-29/HWF_registry_DTH_Glossary_DRAFT.xlsx",
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/activity-level",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/activity-level",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Activity level"
+          "@value": "Activity level",
+          "@language": "en"
         }
       ],
       "skos:scopeNote": "Open for working-group review: 1 candidate definition, none adopted.",
       "skos:related": [
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/activity-level--who-nhwa-2023"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/activity-level--who-nhwa-2023"
         }
       ],
       "dcterms:source": "library/twg-glossary-2026-09-29/HWF_registry_DTH_Glossary_DRAFT.xlsx",
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/attrition",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/attrition",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Attrition"
+          "@value": "Attrition",
+          "@language": "en"
         }
       ],
       "skos:scopeNote": "Open for working-group review: 1 candidate definition, none adopted.",
       "skos:related": [
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/attrition--who-hlma-2021"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/attrition--who-hlma-2021"
         }
       ],
       "dcterms:source": "library/twg-glossary-2026-09-29/HWF_registry_DTH_Glossary_DRAFT.xlsx",
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/certification",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/certification",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Certification"
+          "@value": "Certification",
+          "@language": "en"
         }
       ],
       "skos:scopeNote": "Open for working-group review: 1 candidate definition, none adopted.",
       "skos:related": [
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/certification--who-hlma-2021"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/certification--who-hlma-2021"
         }
       ],
       "dcterms:source": "library/twg-glossary-2026-09-29/HWF_registry_DTH_Glossary_DRAFT.xlsx",
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/community-health-workers",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/community-health-workers",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Community health workers"
+          "@value": "Community health workers",
+          "@language": "en"
         }
       ],
       "skos:altLabel": [
-        "CHW",
-        "CHWs"
+        {
+          "@value": "CHW",
+          "@language": "en"
+        },
+        {
+          "@value": "CHWs",
+          "@language": "en"
+        }
       ],
       "skos:notation": "CHW",
       "skos:scopeNote": "Open for working-group review: 1 candidate definition, none adopted.",
       "skos:related": [
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/community-health-workers--who-nhwa-2023"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/community-health-workers--who-nhwa-2023"
         }
       ],
       "dcterms:source": "library/twg-glossary-2026-09-29/HWF_registry_DTH_Glossary_DRAFT.xlsx",
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/competence",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/competence",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Competence"
+          "@value": "Competence",
+          "@language": "en"
         }
       ],
       "skos:scopeNote": "Open for working-group review: 1 candidate definition, none adopted.",
       "skos:related": [
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/competence--who-hpr-2024"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/competence--who-hpr-2024"
         }
       ],
       "dcterms:source": "library/twg-glossary-2026-09-29/HWF_registry_DTH_Glossary_DRAFT.xlsx",
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/competencies",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/competencies",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Competencies"
+          "@value": "Competencies",
+          "@language": "en"
         }
       ],
       "skos:scopeNote": "Open for working-group review: 1 candidate definition, none adopted.",
       "skos:related": [
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/competencies--who-hlma-2021"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/competencies--who-hlma-2021"
         }
       ],
       "dcterms:source": "library/twg-glossary-2026-09-29/HWF_registry_DTH_Glossary_DRAFT.xlsx",
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/continuing-professional-development",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/continuing-professional-development",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Continuing professional development (CPD)"
+          "@value": "Continuing professional development (CPD)",
+          "@language": "en"
         }
       ],
       "skos:altLabel": [
-        "CPD"
+        {
+          "@value": "CPD",
+          "@language": "en"
+        }
       ],
       "skos:notation": "CPD",
       "skos:scopeNote": "Open for working-group review: 2 candidate definitions, none adopted.",
       "skos:related": [
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/continuing-professional-development--who-nhwa-2023"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/continuing-professional-development--who-nhwa-2023"
         },
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/continuing-professional-development--who-hlma-2021"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/continuing-professional-development--who-hlma-2021"
         }
       ],
       "dcterms:source": "library/twg-glossary-2026-09-29/HWF_registry_DTH_Glossary_DRAFT.xlsx",
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/contract-type",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/contract-type",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Contract type"
+          "@value": "Contract type",
+          "@language": "en"
         }
       ],
       "skos:scopeNote": "Open for working-group review: 1 candidate definition, none adopted.",
       "skos:related": [
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/contract-type--who-nhwa-2023"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/contract-type--who-nhwa-2023"
         }
       ],
       "dcterms:source": "library/twg-glossary-2026-09-29/HWF_registry_DTH_Glossary_DRAFT.xlsx",
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/deployment",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/deployment",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Deployment"
+          "@value": "Deployment",
+          "@language": "en"
         }
       ],
       "skos:scopeNote": "Open for working-group review: 1 candidate definition, none adopted.",
       "skos:related": [
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/deployment--who-hlma-2021"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/deployment--who-hlma-2021"
         }
       ],
       "dcterms:source": "library/twg-glossary-2026-09-29/HWF_registry_DTH_Glossary_DRAFT.xlsx",
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/distribution",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/distribution",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Distribution"
+          "@value": "Distribution",
+          "@language": "en"
         }
       ],
       "skos:scopeNote": "Open for working-group review: 1 candidate definition, none adopted.",
       "skos:related": [
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/distribution--who-hlma-2021"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/distribution--who-hlma-2021"
         }
       ],
       "dcterms:source": "library/twg-glossary-2026-09-29/HWF_registry_DTH_Glossary_DRAFT.xlsx",
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/dual-practice",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/dual-practice",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Dual practice"
+          "@value": "Dual practice",
+          "@language": "en"
         }
       ],
       "skos:scopeNote": "Open for working-group review: 3 candidate definitions, none adopted.",
       "skos:related": [
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/dual-practice--who-hpr-2024"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/dual-practice--who-hpr-2024"
         },
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/dual-practice--who-nhwa-2023"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/dual-practice--who-nhwa-2023"
         },
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/dual-practice--who-hlma-2021"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/dual-practice--who-hlma-2021"
         }
       ],
       "dcterms:source": "library/twg-glossary-2026-09-29/HWF_registry_DTH_Glossary_DRAFT.xlsx",
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/education",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/education",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Education (for health workers)"
+          "@value": "Education (for health workers)",
+          "@language": "en"
         }
       ],
       "skos:scopeNote": "Open for working-group review: 1 candidate definition, none adopted.",
       "skos:related": [
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/education--who-hlma-2021"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/education--who-hlma-2021"
         }
       ],
       "dcterms:source": "library/twg-glossary-2026-09-29/HWF_registry_DTH_Glossary_DRAFT.xlsx",
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/educational-institution",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/educational-institution",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Educational institution"
+          "@value": "Educational institution",
+          "@language": "en"
         }
       ],
       "skos:scopeNote": "Open for working-group review: 1 candidate definition, none adopted.",
       "skos:related": [
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/educational-institution--who-hlma-2021"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/educational-institution--who-hlma-2021"
         }
       ],
       "dcterms:source": "library/twg-glossary-2026-09-29/HWF_registry_DTH_Glossary_DRAFT.xlsx",
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/education-and-training-institution",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/education-and-training-institution",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Education and training institution (Health workforce)"
+          "@value": "Education and training institution (Health workforce)",
+          "@language": "en"
         }
       ],
       "skos:scopeNote": "Open for working-group review: 1 candidate definition, none adopted.",
       "skos:related": [
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/education-and-training-institution--who-nhwa-2023"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/education-and-training-institution--who-nhwa-2023"
         }
       ],
       "dcterms:source": "library/twg-glossary-2026-09-29/HWF_registry_DTH_Glossary_DRAFT.xlsx",
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/employment-status-full-time-part-time-temporary-permanent",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/employment-status-full-time-part-time-temporary-permanent",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Employment status: full-time, part-time, temporary, permanent"
+          "@value": "Employment status: full-time, part-time, temporary, permanent",
+          "@language": "en"
         }
       ],
       "skos:scopeNote": "Open for working-group review: 1 candidate definition, none adopted.",
       "skos:related": [
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/employment-status-full-time-part-time-temporary-permanent--who-hlma-2021"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/employment-status-full-time-part-time-temporary-permanent--who-hlma-2021"
         }
       ],
       "dcterms:source": "library/twg-glossary-2026-09-29/HWF_registry_DTH_Glossary_DRAFT.xlsx",
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/health-labour-market",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/health-labour-market",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Health labour market"
+          "@value": "Health labour market",
+          "@language": "en"
         }
       ],
       "skos:altLabel": [
-        "HLM",
-        "HLMA"
+        {
+          "@value": "HLM",
+          "@language": "en"
+        },
+        {
+          "@value": "HLMA",
+          "@language": "en"
+        }
       ],
       "skos:notation": "HLM",
       "skos:scopeNote": "Open for working-group review: 1 candidate definition, none adopted.",
       "skos:related": [
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/health-labour-market--who-afro-hwf-charter"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/health-labour-market--who-afro-hwf-charter"
         }
       ],
       "dcterms:source": "library/twg-glossary-2026-09-29/HWF_registry_DTH_Glossary_DRAFT.xlsx",
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/health-practitioner",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/health-practitioner",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Health practitioner"
+          "@value": "Health practitioner",
+          "@language": "en"
         }
       ],
       "skos:scopeNote": "Open for working-group review: 1 candidate definition, none adopted.",
       "skos:related": [
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/health-practitioner--who-hpr-2024"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/health-practitioner--who-hpr-2024"
         }
       ],
       "dcterms:source": "library/twg-glossary-2026-09-29/HWF_registry_DTH_Glossary_DRAFT.xlsx",
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/health-professional",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/health-professional",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Health professional"
+          "@value": "Health professional",
+          "@language": "en"
         }
       ],
       "skos:scopeNote": "Open for working-group review: 1 candidate definition, none adopted.",
       "skos:related": [
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/health-professional--who-hpr-2024"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/health-professional--who-hpr-2024"
         }
       ],
       "dcterms:source": "library/twg-glossary-2026-09-29/HWF_registry_DTH_Glossary_DRAFT.xlsx",
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/health-professions-education-accreditation-agency",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/health-professions-education-accreditation-agency",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Health Professions Education Accreditation Agency"
+          "@value": "Health Professions Education Accreditation Agency",
+          "@language": "en"
         }
       ],
       "skos:scopeNote": "Open for working-group review: 1 candidate definition, none adopted.",
       "skos:related": [
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/health-professions-education-accreditation-agency--who-gdhcn-framework-2026"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/health-professions-education-accreditation-agency--who-gdhcn-framework-2026"
         }
       ],
       "dcterms:source": "library/twg-glossary-2026-09-29/HWF_registry_DTH_Glossary_DRAFT.xlsx",
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/health-services-licensing-agency",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/health-services-licensing-agency",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Health Services Licensing Agency"
+          "@value": "Health Services Licensing Agency",
+          "@language": "en"
         }
       ],
       "skos:scopeNote": "Open for working-group review: 1 candidate definition, none adopted.",
       "skos:related": [
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/health-services-licensing-agency--who-gdhcn-framework-2026"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/health-services-licensing-agency--who-gdhcn-framework-2026"
         }
       ],
       "dcterms:source": "library/twg-glossary-2026-09-29/HWF_registry_DTH_Glossary_DRAFT.xlsx",
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/health-workers",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/health-workers",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Health workers"
+          "@value": "Health workers",
+          "@language": "en"
         }
       ],
       "skos:altLabel": [
-        "health workforce",
-        "human resources for health (HRH)",
-        "HRH"
+        {
+          "@value": "health workforce",
+          "@language": "en"
+        },
+        {
+          "@value": "human resources for health (HRH)",
+          "@language": "en"
+        },
+        {
+          "@value": "HRH",
+          "@language": "en"
+        }
       ],
       "skos:notation": "HRH",
       "skos:scopeNote": "Open for working-group review: 1 candidate definition, none adopted.",
       "skos:related": [
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/health-workers--who-wpro-hwf-framework-2024"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/health-workers--who-wpro-hwf-framework-2024"
         }
       ],
       "dcterms:source": "library/twg-glossary-2026-09-29/HWF_registry_DTH_Glossary_DRAFT.xlsx",
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/health-workforce-planning",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/health-workforce-planning",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Health workforce planning"
+          "@value": "Health workforce planning",
+          "@language": "en"
         }
       ],
       "skos:scopeNote": "Open for working-group review: 2 candidate definitions, none adopted.",
       "skos:related": [
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/health-workforce-planning--who-nhwa-2023"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/health-workforce-planning--who-nhwa-2023"
         },
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/health-workforce-planning--who-hlma-2021"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/health-workforce-planning--who-hlma-2021"
         }
       ],
       "dcterms:source": "library/twg-glossary-2026-09-29/HWF_registry_DTH_Glossary_DRAFT.xlsx",
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/health-workforce",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/health-workforce",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Health workforce (HWF)"
+          "@value": "Health workforce (HWF)",
+          "@language": "en"
         }
       ],
       "skos:altLabel": [
-        "HWF",
-        "HCWF"
+        {
+          "@value": "HWF",
+          "@language": "en"
+        },
+        {
+          "@value": "HCWF",
+          "@language": "en"
+        }
       ],
       "skos:notation": "HWF",
       "skos:scopeNote": "Open for working-group review: 1 candidate definition, none adopted.",
       "skos:related": [
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/health-workforce--who-afro-hwf-charter"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/health-workforce--who-afro-hwf-charter"
         }
       ],
       "dcterms:source": "library/twg-glossary-2026-09-29/HWF_registry_DTH_Glossary_DRAFT.xlsx",
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/health-workforce-registry",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/health-workforce-registry",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Health workforce registry"
+          "@value": "Health workforce registry",
+          "@language": "en"
         }
       ],
       "skos:altLabel": [
-        "Health worker registry",
-        "Provider registry",
-        "HWR",
-        "PR"
+        {
+          "@value": "Health worker registry",
+          "@language": "en"
+        },
+        {
+          "@value": "Provider registry",
+          "@language": "en"
+        },
+        {
+          "@value": "HWR",
+          "@language": "en"
+        },
+        {
+          "@value": "PR",
+          "@language": "en"
+        }
       ],
       "skos:notation": "HWR",
       "skos:scopeNote": "Open for working-group review: 12 candidate definitions, none adopted. TWG priority term (workbook instructions). Must stay consistent with the final DPI-H reference architecture definition.",
       "skos:related": [
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/health-workforce-registry--who-itu-dpi-h-ra-draft-2026"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/health-workforce-registry--who-itu-dpi-h-ra-draft-2026"
         },
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/health-workforce-registry--who-itu-dpi-h-ra-draft-2026-2"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/health-workforce-registry--who-itu-dpi-h-ra-draft-2026-2"
         },
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/health-workforce-registry--who-hrhis-mds-2015"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/health-workforce-registry--who-hrhis-mds-2015"
         },
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/health-workforce-registry--who-hpr-2024"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/health-workforce-registry--who-hpr-2024"
         },
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/health-workforce-registry--who-hwf-data-handbook-2022"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/health-workforce-registry--who-hwf-data-handbook-2022"
         },
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/health-workforce-registry--joachim-hwf-forecasting"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/health-workforce-registry--joachim-hwf-forecasting"
         },
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/health-workforce-registry--intrahealth-hwis-2013"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/health-workforce-registry--intrahealth-hwis-2013"
         },
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/health-workforce-registry--openhie-hwr-ig-2016"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/health-workforce-registry--openhie-hwr-ig-2016"
         },
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/health-workforce-registry--intrahealth-2015"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/health-workforce-registry--intrahealth-2015"
         },
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/health-workforce-registry--chibuzor-hwfis-review"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/health-workforce-registry--chibuzor-hwfis-review"
         },
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/health-workforce-registry--dhe-planning-deck"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/health-workforce-registry--dhe-planning-deck"
         },
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/health-workforce-registry--who-mds-crosswalk"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/health-workforce-registry--who-mds-crosswalk"
         }
       ],
       "skos:broadMatch": [
@@ -618,590 +686,689 @@
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/health-workforce-observatory",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/health-workforce-observatory",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Health workforce observatory"
+          "@value": "Health workforce observatory",
+          "@language": "en"
         }
       ],
       "skos:altLabel": [
-        "HRH observatory (national)"
+        {
+          "@value": "HRH observatory (national)",
+          "@language": "en"
+        }
       ],
       "skos:scopeNote": "Open for working-group review: 4 candidate definitions, none adopted.",
       "skos:related": [
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/health-workforce-observatory--who-afro-workforce2030-2020"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/health-workforce-observatory--who-afro-workforce2030-2020"
         },
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/health-workforce-observatory--who-hwf-data-handbook-2022"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/health-workforce-observatory--who-hwf-data-handbook-2022"
         },
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/health-workforce-observatory--who-hrh-observatories-2012"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/health-workforce-observatory--who-hrh-observatories-2012"
         },
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/health-workforce-observatory--openhie-hwr-ig-2016"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/health-workforce-observatory--openhie-hwr-ig-2016"
         }
       ],
       "dcterms:source": "library/twg-glossary-2026-09-29/HWF_registry_DTH_Glossary_DRAFT.xlsx",
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/human-resources-management",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/human-resources-management",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Human resources management"
+          "@value": "Human resources management",
+          "@language": "en"
         }
       ],
       "skos:altLabel": [
-        "HRM",
-        "HR"
+        {
+          "@value": "HRM",
+          "@language": "en"
+        },
+        {
+          "@value": "HR",
+          "@language": "en"
+        }
       ],
       "skos:notation": "HRM",
       "skos:scopeNote": "Open for working-group review: 1 candidate definition, none adopted.",
       "skos:related": [
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/human-resources-management--who-hlma-2021"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/human-resources-management--who-hlma-2021"
         }
       ],
       "dcterms:source": "library/twg-glossary-2026-09-29/HWF_registry_DTH_Glossary_DRAFT.xlsx",
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/human-resources-for-health-information-system",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/human-resources-for-health-information-system",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Human resources for health information system"
+          "@value": "Human resources for health information system",
+          "@language": "en"
         }
       ],
       "skos:altLabel": [
-        "HRH-IS",
-        "Health workforce information system",
-        "human resources information systems for health",
-        "HRIS",
-        "HRHIS",
-        "Information Systems for Human Resources for Health (ISHRH)",
-        "ISHRH",
-        "HWIS"
+        {
+          "@value": "HRH-IS",
+          "@language": "en"
+        },
+        {
+          "@value": "Health workforce information system",
+          "@language": "en"
+        },
+        {
+          "@value": "human resources information systems for health",
+          "@language": "en"
+        },
+        {
+          "@value": "HRIS",
+          "@language": "en"
+        },
+        {
+          "@value": "HRHIS",
+          "@language": "en"
+        },
+        {
+          "@value": "Information Systems for Human Resources for Health (ISHRH)",
+          "@language": "en"
+        },
+        {
+          "@value": "ISHRH",
+          "@language": "en"
+        },
+        {
+          "@value": "HWIS",
+          "@language": "en"
+        }
       ],
       "skos:notation": "HRIS",
       "skos:scopeNote": "Open for working-group review: 12 candidate definitions, none adopted. TWG priority term (workbook instructions).",
       "skos:related": [
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/human-resources-for-health-information-system--who-hlma-2021"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/human-resources-for-health-information-system--who-hlma-2021"
         },
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/human-resources-for-health-information-system--who-hlma-2021-2"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/human-resources-for-health-information-system--who-hlma-2021-2"
         },
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/human-resources-for-health-information-system--who-hwf-data-handbook-2022"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/human-resources-for-health-information-system--who-hwf-data-handbook-2022"
         },
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/human-resources-for-health-information-system--eurohealth-2022"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/human-resources-for-health-information-system--eurohealth-2022"
         },
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/human-resources-for-health-information-system--riley-hrhis-review-2012"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/human-resources-for-health-information-system--riley-hrhis-review-2012"
         },
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/human-resources-for-health-information-system--intrahealth-hwis-2013"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/human-resources-for-health-information-system--intrahealth-hwis-2013"
         },
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/human-resources-for-health-information-system--ishijima-hrhis-tanzania"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/human-resources-for-health-information-system--ishijima-hrhis-tanzania"
         },
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/human-resources-for-health-information-system--were-south-south-hris"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/human-resources-for-health-information-system--were-south-south-hris"
         },
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/human-resources-for-health-information-system--chibuzor-hwfis-review"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/human-resources-for-health-information-system--chibuzor-hwfis-review"
         },
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/human-resources-for-health-information-system--measure-evaluation-m3-2018"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/human-resources-for-health-information-system--measure-evaluation-m3-2018"
         },
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/human-resources-for-health-information-system--waters-zhris"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/human-resources-for-health-information-system--waters-zhris"
         },
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/human-resources-for-health-information-system--wikipedia-hrhis"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/human-resources-for-health-information-system--wikipedia-hrhis"
         }
       ],
       "dcterms:source": "library/twg-glossary-2026-09-29/HWF_registry_DTH_Glossary_DRAFT.xlsx",
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/in-service-training",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/in-service-training",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "In-service training"
+          "@value": "In-service training",
+          "@language": "en"
         }
       ],
       "skos:scopeNote": "Open for working-group review: 2 candidate definitions, none adopted.",
       "skos:related": [
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/in-service-training--who-nhwa-2023"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/in-service-training--who-nhwa-2023"
         },
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/in-service-training--who-hlma-2021"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/in-service-training--who-hlma-2021"
         }
       ],
       "dcterms:source": "library/twg-glossary-2026-09-29/HWF_registry_DTH_Glossary_DRAFT.xlsx",
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/international-standard-classification-of-occupations",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/international-standard-classification-of-occupations",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "International Standard Classification of Occupations (ISCO)"
+          "@value": "International Standard Classification of Occupations (ISCO)",
+          "@language": "en"
         }
       ],
       "skos:altLabel": [
-        "ISCO",
-        "ISCO-08"
+        {
+          "@value": "ISCO",
+          "@language": "en"
+        },
+        {
+          "@value": "ISCO-08",
+          "@language": "en"
+        }
       ],
       "skos:notation": "ISCO",
       "skos:scopeNote": "Open for working-group review: 1 candidate definition, none adopted.",
       "skos:related": [
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/international-standard-classification-of-occupations--who-hlma-2021"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/international-standard-classification-of-occupations--who-hlma-2021"
         }
       ],
       "dcterms:source": "library/twg-glossary-2026-09-29/HWF_registry_DTH_Glossary_DRAFT.xlsx",
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/labour-force-survey",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/labour-force-survey",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Labour force survey"
+          "@value": "Labour force survey",
+          "@language": "en"
         }
       ],
       "skos:scopeNote": "Open for working-group review: 1 candidate definition, none adopted.",
       "skos:related": [
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/labour-force-survey--who-hlma-2021"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/labour-force-survey--who-hlma-2021"
         }
       ],
       "dcterms:source": "library/twg-glossary-2026-09-29/HWF_registry_DTH_Glossary_DRAFT.xlsx",
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/licensing",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/licensing",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Licensing"
+          "@value": "Licensing",
+          "@language": "en"
         }
       ],
       "skos:scopeNote": "Open for working-group review: 2 candidate definitions, none adopted.",
       "skos:related": [
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/licensing--who-wpro-hwf-framework-2024"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/licensing--who-wpro-hwf-framework-2024"
         },
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/licensing--who-hlma-2021"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/licensing--who-hlma-2021"
         }
       ],
       "dcterms:source": "library/twg-glossary-2026-09-29/HWF_registry_DTH_Glossary_DRAFT.xlsx",
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/migration",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/migration",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Migration"
+          "@value": "Migration",
+          "@language": "en"
         }
       ],
       "skos:scopeNote": "Open for working-group review: 1 candidate definition, none adopted.",
       "skos:related": [
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/migration--who-hlma-2021"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/migration--who-hlma-2021"
         }
       ],
       "dcterms:source": "library/twg-glossary-2026-09-29/HWF_registry_DTH_Glossary_DRAFT.xlsx",
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/mobility-flow",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/mobility-flow",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Mobility flow"
+          "@value": "Mobility flow",
+          "@language": "en"
         }
       ],
       "skos:scopeNote": "Open for working-group review: 1 candidate definition, none adopted.",
       "skos:related": [
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/mobility-flow--who-hlma-2021"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/mobility-flow--who-hlma-2021"
         }
       ],
       "dcterms:source": "library/twg-glossary-2026-09-29/HWF_registry_DTH_Glossary_DRAFT.xlsx",
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/national-health-workforce-accounts",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/national-health-workforce-accounts",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "National Health Workforce Accounts (NHWA)"
+          "@value": "National Health Workforce Accounts (NHWA)",
+          "@language": "en"
         }
       ],
       "skos:altLabel": [
-        "NHWA"
+        {
+          "@value": "NHWA",
+          "@language": "en"
+        }
       ],
       "skos:notation": "NHWA",
       "skos:scopeNote": "Open for working-group review: 1 candidate definition, none adopted.",
       "skos:related": [
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/national-health-workforce-accounts--who-nhwa-2023"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/national-health-workforce-accounts--who-nhwa-2023"
         }
       ],
       "dcterms:source": "library/twg-glossary-2026-09-29/HWF_registry_DTH_Glossary_DRAFT.xlsx",
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/occupation",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/occupation",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Occupation"
+          "@value": "Occupation",
+          "@language": "en"
         }
       ],
       "skos:scopeNote": "Open for working-group review: 2 candidate definitions, none adopted.",
       "skos:related": [
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/occupation--who-hpr-2024"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/occupation--who-hpr-2024"
         },
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/occupation--who-nhwa-2023"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/occupation--who-nhwa-2023"
         }
       ],
       "dcterms:source": "library/twg-glossary-2026-09-29/HWF_registry_DTH_Glossary_DRAFT.xlsx",
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/place-of-training",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/place-of-training",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Place of training"
+          "@value": "Place of training",
+          "@language": "en"
         }
       ],
       "skos:scopeNote": "Open for working-group review: 1 candidate definition, none adopted.",
       "skos:related": [
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/place-of-training--who-nhwa-2023"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/place-of-training--who-nhwa-2023"
         }
       ],
       "dcterms:source": "library/twg-glossary-2026-09-29/HWF_registry_DTH_Glossary_DRAFT.xlsx",
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/pre-service-education",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/pre-service-education",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Pre-service education"
+          "@value": "Pre-service education",
+          "@language": "en"
         }
       ],
       "skos:scopeNote": "Open for working-group review: 1 candidate definition, none adopted.",
       "skos:related": [
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/pre-service-education--who-nhwa-2023"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/pre-service-education--who-nhwa-2023"
         }
       ],
       "dcterms:source": "library/twg-glossary-2026-09-29/HWF_registry_DTH_Glossary_DRAFT.xlsx",
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/professional-council",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/professional-council",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Professional council"
+          "@value": "Professional council",
+          "@language": "en"
         }
       ],
       "skos:altLabel": [
-        "professional regulatory/licensing authority/body",
-        "medical council/board",
-        "nursing council/board"
+        {
+          "@value": "professional regulatory/licensing authority/body",
+          "@language": "en"
+        },
+        {
+          "@value": "medical council/board",
+          "@language": "en"
+        },
+        {
+          "@value": "nursing council/board",
+          "@language": "en"
+        }
       ],
       "skos:scopeNote": "Open for working-group review: 2 candidate definitions, none adopted. TWG priority term (workbook instructions).",
       "skos:related": [
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/professional-council--who-hlma-2021"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/professional-council--who-hlma-2021"
         },
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/professional-council--openhie-hwr-ig-2016"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/professional-council--openhie-hwr-ig-2016"
         },
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-professional-council-examples"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-professional-council-examples"
         }
       ],
       "dcterms:source": "library/twg-glossary-2026-09-29/HWF_registry_DTH_Glossary_DRAFT.xlsx",
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/qualification",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/qualification",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Qualification"
+          "@value": "Qualification",
+          "@language": "en"
         }
       ],
       "skos:scopeNote": "Open for working-group review: 1 candidate definition, none adopted.",
       "skos:related": [
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/qualification--who-hpr-2024"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/qualification--who-hpr-2024"
         }
       ],
       "dcterms:source": "library/twg-glossary-2026-09-29/HWF_registry_DTH_Glossary_DRAFT.xlsx",
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/recruitment",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/recruitment",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Recruitment"
+          "@value": "Recruitment",
+          "@language": "en"
         }
       ],
       "skos:scopeNote": "Open for working-group review: 1 candidate definition, none adopted.",
       "skos:related": [
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/recruitment--who-hlma-2021"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/recruitment--who-hlma-2021"
         }
       ],
       "dcterms:source": "library/twg-glossary-2026-09-29/HWF_registry_DTH_Glossary_DRAFT.xlsx",
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/registration",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/registration",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Registration"
+          "@value": "Registration",
+          "@language": "en"
         }
       ],
       "skos:scopeNote": "Open for working-group review: 2 candidate definitions, none adopted.",
       "skos:related": [
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/registration--who-hlma-2021"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/registration--who-hlma-2021"
         },
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/registration--who-hpr-2024"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/registration--who-hpr-2024"
         }
       ],
       "dcterms:source": "library/twg-glossary-2026-09-29/HWF_registry_DTH_Glossary_DRAFT.xlsx",
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/regulation",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/regulation",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Regulation"
+          "@value": "Regulation",
+          "@language": "en"
         }
       ],
       "skos:scopeNote": "Open for working-group review: 4 candidate definitions, none adopted.",
       "skos:related": [
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/regulation--who-hpr-2024"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/regulation--who-hpr-2024"
         },
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/regulation--who-rural-retention-2021"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/regulation--who-rural-retention-2021"
         },
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/regulation--who-wpro-hwf-framework-2024"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/regulation--who-wpro-hwf-framework-2024"
         },
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/regulation--who-hlma-2021"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/regulation--who-hlma-2021"
         }
       ],
       "dcterms:source": "library/twg-glossary-2026-09-29/HWF_registry_DTH_Glossary_DRAFT.xlsx",
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/retention",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/retention",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Retention (of health workers)"
+          "@value": "Retention (of health workers)",
+          "@language": "en"
         }
       ],
       "skos:scopeNote": "Open for working-group review: 1 candidate definition, none adopted.",
       "skos:related": [
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/retention--who-hlma-2021"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/retention--who-hlma-2021"
         }
       ],
       "dcterms:source": "library/twg-glossary-2026-09-29/HWF_registry_DTH_Glossary_DRAFT.xlsx",
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/scope-of-practice",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/scope-of-practice",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Scope of practice"
+          "@value": "Scope of practice",
+          "@language": "en"
         }
       ],
       "skos:scopeNote": "Open for working-group review: 2 candidate definitions, none adopted.",
       "skos:related": [
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/scope-of-practice--who-hlma-2021"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/scope-of-practice--who-hlma-2021"
         },
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/scope-of-practice--who-rural-retention-2021"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/scope-of-practice--who-rural-retention-2021"
         }
       ],
       "dcterms:source": "library/twg-glossary-2026-09-29/HWF_registry_DTH_Glossary_DRAFT.xlsx",
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/stewardship",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/stewardship",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Stewardship"
+          "@value": "Stewardship",
+          "@language": "en"
         }
       ],
       "skos:scopeNote": "Open for working-group review: 1 candidate definition, none adopted.",
       "skos:related": [
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/stewardship--who-wpro-hwf-framework-2024"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/stewardship--who-wpro-hwf-framework-2024"
         }
       ],
       "dcterms:source": "library/twg-glossary-2026-09-29/HWF_registry_DTH_Glossary_DRAFT.xlsx",
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/stock",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/stock",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Stock (of health workers)"
+          "@value": "Stock (of health workers)",
+          "@language": "en"
         }
       ],
       "skos:scopeNote": "Open for working-group review: 1 candidate definition, none adopted.",
       "skos:related": [
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/stock--who-hlma-2021"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/stock--who-hlma-2021"
         }
       ],
       "dcterms:source": "library/twg-glossary-2026-09-29/HWF_registry_DTH_Glossary_DRAFT.xlsx",
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/supply",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/supply",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Supply (of health workers)"
+          "@value": "Supply (of health workers)",
+          "@language": "en"
         }
       ],
       "skos:scopeNote": "Open for working-group review: 1 candidate definition, none adopted.",
       "skos:related": [
         {
-          "@id": "https://litlfred.github.io/dth-hrh/v0/ns#glossary/twg-candidates/supply--who-hlma-2021"
+          "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/twg-candidates/supply--who-hlma-2021"
         }
       ],
       "dcterms:source": "library/twg-glossary-2026-09-29/HWF_registry_DTH_Glossary_DRAFT.xlsx",
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/world-health-organization",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/world-health-organization",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "World Health Organization"
+          "@value": "World Health Organization",
+          "@language": "en"
         }
       ],
       "skos:altLabel": [
-        "WHO",
-        "AFRO",
-        "WPRO",
-        "AFR",
-        "AMR",
-        "EUR",
-        "SEAR",
-        "WPR"
+        {
+          "@value": "WHO",
+          "@language": "en"
+        },
+        {
+          "@value": "AFRO",
+          "@language": "en"
+        },
+        {
+          "@value": "WPRO",
+          "@language": "en"
+        },
+        {
+          "@value": "AFR",
+          "@language": "en"
+        },
+        {
+          "@value": "AMR",
+          "@language": "en"
+        },
+        {
+          "@value": "EUR",
+          "@language": "en"
+        },
+        {
+          "@value": "SEAR",
+          "@language": "en"
+        },
+        {
+          "@value": "WPR",
+          "@language": "en"
+        }
       ],
       "skos:notation": "WHO",
       "skos:scopeNote": "Named throughout the handbook outline and glossary workbook, including its six regional offices (AFRO, WPRO, AFR, AMR, EUR, SEAR, WPR). A candidate: no definition has been written. Working draft, subject to finalization of terms (CS-018).",
@@ -1209,18 +1376,22 @@
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/digital-public-infrastructure-for-health",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/digital-public-infrastructure-for-health",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Digital public infrastructure for health"
+          "@value": "Digital public infrastructure for health",
+          "@language": "en"
         }
       ],
       "skos:altLabel": [
-        "DPI-H"
+        {
+          "@value": "DPI-H",
+          "@language": "en"
+        }
       ],
       "skos:notation": "DPI-H",
       "skos:scopeNote": "Expanded in Chapter 1 of the handbook outline, which gives the expansion used as prefLabel. A candidate: no definition has been written. Working draft, subject to finalization of terms (CS-018).",
@@ -1228,18 +1399,22 @@
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/business-process-model-and-notation",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/business-process-model-and-notation",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Business Process Model and Notation"
+          "@value": "Business Process Model and Notation",
+          "@language": "en"
         }
       ],
       "skos:altLabel": [
-        "BPMN"
+        {
+          "@value": "BPMN",
+          "@language": "en"
+        }
       ],
       "skos:notation": "BPMN",
       "skos:scopeNote": "Used in Chapters 4 and 5 for business process workflows; expansion supplied for review. A candidate: no definition has been written. Working draft, subject to finalization of terms (CS-018).",
@@ -1247,18 +1422,22 @@
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/digital-implementation-investment-guide",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/digital-implementation-investment-guide",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Digital implementation investment guide"
+          "@value": "Digital implementation investment guide",
+          "@language": "en"
         }
       ],
       "skos:altLabel": [
-        "DIIG"
+        {
+          "@value": "DIIG",
+          "@language": "en"
+        }
       ],
       "skos:notation": "DIIG",
       "skos:scopeNote": "Expanded in Chapter 3 of the handbook outline, which gives the expansion used as prefLabel. A candidate: no definition has been written. Working draft, subject to finalization of terms (CS-018).",
@@ -1266,18 +1445,22 @@
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/electronic-medical-record",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/electronic-medical-record",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Electronic medical record"
+          "@value": "Electronic medical record",
+          "@language": "en"
         }
       ],
       "skos:altLabel": [
-        "EMR"
+        {
+          "@value": "EMR",
+          "@language": "en"
+        }
       ],
       "skos:notation": "EMR",
       "skos:scopeNote": "Used in Chapter 5 and Chapter 10 for point-of-care clinical systems; expansion supplied for review. A candidate: no definition has been written. Working draft, subject to finalization of terms (CS-018).",
@@ -1285,19 +1468,26 @@
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/smart-guidelines",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/smart-guidelines",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Standards-based, machine-readable, adaptive, requirements-based and testable"
+          "@value": "Standards-based, machine-readable, adaptive, requirements-based and testable",
+          "@language": "en"
         }
       ],
       "skos:altLabel": [
-        "SMART",
-        "SMART Guidelines"
+        {
+          "@value": "SMART",
+          "@language": "en"
+        },
+        {
+          "@value": "SMART Guidelines",
+          "@language": "en"
+        }
       ],
       "skos:notation": "SMART",
       "skos:scopeNote": "Used in Chapter 3 of the handbook outline; expansion supplied for review. A candidate: no definition has been written. Working draft, subject to finalization of terms (CS-018).",
@@ -1305,18 +1495,22 @@
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/technical-working-group",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/technical-working-group",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Technical working group"
+          "@value": "Technical working group",
+          "@language": "en"
         }
       ],
       "skos:altLabel": [
-        "TWG"
+        {
+          "@value": "TWG",
+          "@language": "en"
+        }
       ],
       "skos:notation": "TWG",
       "skos:scopeNote": "Expanded in the handbook front matter and glossary workbook, which gives the expansion used as prefLabel. A candidate: no definition has been written. Working draft, subject to finalization of terms (CS-018).",
@@ -1324,18 +1518,22 @@
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/international-telecommunication-union",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/international-telecommunication-union",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "International Telecommunication Union"
+          "@value": "International Telecommunication Union",
+          "@language": "en"
         }
       ],
       "skos:altLabel": [
-        "ITU"
+        {
+          "@value": "ITU",
+          "@language": "en"
+        }
       ],
       "skos:notation": "ITU",
       "skos:scopeNote": "Named in Chapter 1 (WHO/ITU DPI-H reference architecture); expansion supplied for review. A candidate: no definition has been written. Working draft, subject to finalization of terms (CS-018).",
@@ -1343,18 +1541,22 @@
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/minimum-data-set",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/minimum-data-set",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Minimum Data Set"
+          "@value": "Minimum Data Set",
+          "@language": "en"
         }
       ],
       "skos:altLabel": [
-        "MDS"
+        {
+          "@value": "MDS",
+          "@language": "en"
+        }
       ],
       "skos:notation": "MDS",
       "skos:scopeNote": "Expanded in Chapter 11 and the glossary workbook (WHO Minimum Data Set for Health Workforce Registry), which gives the expansion used as prefLabel. A candidate: no definition has been written. Working draft, subject to finalization of terms (CS-018).",
@@ -1362,18 +1564,22 @@
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/open-health-information-exchange",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/open-health-information-exchange",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Open Health Information Exchange"
+          "@value": "Open Health Information Exchange",
+          "@language": "en"
         }
       ],
       "skos:altLabel": [
-        "OpenHIE"
+        {
+          "@value": "OpenHIE",
+          "@language": "en"
+        }
       ],
       "skos:notation": "OpenHIE",
       "skos:scopeNote": "Named in Chapter 10 and the glossary workbook; expansion supplied for review. A candidate: no definition has been written. Working draft, subject to finalization of terms (CS-018).",
@@ -1381,18 +1587,22 @@
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/health-information-system",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/health-information-system",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Health information system"
+          "@value": "Health information system",
+          "@language": "en"
         }
       ],
       "skos:altLabel": [
-        "HIS"
+        {
+          "@value": "HIS",
+          "@language": "en"
+        }
       ],
       "skos:notation": "HIS",
       "skos:scopeNote": "Expanded in the glossary workbook and Chapter 10, which gives the expansion used as prefLabel. A candidate: no definition has been written. Working draft, subject to finalization of terms (CS-018).",
@@ -1400,18 +1610,22 @@
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/decision-model-and-notation",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/decision-model-and-notation",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Decision Model and Notation"
+          "@value": "Decision Model and Notation",
+          "@language": "en"
         }
       ],
       "skos:altLabel": [
-        "DMN"
+        {
+          "@value": "DMN",
+          "@language": "en"
+        }
       ],
       "skos:notation": "DMN",
       "skos:scopeNote": "Used in Chapter 7 for decision-support logic tables; expansion supplied for review. A candidate: no definition has been written. Working draft, subject to finalization of terms (CS-018).",
@@ -1419,18 +1633,22 @@
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/electronic-health-record",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/electronic-health-record",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Electronic health record"
+          "@value": "Electronic health record",
+          "@language": "en"
         }
       ],
       "skos:altLabel": [
-        "EHR"
+        {
+          "@value": "EHR",
+          "@language": "en"
+        }
       ],
       "skos:notation": "EHR",
       "skos:scopeNote": "Used in Chapter 5 and Chapter 10; expansion supplied for review. A candidate: no definition has been written. Working draft, subject to finalization of terms (CS-018).",
@@ -1438,18 +1656,22 @@
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/application-programming-interface",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/application-programming-interface",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Application programming interface"
+          "@value": "Application programming interface",
+          "@language": "en"
         }
       ],
       "skos:altLabel": [
-        "API"
+        {
+          "@value": "API",
+          "@language": "en"
+        }
       ],
       "skos:notation": "API",
       "skos:scopeNote": "Used in the handbook outline and Chapter 10; expansion supplied for review. A candidate: no definition has been written. Working draft, subject to finalization of terms (CS-018).",
@@ -1457,18 +1679,22 @@
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/education-management-information-system",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/education-management-information-system",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Education management information system"
+          "@value": "Education management information system",
+          "@language": "en"
         }
       ],
       "skos:altLabel": [
-        "EMIS"
+        {
+          "@value": "EMIS",
+          "@language": "en"
+        }
       ],
       "skos:notation": "EMIS",
       "skos:scopeNote": "Used in the glossary workbook (HRHIS candidates); expansion supplied for review. A candidate: no definition has been written. Working draft, subject to finalization of terms (CS-018).",
@@ -1476,18 +1702,22 @@
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/global-digital-health-certification-network",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/global-digital-health-certification-network",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Global Digital Health Certification Network"
+          "@value": "Global Digital Health Certification Network",
+          "@language": "en"
         }
       ],
       "skos:altLabel": [
-        "GDHCN"
+        {
+          "@value": "GDHCN",
+          "@language": "en"
+        }
       ],
       "skos:notation": "GDHCN",
       "skos:scopeNote": "Expanded in the glossary workbook, which gives the expansion used as prefLabel. A candidate: no definition has been written. Working draft, subject to finalization of terms (CS-018).",
@@ -1495,18 +1725,22 @@
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/health-level-seven",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/health-level-seven",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Health Level Seven"
+          "@value": "Health Level Seven",
+          "@language": "en"
         }
       ],
       "skos:altLabel": [
-        "HL7"
+        {
+          "@value": "HL7",
+          "@language": "en"
+        }
       ],
       "skos:notation": "HL7",
       "skos:scopeNote": "Named in Chapter 10 (HL7 FHIR); expansion supplied for review. A candidate: no definition has been written. Working draft, subject to finalization of terms (CS-018).",
@@ -1514,18 +1748,22 @@
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/health-management-information-system",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/health-management-information-system",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Health management information system"
+          "@value": "Health management information system",
+          "@language": "en"
         }
       ],
       "skos:altLabel": [
-        "HMIS"
+        {
+          "@value": "HMIS",
+          "@language": "en"
+        }
       ],
       "skos:notation": "HMIS",
       "skos:scopeNote": "Used in Chapter 5 and Chapter 10; expansion supplied for review. A candidate: no definition has been written. Working draft, subject to finalization of terms (CS-018).",
@@ -1533,18 +1771,22 @@
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/healthcare-provider-directory",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/healthcare-provider-directory",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Healthcare Provider Directory"
+          "@value": "Healthcare Provider Directory",
+          "@language": "en"
         }
       ],
       "skos:altLabel": [
-        "HPD"
+        {
+          "@value": "HPD",
+          "@language": "en"
+        }
       ],
       "skos:notation": "HPD",
       "skos:scopeNote": "Expanded in the glossary workbook (IHE Healthcare Provider Directory), which gives the expansion used as prefLabel. A candidate: no definition has been written. Working draft, subject to finalization of terms (CS-018).",
@@ -1552,18 +1794,22 @@
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/integrating-the-healthcare-enterprise",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/integrating-the-healthcare-enterprise",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Integrating the Healthcare Enterprise"
+          "@value": "Integrating the Healthcare Enterprise",
+          "@language": "en"
         }
       ],
       "skos:altLabel": [
-        "IHE"
+        {
+          "@value": "IHE",
+          "@language": "en"
+        }
       ],
       "skos:notation": "IHE",
       "skos:scopeNote": "Named in Chapter 10 (IHE mCSD and HPD profiles); expansion supplied for review. A candidate: no definition has been written. Working draft, subject to finalization of terms (CS-018).",
@@ -1571,18 +1817,22 @@
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/ihris",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/ihris",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "iHRIS"
+          "@value": "iHRIS",
+          "@language": "en"
         }
       ],
       "skos:altLabel": [
-        "iHRIS"
+        {
+          "@value": "iHRIS",
+          "@language": "en"
+        }
       ],
       "skos:notation": "iHRIS",
       "skos:scopeNote": "Named in the glossary workbook (open-source human resources for health information system software). A candidate: no definition has been written. Working draft, subject to finalization of terms (CS-018).",
@@ -1590,18 +1840,22 @@
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/international-standard-classification-of-education",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/international-standard-classification-of-education",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "International Standard Classification of Education"
+          "@value": "International Standard Classification of Education",
+          "@language": "en"
         }
       ],
       "skos:altLabel": [
-        "ISCED"
+        {
+          "@value": "ISCED",
+          "@language": "en"
+        }
       ],
       "skos:notation": "ISCED",
       "skos:scopeNote": "Expanded in Chapter 11, which gives the expansion used as prefLabel. A candidate: no definition has been written. Working draft, subject to finalization of terms (CS-018).",
@@ -1609,18 +1863,22 @@
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/international-organization-for-standardization",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/international-organization-for-standardization",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "International Organization for Standardization"
+          "@value": "International Organization for Standardization",
+          "@language": "en"
         }
       ],
       "skos:altLabel": [
-        "ISO"
+        {
+          "@value": "ISO",
+          "@language": "en"
+        }
       ],
       "skos:notation": "ISO",
       "skos:scopeNote": "Named in Chapter 11; expansion supplied for review. A candidate: no definition has been written. Working draft, subject to finalization of terms (CS-018).",
@@ -1628,18 +1886,22 @@
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/learning-management-system",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/learning-management-system",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Learning management system"
+          "@value": "Learning management system",
+          "@language": "en"
         }
       ],
       "skos:altLabel": [
-        "LMS"
+        {
+          "@value": "LMS",
+          "@language": "en"
+        }
       ],
       "skos:notation": "LMS",
       "skos:scopeNote": "Expanded in the glossary workbook, which gives the expansion used as prefLabel. A candidate: no definition has been written. Working draft, subject to finalization of terms (CS-018).",
@@ -1647,18 +1909,22 @@
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/mobile-care-services-discovery",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/mobile-care-services-discovery",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Mobile Care Services Discovery"
+          "@value": "Mobile Care Services Discovery",
+          "@language": "en"
         }
       ],
       "skos:altLabel": [
-        "mCSD"
+        {
+          "@value": "mCSD",
+          "@language": "en"
+        }
       ],
       "skos:notation": "mCSD",
       "skos:scopeNote": "Expanded in Chapter 10 (IHE mCSD profile), which gives the expansion used as prefLabel. A candidate: no definition has been written. Working draft, subject to finalization of terms (CS-018).",
@@ -1666,18 +1932,22 @@
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/training-institution-information-system",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/training-institution-information-system",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Training institution information system"
+          "@value": "Training institution information system",
+          "@language": "en"
         }
       ],
       "skos:altLabel": [
-        "TIIS"
+        {
+          "@value": "TIIS",
+          "@language": "en"
+        }
       ],
       "skos:notation": "TIIS",
       "skos:scopeNote": "Used in the glossary workbook (HRHIS candidates); expansion supplied for review. A candidate: no definition has been written. Working draft, subject to finalization of terms (CS-018).",
@@ -1685,18 +1955,22 @@
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/zimbabwe-human-resources-information-system",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/zimbabwe-human-resources-information-system",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Zimbabwe Human Resources Information System"
+          "@value": "Zimbabwe Human Resources Information System",
+          "@language": "en"
         }
       ],
       "skos:altLabel": [
-        "ZHRIS"
+        {
+          "@value": "ZHRIS",
+          "@language": "en"
+        }
       ],
       "skos:notation": "ZHRIS",
       "skos:scopeNote": "Expanded in the glossary workbook (HRHIS candidates), which gives the expansion used as prefLabel. A candidate: no definition has been written. Working draft, subject to finalization of terms (CS-018).",
@@ -1704,18 +1978,22 @@
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/artificial-intelligence",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/artificial-intelligence",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Artificial intelligence"
+          "@value": "Artificial intelligence",
+          "@language": "en"
         }
       ],
       "skos:altLabel": [
-        "AI"
+        {
+          "@value": "AI",
+          "@language": "en"
+        }
       ],
       "skos:notation": "AI",
       "skos:scopeNote": "Used in Chapter 3 and the glossary workbook; expansion supplied for review. A candidate: no definition has been written. Working draft, subject to finalization of terms (CS-018).",
@@ -1723,18 +2001,22 @@
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/international-labour-organization",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/international-labour-organization",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "International Labour Organization"
+          "@value": "International Labour Organization",
+          "@language": "en"
         }
       ],
       "skos:altLabel": [
-        "ILO"
+        {
+          "@value": "ILO",
+          "@language": "en"
+        }
       ],
       "skos:notation": "ILO",
       "skos:scopeNote": "Named in Chapter 11 and references (ISCO-08 custodian); expansion supplied for review. A candidate: no definition has been written. Working draft, subject to finalization of terms (CS-018).",
@@ -1742,19 +2024,26 @@
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/key-performance-indicator",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/key-performance-indicator",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Key performance indicator"
+          "@value": "Key performance indicator",
+          "@language": "en"
         }
       ],
       "skos:altLabel": [
-        "KPI",
-        "KPIs"
+        {
+          "@value": "KPI",
+          "@language": "en"
+        },
+        {
+          "@value": "KPIs",
+          "@language": "en"
+        }
       ],
       "skos:notation": "KPI",
       "skos:scopeNote": "Used in the handbook outline; expansion supplied for review. A candidate: no definition has been written. Working draft, subject to finalization of terms (CS-018).",
@@ -1762,18 +2051,22 @@
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/monitoring-and-evaluation",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/monitoring-and-evaluation",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Monitoring and evaluation"
+          "@value": "Monitoring and evaluation",
+          "@language": "en"
         }
       ],
       "skos:altLabel": [
-        "M&E"
+        {
+          "@value": "M&E",
+          "@language": "en"
+        }
       ],
       "skos:notation": "M&E",
       "skos:scopeNote": "Used in Chapter 3 (DIIG mapping); expansion supplied for review. A candidate: no definition has been written. Working draft, subject to finalization of terms (CS-018).",
@@ -1781,19 +2074,26 @@
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/ministry-of-health",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/ministry-of-health",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Ministry of Health"
+          "@value": "Ministry of Health",
+          "@language": "en"
         }
       ],
       "skos:altLabel": [
-        "MoH",
-        "MOH"
+        {
+          "@value": "MoH",
+          "@language": "en"
+        },
+        {
+          "@value": "MOH",
+          "@language": "en"
+        }
       ],
       "skos:notation": "MoH",
       "skos:scopeNote": "Used in the handbook outline and glossary workbook; expansion supplied for review. A candidate: no definition has been written. Working draft, subject to finalization of terms (CS-018).",
@@ -1801,18 +2101,22 @@
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/organisation-for-economic-co-operation-and-development",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/organisation-for-economic-co-operation-and-development",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Organisation for Economic Co-operation and Development"
+          "@value": "Organisation for Economic Co-operation and Development",
+          "@language": "en"
         }
       ],
       "skos:altLabel": [
-        "OECD"
+        {
+          "@value": "OECD",
+          "@language": "en"
+        }
       ],
       "skos:notation": "OECD",
       "skos:scopeNote": "Named in the glossary workbook (Joint Questionnaire on non-monetary health care statistics); expansion supplied for review. A candidate: no definition has been written. Working draft, subject to finalization of terms (CS-018).",
@@ -1820,18 +2124,22 @@
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/service-oriented-architecture",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/service-oriented-architecture",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Service-oriented architecture"
+          "@value": "Service-oriented architecture",
+          "@language": "en"
         }
       ],
       "skos:altLabel": [
-        "SOA"
+        {
+          "@value": "SOA",
+          "@language": "en"
+        }
       ],
       "skos:notation": "SOA",
       "skos:scopeNote": "Expanded in the glossary workbook, which gives the expansion used as prefLabel. A candidate: no definition has been written. Working draft, subject to finalization of terms (CS-018).",
@@ -1839,18 +2147,22 @@
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/single-sign-on",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/single-sign-on",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Single sign-on"
+          "@value": "Single sign-on",
+          "@language": "en"
         }
       ],
       "skos:altLabel": [
-        "SSO"
+        {
+          "@value": "SSO",
+          "@language": "en"
+        }
       ],
       "skos:notation": "SSO",
       "skos:scopeNote": "Used in the glossary workbook; expansion supplied for review. A candidate: no definition has been written. Working draft, subject to finalization of terms (CS-018).",
@@ -1858,18 +2170,22 @@
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/united-nations",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/united-nations",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "United Nations"
+          "@value": "United Nations",
+          "@language": "en"
         }
       ],
       "skos:altLabel": [
-        "UN"
+        {
+          "@value": "UN",
+          "@language": "en"
+        }
       ],
       "skos:notation": "UN",
       "skos:scopeNote": "Used in Chapter 3; expansion supplied for review. A candidate: no definition has been written. Working draft, subject to finalization of terms (CS-018).",
@@ -1877,18 +2193,22 @@
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/unesco",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/unesco",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "United Nations Educational, Scientific and Cultural Organization"
+          "@value": "United Nations Educational, Scientific and Cultural Organization",
+          "@language": "en"
         }
       ],
       "skos:altLabel": [
-        "UNESCO"
+        {
+          "@value": "UNESCO",
+          "@language": "en"
+        }
       ],
       "skos:notation": "UNESCO",
       "skos:scopeNote": "Named in Chapter 11 and references (ISCED custodian); expansion supplied for review. A candidate: no definition has been written. Working draft, subject to finalization of terms (CS-018).",
@@ -1896,18 +2216,22 @@
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/simple-knowledge-organization-system",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/simple-knowledge-organization-system",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Simple Knowledge Organization System"
+          "@value": "Simple Knowledge Organization System",
+          "@language": "en"
         }
       ],
       "skos:altLabel": [
-        "SKOS"
+        {
+          "@value": "SKOS",
+          "@language": "en"
+        }
       ],
       "skos:notation": "SKOS",
       "skos:scopeNote": "Used in the glossary introduction; expansion supplied for review. A candidate: no definition has been written. Working draft, subject to finalization of terms (CS-018).",
@@ -1915,22 +2239,38 @@
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh/registered-nurse",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh/registered-nurse",
       "@type": "skos:Concept",
       "skos:inScheme": {
-        "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
+        "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh"
       },
       "skos:prefLabel": [
         {
-          "@value": "Registered nurse"
+          "@value": "Registered nurse",
+          "@language": "en"
         }
       ],
       "skos:altLabel": [
-        "RN",
-        "RNs",
-        "RPN",
-        "APN",
-        "LHV"
+        {
+          "@value": "RN",
+          "@language": "en"
+        },
+        {
+          "@value": "RNs",
+          "@language": "en"
+        },
+        {
+          "@value": "RPN",
+          "@language": "en"
+        },
+        {
+          "@value": "APN",
+          "@language": "en"
+        },
+        {
+          "@value": "LHV",
+          "@language": "en"
+        }
       ],
       "skos:notation": "RN",
       "skos:scopeNote": "Expanded in the professional council examples sheet (RN, RPN, APN, LHV nursing cadres), which gives the expansion used as prefLabel. A candidate: no definition has been written. Working draft, subject to finalization of terms (CS-018).",
@@ -1938,7 +2278,7 @@
       "skos:note": "candidate"
     },
     {
-      "@id": "https://litlfred.github.io/dth-hrh/v0/ns/glossary/dth-hrh#members",
+      "@id": "https://worldhealthorganization.github.io/dth-hrh/v0/ns/glossary/dth-hrh#members",
       "@type": "skos:Collection",
       "skos:prefLabel": "Glossary of the Digital Transformation Handbook for Human Resources for Health and Health Worker Registries: external terms",
       "skos:member": [

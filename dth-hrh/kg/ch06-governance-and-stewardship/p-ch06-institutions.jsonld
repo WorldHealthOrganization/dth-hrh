@@ -1,8 +1,8 @@
 {
   "@context": [
-    "https://litlfred.github.io/dth-hrh/ns/context/v1.jsonld",
+    "https://worldhealthorganization.github.io/dth-hrh/ns/context/v1.jsonld",
     {
-      "@base": "https://litlfred.github.io/folio/",
+      "@base": "https://worldhealthorganization.github.io/dth-hrh/v0/",
       "folio-assistant-core": "https://litlfred.github.io/folio-assistant-core/v0/ns/"
     }
   ],
@@ -26,11 +26,11 @@
       "basis": "agent-proposed by name, for working-group review (dth-hrh#47)",
       "elements": [
         {
-          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/elements/id-63c448813aea4067bb68281f7926fd2b.jsonld",
+          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/element/id-63c448813aea4067bb68281f7926fd2b",
           "name": "Licensing Bodies"
         },
         {
-          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/elements/id-82fc8a35ade94ff3a02acc9194490fc8.jsonld",
+          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/element/id-82fc8a35ade94ff3a02acc9194490fc8",
           "name": "Academic & Training Institutions"
         }
       ]

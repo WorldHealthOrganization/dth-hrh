@@ -1,8 +1,8 @@
 {
   "@context": [
-    "https://litlfred.github.io/dth-hrh/ns/context/v1.jsonld",
+    "https://worldhealthorganization.github.io/dth-hrh/ns/context/v1.jsonld",
     {
-      "@base": "https://litlfred.github.io/folio/",
+      "@base": "https://worldhealthorganization.github.io/dth-hrh/v0/",
       "smart-base": "https://litlfred.github.io/smart-base/v0/ns/"
     }
   ],
@@ -27,24 +27,24 @@
     "requirementId": "FR-AN-03",
     "priority": "to-be-prioritized",
     "externalGlossaryReferences": {
-      "scheme": "https://litlfred.github.io/who-iris/v0/ns/glossary/hrhis-registry-2015",
+      "scheme": "https://worldhealthorganization.github.io/who-iris/v0/ns/glossary/hrhis-registry-2015",
       "schemeId": "hrhis-registry-2015",
       "publisher": "who-iris glossary (who-iris#167)",
       "role": "external, non-definitional: contributes to a definition, does not define it; this handbook's terms stay its own working definitions (owner, 2026-11-02 07:10Z)",
       "basis": "agent-proposed by reading, for working-group review (dth-hrh#47)",
       "concepts": [
         {
-          "iri": "https://litlfred.github.io/who-iris/v0/ns/glossary/hrhis-registry-2015/fr-sec-006-03",
+          "iri": "https://worldhealthorganization.github.io/who-iris/v0/ns/glossary/hrhis-registry-2015/fr-sec-006-03",
           "id": "fr-sec-006-03"
         },
         {
-          "iri": "https://litlfred.github.io/who-iris/v0/ns/glossary/hrhis-registry-2015/fr-sec-037-09",
+          "iri": "https://worldhealthorganization.github.io/who-iris/v0/ns/glossary/hrhis-registry-2015/fr-sec-037-09",
           "id": "fr-sec-037-09"
         }
       ],
       "systemTypes": [
         {
-          "iri": "https://litlfred.github.io/who-iris/v0/ns/glossary/hrhis-registry-2015/health-workforce-registry",
+          "iri": "https://worldhealthorganization.github.io/who-iris/v0/ns/glossary/hrhis-registry-2015/health-workforce-registry",
           "id": "health-workforce-registry"
         }
       ]
@@ -54,7 +54,7 @@
       "basis": "agent-proposed by name, for working-group review (dth-hrh#47)",
       "elements": [
         {
-          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/elements/id-c794022993b0421f995b6f273a3ba252.jsonld",
+          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/element/id-c794022993b0421f995b6f273a3ba252",
           "name": "Registry Maintenance and Data Quality"
         }
       ]

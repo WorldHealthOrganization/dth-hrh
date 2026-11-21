@@ -1,8 +1,8 @@
 {
   "@context": [
-    "https://litlfred.github.io/dth-hrh/ns/context/v1.jsonld",
+    "https://worldhealthorganization.github.io/dth-hrh/ns/context/v1.jsonld",
     {
-      "@base": "https://litlfred.github.io/folio/",
+      "@base": "https://worldhealthorganization.github.io/dth-hrh/v0/",
       "smart-base": "https://litlfred.github.io/smart-base/v0/ns/"
     }
   ],
@@ -37,25 +37,25 @@
       "basis": "agent-proposed by name, for working-group review (dth-hrh#47)",
       "elements": [
         {
-          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/elements/id-8b80d28cdd48418480cee878af495ac3.jsonld",
+          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/element/id-8b80d28cdd48418480cee878af495ac3",
           "name": "Logical Information Model Maintainer",
           "type": "BusinessRole"
         },
         {
-          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/elements/id-350840520ae44f658b6ad3b3762e382e.jsonld",
+          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/element/id-350840520ae44f658b6ad3b3762e382e",
           "name": "DPI-H Health Workforce Registry (HWR)",
           "type": "ApplicationComponent"
         }
       ],
       "views": [
         {
-          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/views/id-f7a5524bbac84f1a9cf424754750819d.jsonld",
+          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/view/id-f7a5524bbac84f1a9cf424754750819d",
           "name": "Metadata Registry Governance"
         }
       ]
     },
     "glossaryTerms": [
-      "https://litlfred.github.io/dth-hrh/v0/ns#glossary/dth-hrh/health-workforce-registry",
+      "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/dth-hrh/health-workforce-registry",
       "https://litlfred.github.io/smart-ra/v0/ns#glossary/dpi-h-ra/data-governance"
     ],
     "relatedBlocks": [

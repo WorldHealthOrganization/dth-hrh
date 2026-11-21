@@ -1,8 +1,8 @@
 {
   "@context": [
-    "https://litlfred.github.io/dth-hrh/ns/context/v1.jsonld",
+    "https://worldhealthorganization.github.io/dth-hrh/ns/context/v1.jsonld",
     {
-      "@base": "https://litlfred.github.io/folio/",
+      "@base": "https://worldhealthorganization.github.io/dth-hrh/v0/",
       "folio-assistant-core": "https://litlfred.github.io/folio-assistant-core/v0/ns/"
     }
   ],
@@ -26,15 +26,15 @@
       "basis": "agent-proposed by name, for working-group review (dth-hrh#47)",
       "elements": [
         {
-          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/elements/id-350840520ae44f658b6ad3b3762e382e.jsonld",
+          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/element/id-350840520ae44f658b6ad3b3762e382e",
           "name": "DPI-H Health Workforce Registry (HWR)"
         },
         {
-          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/elements/id-558aba849cc54d659ef1a5473d9aa2f1.jsonld",
+          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/element/id-558aba849cc54d659ef1a5473d9aa2f1",
           "name": "Establishment of Authoritative National Health Workforce Registry"
         },
         {
-          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/elements/id-dcb4ea610e32444899cc9aa0697c7ce9.jsonld",
+          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/element/id-dcb4ea610e32444899cc9aa0697c7ce9",
           "name": "Assignment of Unique Health Worker ID)"
         }
       ]

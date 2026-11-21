@@ -4,7 +4,7 @@
     "schema": "https://schema.org/",
     "dcterms": "http://purl.org/dc/terms/"
   },
-  "@id": "https://litlfred.github.io/dth-hrh/archimate/0.1.0-draft.1/element/id-3d0c2c2525ed4131ae533eed8893d4d0",
+  "@id": "https://worldhealthorganization.github.io/dth-hrh/archimate/0.1.0-draft.1/element/id-3d0c2c2525ed4131ae533eed8893d4d0",
   "@type": "archimate:Capability",
   "schema:identifier": "id-3d0c2c2525ed4131ae533eed8893d4d0",
   "schema:name": "Analytics & Business Intelligence",
@@ -12,5 +12,5 @@
   "dcterms:source": {
     "@id": "https://litlfred.github.io/smart-ra/archimate/0.2.0/element/id-3d0c2c2525ed4131ae533eed8893d4d0"
   },
-  "dcterms:isPartOf": "https://litlfred.github.io/dth-hrh/archimate/0.1.0-draft.1"
+  "dcterms:isPartOf": "https://worldhealthorganization.github.io/dth-hrh/archimate/0.1.0-draft.1"
 }

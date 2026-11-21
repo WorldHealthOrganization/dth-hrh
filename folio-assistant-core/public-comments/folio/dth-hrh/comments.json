@@ -88,5 +88,34 @@
    "search": "https://github.com/litlfred/dth-hrh/search?type=issues&q=%22PC-0003%22",
    "record": "https://github.com/litlfred/dth-hrh/blob/main/review/wg-comment/comments/PC-0003.json"
   }
+ },
+ {
+  "ref": "PC-0004",
+  "status": "received",
+  "phase": "open",
+  "type": "general",
+  "target": null,
+  "section": "",
+  "sectionTitle": "",
+  "citation": "(no citation)",
+  "anchorNote": "nothing in the citation resolved; triage places it",
+  "confidence": "low",
+  "summary": "The site at https://litlfred.github.io/dth-hrh/ does not exist, so every dth-hrh IRI under it is dead. Move the iriBase…",
+  "text": "The site at https://litlfred.github.io/dth-hrh/ does not exist, so every dth-hrh IRI under it is dead. Move the iriBase to https://worldhealthorganization.github.io/dth-hrh/ (the live WHO site), regenerate what is derived from it, rewrite the ArchiMate links to the singular element/ and view/ paths the generator now writes, and point the who-iris glossary links at the WHO host. This is a mechanical IRI change (owner, IRI scan option 2A, 2026-11-18), not a change to any text.",
+  "suggestion": "",
+  "reviewer": "World Health Organization",
+  "recommendations": [],
+  "changeSets": [
+   {
+    "id": "CS-004",
+    "title": "Move the IRI base to the WHO site (mechanical IRI change set)",
+    "status": "proposed"
+   }
+  ],
+  "source": "review/wg-comment/comments/PC-0004.json",
+  "links": {
+   "search": "https://github.com/litlfred/dth-hrh/search?type=issues&q=%22PC-0004%22",
+   "record": "https://github.com/litlfred/dth-hrh/blob/main/review/wg-comment/comments/PC-0004.json"
+  }
  }
 ]

@@ -1,8 +1,8 @@
 {
   "@context": [
-    "https://litlfred.github.io/dth-hrh/ns/context/v1.jsonld",
+    "https://worldhealthorganization.github.io/dth-hrh/ns/context/v1.jsonld",
     {
-      "@base": "https://litlfred.github.io/folio/",
+      "@base": "https://worldhealthorganization.github.io/dth-hrh/v0/",
       "smart-base": "https://litlfred.github.io/smart-base/v0/ns/"
     }
   ],
@@ -45,36 +45,36 @@
       "basis": "agent-proposed by name, for working-group review (dth-hrh#47)",
       "elements": [
         {
-          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/elements/id-350840520ae44f658b6ad3b3762e382e.jsonld",
+          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/element/id-350840520ae44f658b6ad3b3762e382e",
           "name": "DPI-H Health Workforce Registry (HWR)",
           "type": "ApplicationComponent"
         },
         {
-          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/elements/id-3bd1011d76c843fa860255f00a6aa68f.jsonld",
+          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/element/id-3bd1011d76c843fa860255f00a6aa68f",
           "name": "Vendor EHR Product",
           "type": "ApplicationComponent"
         },
         {
-          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/elements/id-8852987c90c84071ae92ad3621548adf.jsonld",
+          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/element/id-8852987c90c84071ae92ad3621548adf",
           "name": "Workforce Data Analytics",
           "type": "ApplicationFunction"
         }
       ],
       "views": [
         {
-          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/views/id-19be800d18a34a618d6e1955cf58e956.jsonld",
+          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/view/id-19be800d18a34a618d6e1955cf58e956",
           "name": "ALL High Level - Health Workforce"
         },
         {
-          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/views/id-f7a5524bbac84f1a9cf424754750819d.jsonld",
+          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/view/id-f7a5524bbac84f1a9cf424754750819d",
           "name": "Metadata Registry Governance"
         }
       ]
     },
     "glossaryTerms": [
-      "https://litlfred.github.io/dth-hrh/v0/ns#glossary/dth-hrh/regulation",
-      "https://litlfred.github.io/dth-hrh/v0/ns#glossary/dth-hrh/scope-of-practice",
-      "https://litlfred.github.io/dth-hrh/v0/ns#glossary/dth-hrh/stewardship",
+      "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/dth-hrh/regulation",
+      "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/dth-hrh/scope-of-practice",
+      "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/dth-hrh/stewardship",
       "https://litlfred.github.io/smart-ra/v0/ns#glossary/dpi-h-ra/data-governance",
       "https://litlfred.github.io/smart-ra/v0/ns#glossary/dpi-h-ra/repository"
     ],

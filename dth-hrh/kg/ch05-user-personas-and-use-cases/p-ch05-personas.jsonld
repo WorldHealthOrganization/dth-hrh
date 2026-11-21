@@ -1,8 +1,8 @@
 {
   "@context": [
-    "https://litlfred.github.io/dth-hrh/ns/context/v1.jsonld",
+    "https://worldhealthorganization.github.io/dth-hrh/ns/context/v1.jsonld",
     {
-      "@base": "https://litlfred.github.io/folio/",
+      "@base": "https://worldhealthorganization.github.io/dth-hrh/v0/",
       "folio-assistant-core": "https://litlfred.github.io/folio-assistant-core/v0/ns/"
     }
   ],
@@ -26,29 +26,29 @@
       "basis": "agent-proposed by name, for working-group review (dth-hrh#47)",
       "elements": [
         {
-          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/elements/id-8d3dd8b68d504c2a9fe8cf414b16c127.jsonld",
+          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/element/id-8d3dd8b68d504c2a9fe8cf414b16c127",
           "name": "Health Workers"
         },
         {
-          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/elements/id-63c448813aea4067bb68281f7926fd2b.jsonld",
+          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/element/id-63c448813aea4067bb68281f7926fd2b",
           "name": "Licensing Bodies"
         },
         {
-          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/elements/id-82fc8a35ade94ff3a02acc9194490fc8.jsonld",
+          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/element/id-82fc8a35ade94ff3a02acc9194490fc8",
           "name": "Academic & Training Institutions"
         },
         {
-          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/elements/id-10058e61afa048128fdb46dc0bcb884c.jsonld",
+          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/element/id-10058e61afa048128fdb46dc0bcb884c",
           "name": "National ID Government Provider"
         },
         {
-          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/elements/id-4e0767822dcf46409554156a133fbc67.jsonld",
+          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/element/id-4e0767822dcf46409554156a133fbc67",
           "name": "DPI-H: Facility Registry"
         }
       ],
       "views": [
         {
-          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/views/id-47ad69becbb84be59434bf289bd24a20.jsonld",
+          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/view/id-47ad69becbb84be59434bf289bd24a20",
           "name": "ALL HRH Conceptual View - Stakeholder"
         }
       ]

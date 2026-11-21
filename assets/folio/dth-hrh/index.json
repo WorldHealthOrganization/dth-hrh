@@ -19,8 +19,8 @@
         },
         {
           "path": "dth-hrh/about-this-draft/p-about.jsonld",
-          "bytes": 696,
-          "size": "696 B"
+          "bytes": 731,
+          "size": "731 B"
         },
         {
           "path": "dth-hrh/about-this-draft/p-about.md",
@@ -34,8 +34,8 @@
         },
         {
           "path": "dth-hrh/about-this-draft/p-title-page.jsonld",
-          "bytes": 741,
-          "size": "741 B"
+          "bytes": 776,
+          "size": "776 B"
         },
         {
           "path": "dth-hrh/about-this-draft/p-title-page.md",
@@ -49,8 +49,8 @@
         },
         {
           "path": "dth-hrh/about-this-draft/p-twg-questions.jsonld",
-          "bytes": 703,
-          "size": "703 B"
+          "bytes": 738,
+          "size": "738 B"
         },
         {
           "path": "dth-hrh/about-this-draft/p-twg-questions.md",
@@ -64,8 +64,8 @@
         },
         {
           "path": "dth-hrh/about-this-draft/r-discussion-boundary-with-hris.jsonld",
-          "bytes": 745,
-          "size": "745 B"
+          "bytes": 780,
+          "size": "780 B"
         },
         {
           "path": "dth-hrh/about-this-draft/r-discussion-boundary-with-hris.md",
@@ -79,8 +79,8 @@
         },
         {
           "path": "dth-hrh/about-this-draft/r-discussion-case-studies.jsonld",
-          "bytes": 721,
-          "size": "721 B"
+          "bytes": 756,
+          "size": "756 B"
         },
         {
           "path": "dth-hrh/about-this-draft/r-discussion-case-studies.md",
@@ -94,8 +94,8 @@
         },
         {
           "path": "dth-hrh/about-this-draft/r-discussion-minimum-data-set.jsonld",
-          "bytes": 737,
-          "size": "737 B"
+          "bytes": 772,
+          "size": "772 B"
         },
         {
           "path": "dth-hrh/about-this-draft/r-discussion-minimum-data-set.md",
@@ -109,8 +109,8 @@
         },
         {
           "path": "dth-hrh/about-this-draft/r-discussion-one-registry-or-one-set-of-information.jsonld",
-          "bytes": 825,
-          "size": "825 B"
+          "bytes": 860,
+          "size": "860 B"
         },
         {
           "path": "dth-hrh/about-this-draft/r-discussion-one-registry-or-one-set-of-information.md",
@@ -124,8 +124,8 @@
         },
         {
           "path": "dth-hrh/about-this-draft/r-discussion-overlap-between-chapters.jsonld",
-          "bytes": 769,
-          "size": "769 B"
+          "bytes": 804,
+          "size": "804 B"
         },
         {
           "path": "dth-hrh/about-this-draft/r-discussion-overlap-between-chapters.md",
@@ -139,8 +139,8 @@
         },
         {
           "path": "dth-hrh/about-this-draft/r-discussion-step-by-step-or-modular.jsonld",
-          "bytes": 765,
-          "size": "765 B"
+          "bytes": 800,
+          "size": "800 B"
         },
         {
           "path": "dth-hrh/about-this-draft/r-discussion-step-by-step-or-modular.md",
@@ -154,8 +154,8 @@
         },
         {
           "path": "dth-hrh/about-this-draft/r-discussion-unique-health-worker-identification.jsonld",
-          "bytes": 813,
-          "size": "813 B"
+          "bytes": 848,
+          "size": "848 B"
         },
         {
           "path": "dth-hrh/about-this-draft/r-discussion-unique-health-worker-identification.md",
@@ -169,8 +169,8 @@
         },
         {
           "path": "dth-hrh/about-this-draft/r-discussion-which-health-workers.jsonld",
-          "bytes": 753,
-          "size": "753 B"
+          "bytes": 788,
+          "size": "788 B"
         },
         {
           "path": "dth-hrh/about-this-draft/r-discussion-which-health-workers.md",
@@ -184,8 +184,8 @@
         },
         {
           "path": "dth-hrh/about-this-draft/t-handbook-at-a-glance.jsonld",
-          "bytes": 680,
-          "size": "680 B"
+          "bytes": 715,
+          "size": "715 B"
         },
         {
           "path": "dth-hrh/about-this-draft/t-handbook-at-a-glance.md",
@@ -204,8 +204,8 @@
         },
         {
           "path": "dth-hrh/annexes/p-annex-1.jsonld",
-          "bytes": 689,
-          "size": "689 B"
+          "bytes": 724,
+          "size": "724 B"
         },
         {
           "path": "dth-hrh/annexes/p-annex-1.md",
@@ -219,8 +219,8 @@
         },
         {
           "path": "dth-hrh/annexes/p-annex-10.jsonld",
-          "bytes": 689,
-          "size": "689 B"
+          "bytes": 724,
+          "size": "724 B"
         },
         {
           "path": "dth-hrh/annexes/p-annex-10.md",
@@ -234,8 +234,8 @@
         },
         {
           "path": "dth-hrh/annexes/p-annex-2.jsonld",
-          "bytes": 688,
-          "size": "688 B"
+          "bytes": 723,
+          "size": "723 B"
         },
         {
           "path": "dth-hrh/annexes/p-annex-2.md",
@@ -249,8 +249,8 @@
         },
         {
           "path": "dth-hrh/annexes/p-annex-3.jsonld",
-          "bytes": 692,
-          "size": "692 B"
+          "bytes": 727,
+          "size": "727 B"
         },
         {
           "path": "dth-hrh/annexes/p-annex-3.md",
@@ -264,8 +264,8 @@
         },
         {
           "path": "dth-hrh/annexes/p-annex-4.jsonld",
-          "bytes": 686,
-          "size": "686 B"
+          "bytes": 721,
+          "size": "721 B"
         },
         {
           "path": "dth-hrh/annexes/p-annex-4.md",
@@ -279,8 +279,8 @@
         },
         {
           "path": "dth-hrh/annexes/p-annex-5.jsonld",
-          "bytes": 706,
-          "size": "706 B"
+          "bytes": 741,
+          "size": "741 B"
         },
         {
           "path": "dth-hrh/annexes/p-annex-5.md",
@@ -294,8 +294,8 @@
         },
         {
           "path": "dth-hrh/annexes/p-annex-6.jsonld",
-          "bytes": 696,
-          "size": "696 B"
+          "bytes": 731,
+          "size": "731 B"
         },
         {
           "path": "dth-hrh/annexes/p-annex-6.md",
@@ -309,8 +309,8 @@
         },
         {
           "path": "dth-hrh/annexes/p-annex-7.jsonld",
-          "bytes": 693,
-          "size": "693 B"
+          "bytes": 728,
+          "size": "728 B"
         },
         {
           "path": "dth-hrh/annexes/p-annex-7.md",
@@ -324,8 +324,8 @@
         },
         {
           "path": "dth-hrh/annexes/p-annex-8.jsonld",
-          "bytes": 687,
-          "size": "687 B"
+          "bytes": 722,
+          "size": "722 B"
         },
         {
           "path": "dth-hrh/annexes/p-annex-8.md",
@@ -339,8 +339,8 @@
         },
         {
           "path": "dth-hrh/annexes/p-annexes.jsonld",
-          "bytes": 671,
-          "size": "671 B"
+          "bytes": 706,
+          "size": "706 B"
         },
         {
           "path": "dth-hrh/annexes/p-annexes.md",
@@ -359,8 +359,8 @@
         },
         {
           "path": "dth-hrh/ch01-why-digital-health-workforce-registries/p-ch01-benefits-and-outcomes.jsonld",
-          "bytes": 746,
-          "size": "746 B"
+          "bytes": 781,
+          "size": "781 B"
         },
         {
           "path": "dth-hrh/ch01-why-digital-health-workforce-registries/p-ch01-benefits-and-outcomes.md",
@@ -374,8 +374,8 @@
         },
         {
           "path": "dth-hrh/ch01-why-digital-health-workforce-registries/p-ch01-figures.jsonld",
-          "bytes": 707,
-          "size": "707 B"
+          "bytes": 742,
+          "size": "742 B"
         },
         {
           "path": "dth-hrh/ch01-why-digital-health-workforce-registries/p-ch01-figures.md",
@@ -389,8 +389,8 @@
         },
         {
           "path": "dth-hrh/ch01-why-digital-health-workforce-registries/p-ch01-global-challenges.jsonld",
-          "bytes": 730,
-          "size": "730 B"
+          "bytes": 765,
+          "size": "765 B"
         },
         {
           "path": "dth-hrh/ch01-why-digital-health-workforce-registries/p-ch01-global-challenges.md",
@@ -404,8 +404,8 @@
         },
         {
           "path": "dth-hrh/ch01-why-digital-health-workforce-registries/p-ch01-key-messages.jsonld",
-          "bytes": 706,
-          "size": "706 B"
+          "bytes": 741,
+          "size": "741 B"
         },
         {
           "path": "dth-hrh/ch01-why-digital-health-workforce-registries/p-ch01-key-messages.md",
@@ -419,8 +419,8 @@
         },
         {
           "path": "dth-hrh/ch01-why-digital-health-workforce-registries/p-ch01-objectives.jsonld",
-          "bytes": 706,
-          "size": "706 B"
+          "bytes": 741,
+          "size": "741 B"
         },
         {
           "path": "dth-hrh/ch01-why-digital-health-workforce-registries/p-ch01-objectives.md",
@@ -434,8 +434,8 @@
         },
         {
           "path": "dth-hrh/ch01-why-digital-health-workforce-registries/p-ch01-outputs.jsonld",
-          "bytes": 709,
-          "size": "709 B"
+          "bytes": 744,
+          "size": "744 B"
         },
         {
           "path": "dth-hrh/ch01-why-digital-health-workforce-registries/p-ch01-outputs.md",
@@ -449,8 +449,8 @@
         },
         {
           "path": "dth-hrh/ch01-why-digital-health-workforce-registries/p-ch01-part-purpose.jsonld",
-          "bytes": 723,
-          "size": "723 B"
+          "bytes": 758,
+          "size": "758 B"
         },
         {
           "path": "dth-hrh/ch01-why-digital-health-workforce-registries/p-ch01-part-purpose.md",
@@ -464,8 +464,8 @@
         },
         {
           "path": "dth-hrh/ch01-why-digital-health-workforce-registries/p-ch01-registry-as-digital-public-infrastructur.jsonld",
-          "bytes": 823,
-          "size": "823 B"
+          "bytes": 858,
+          "size": "858 B"
         },
         {
           "path": "dth-hrh/ch01-why-digital-health-workforce-registries/p-ch01-registry-as-digital-public-infrastructur.md",
@@ -479,8 +479,8 @@
         },
         {
           "path": "dth-hrh/ch01-why-digital-health-workforce-registries/p-ch01-tools.jsonld",
-          "bytes": 708,
-          "size": "708 B"
+          "bytes": 743,
+          "size": "743 B"
         },
         {
           "path": "dth-hrh/ch01-why-digital-health-workforce-registries/p-ch01-tools.md",
@@ -494,8 +494,8 @@
         },
         {
           "path": "dth-hrh/ch01-why-digital-health-workforce-registries/p-ch01-value-proposition.jsonld",
-          "bytes": 730,
-          "size": "730 B"
+          "bytes": 765,
+          "size": "765 B"
         },
         {
           "path": "dth-hrh/ch01-why-digital-health-workforce-registries/p-ch01-value-proposition.md",
@@ -514,8 +514,8 @@
         },
         {
           "path": "dth-hrh/ch02-scope-and-boundaries/p-ch02-excluded-topics.jsonld",
-          "bytes": 722,
-          "size": "722 B"
+          "bytes": 757,
+          "size": "757 B"
         },
         {
           "path": "dth-hrh/ch02-scope-and-boundaries/p-ch02-excluded-topics.md",
@@ -529,8 +529,8 @@
         },
         {
           "path": "dth-hrh/ch02-scope-and-boundaries/p-ch02-figures.jsonld",
-          "bytes": 707,
-          "size": "707 B"
+          "bytes": 742,
+          "size": "742 B"
         },
         {
           "path": "dth-hrh/ch02-scope-and-boundaries/p-ch02-figures.md",
@@ -544,8 +544,8 @@
         },
         {
           "path": "dth-hrh/ch02-scope-and-boundaries/p-ch02-included-topics.jsonld",
-          "bytes": 722,
-          "size": "722 B"
+          "bytes": 757,
+          "size": "757 B"
         },
         {
           "path": "dth-hrh/ch02-scope-and-boundaries/p-ch02-included-topics.md",
@@ -559,8 +559,8 @@
         },
         {
           "path": "dth-hrh/ch02-scope-and-boundaries/p-ch02-key-messages.jsonld",
-          "bytes": 706,
-          "size": "706 B"
+          "bytes": 741,
+          "size": "741 B"
         },
         {
           "path": "dth-hrh/ch02-scope-and-boundaries/p-ch02-key-messages.md",
@@ -574,8 +574,8 @@
         },
         {
           "path": "dth-hrh/ch02-scope-and-boundaries/p-ch02-objectives.jsonld",
-          "bytes": 706,
-          "size": "706 B"
+          "bytes": 741,
+          "size": "741 B"
         },
         {
           "path": "dth-hrh/ch02-scope-and-boundaries/p-ch02-objectives.md",
@@ -589,8 +589,8 @@
         },
         {
           "path": "dth-hrh/ch02-scope-and-boundaries/p-ch02-outputs.jsonld",
-          "bytes": 709,
-          "size": "709 B"
+          "bytes": 744,
+          "size": "744 B"
         },
         {
           "path": "dth-hrh/ch02-scope-and-boundaries/p-ch02-outputs.md",
@@ -604,8 +604,8 @@
         },
         {
           "path": "dth-hrh/ch02-scope-and-boundaries/p-ch02-target-audiences.jsonld",
-          "bytes": 726,
-          "size": "726 B"
+          "bytes": 761,
+          "size": "761 B"
         },
         {
           "path": "dth-hrh/ch02-scope-and-boundaries/p-ch02-target-audiences.md",
@@ -619,8 +619,8 @@
         },
         {
           "path": "dth-hrh/ch02-scope-and-boundaries/p-ch02-tools.jsonld",
-          "bytes": 708,
-          "size": "708 B"
+          "bytes": 743,
+          "size": "743 B"
         },
         {
           "path": "dth-hrh/ch02-scope-and-boundaries/p-ch02-tools.md",
@@ -639,7 +639,7 @@
         },
         {
           "path": "dth-hrh/ch03-digital-transformation-approach/f-diig-phases.jsonld",
-          "bytes": 1632,
+          "bytes": 1667,
           "size": "1.6 KB"
         },
         {
@@ -654,7 +654,7 @@
         },
         {
           "path": "dth-hrh/ch03-digital-transformation-approach/f-smart-guidelines-approach.jsonld",
-          "bytes": 4117,
+          "bytes": 4095,
           "size": "4.0 KB"
         },
         {
@@ -664,13 +664,13 @@
         },
         {
           "path": "dth-hrh/ch03-digital-transformation-approach/f-smart-guidelines-approach.ts",
-          "bytes": 3287,
+          "bytes": 3230,
           "size": "3.2 KB"
         },
         {
           "path": "dth-hrh/ch03-digital-transformation-approach/p-ch03-country-pathway.jsonld",
-          "bytes": 722,
-          "size": "722 B"
+          "bytes": 757,
+          "size": "757 B"
         },
         {
           "path": "dth-hrh/ch03-digital-transformation-approach/p-ch03-country-pathway.md",
@@ -684,8 +684,8 @@
         },
         {
           "path": "dth-hrh/ch03-digital-transformation-approach/p-ch03-diig-alignment.jsonld",
-          "bytes": 718,
-          "size": "718 B"
+          "bytes": 753,
+          "size": "753 B"
         },
         {
           "path": "dth-hrh/ch03-digital-transformation-approach/p-ch03-diig-alignment.md",
@@ -699,8 +699,8 @@
         },
         {
           "path": "dth-hrh/ch03-digital-transformation-approach/p-ch03-figures.jsonld",
-          "bytes": 707,
-          "size": "707 B"
+          "bytes": 742,
+          "size": "742 B"
         },
         {
           "path": "dth-hrh/ch03-digital-transformation-approach/p-ch03-figures.md",
@@ -714,8 +714,8 @@
         },
         {
           "path": "dth-hrh/ch03-digital-transformation-approach/p-ch03-key-messages.jsonld",
-          "bytes": 706,
-          "size": "706 B"
+          "bytes": 741,
+          "size": "741 B"
         },
         {
           "path": "dth-hrh/ch03-digital-transformation-approach/p-ch03-key-messages.md",
@@ -729,8 +729,8 @@
         },
         {
           "path": "dth-hrh/ch03-digital-transformation-approach/p-ch03-objectives.jsonld",
-          "bytes": 706,
-          "size": "706 B"
+          "bytes": 741,
+          "size": "741 B"
         },
         {
           "path": "dth-hrh/ch03-digital-transformation-approach/p-ch03-objectives.md",
@@ -744,8 +744,8 @@
         },
         {
           "path": "dth-hrh/ch03-digital-transformation-approach/p-ch03-outputs.jsonld",
-          "bytes": 709,
-          "size": "709 B"
+          "bytes": 744,
+          "size": "744 B"
         },
         {
           "path": "dth-hrh/ch03-digital-transformation-approach/p-ch03-outputs.md",
@@ -759,8 +759,8 @@
         },
         {
           "path": "dth-hrh/ch03-digital-transformation-approach/p-ch03-tools.jsonld",
-          "bytes": 708,
-          "size": "708 B"
+          "bytes": 743,
+          "size": "743 B"
         },
         {
           "path": "dth-hrh/ch03-digital-transformation-approach/p-ch03-tools.md",
@@ -774,8 +774,8 @@
         },
         {
           "path": "dth-hrh/ch03-digital-transformation-approach/p-ch03-transformation-principles.jsonld",
-          "bytes": 762,
-          "size": "762 B"
+          "bytes": 797,
+          "size": "797 B"
         },
         {
           "path": "dth-hrh/ch03-digital-transformation-approach/p-ch03-transformation-principles.md",
@@ -789,8 +789,8 @@
         },
         {
           "path": "dth-hrh/ch03-digital-transformation-approach/t-ch03-diig-mapping.jsonld",
-          "bytes": 729,
-          "size": "729 B"
+          "bytes": 764,
+          "size": "764 B"
         },
         {
           "path": "dth-hrh/ch03-digital-transformation-approach/t-ch03-diig-mapping.md",
@@ -804,23 +804,23 @@
         },
         {
           "path": "dth-hrh/ch04-purpose-and-role-of-a-registry/bp-hrh-bp-01-lifecycle-maintenance.bpmn",
-          "bytes": 10511,
+          "bytes": 10526,
           "size": "10.3 KB"
         },
         {
           "path": "dth-hrh/ch04-purpose-and-role-of-a-registry/bp-hrh-bp-01-lifecycle-maintenance.jsonld",
-          "bytes": 3898,
-          "size": "3.8 KB"
+          "bytes": 3983,
+          "size": "3.9 KB"
         },
         {
           "path": "dth-hrh/ch04-purpose-and-role-of-a-registry/bp-hrh-bp-01-lifecycle-maintenance.md",
-          "bytes": 3830,
-          "size": "3.7 KB"
+          "bytes": 3880,
+          "size": "3.8 KB"
         },
         {
           "path": "dth-hrh/ch04-purpose-and-role-of-a-registry/bp-hrh-bp-01-lifecycle-maintenance.ts",
-          "bytes": 2810,
-          "size": "2.7 KB"
+          "bytes": 2860,
+          "size": "2.8 KB"
         },
         {
           "path": "dth-hrh/ch04-purpose-and-role-of-a-registry/ch04-purpose-and-role-of-a-registry.ts",
@@ -829,7 +829,7 @@
         },
         {
           "path": "dth-hrh/ch04-purpose-and-role-of-a-registry/p-ch04-authoritative-source.jsonld",
-          "bytes": 1546,
+          "bytes": 1557,
           "size": "1.5 KB"
         },
         {
@@ -839,12 +839,12 @@
         },
         {
           "path": "dth-hrh/ch04-purpose-and-role-of-a-registry/p-ch04-authoritative-source.ts",
-          "bytes": 977,
-          "size": "977 B"
+          "bytes": 953,
+          "size": "953 B"
         },
         {
           "path": "dth-hrh/ch04-purpose-and-role-of-a-registry/p-ch04-definitions.jsonld",
-          "bytes": 1495,
+          "bytes": 1506,
           "size": "1.5 KB"
         },
         {
@@ -854,13 +854,13 @@
         },
         {
           "path": "dth-hrh/ch04-purpose-and-role-of-a-registry/p-ch04-definitions.ts",
-          "bytes": 930,
-          "size": "930 B"
+          "bytes": 906,
+          "size": "906 B"
         },
         {
           "path": "dth-hrh/ch04-purpose-and-role-of-a-registry/p-ch04-figures.jsonld",
-          "bytes": 707,
-          "size": "707 B"
+          "bytes": 742,
+          "size": "742 B"
         },
         {
           "path": "dth-hrh/ch04-purpose-and-role-of-a-registry/p-ch04-figures.md",
@@ -874,8 +874,8 @@
         },
         {
           "path": "dth-hrh/ch04-purpose-and-role-of-a-registry/p-ch04-health-worker-lifecycle.jsonld",
-          "bytes": 2105,
-          "size": "2.1 KB"
+          "bytes": 2092,
+          "size": "2.0 KB"
         },
         {
           "path": "dth-hrh/ch04-purpose-and-role-of-a-registry/p-ch04-health-worker-lifecycle.md",
@@ -884,12 +884,12 @@
         },
         {
           "path": "dth-hrh/ch04-purpose-and-role-of-a-registry/p-ch04-health-worker-lifecycle.ts",
-          "bytes": 1416,
-          "size": "1.4 KB"
+          "bytes": 1368,
+          "size": "1.3 KB"
         },
         {
           "path": "dth-hrh/ch04-purpose-and-role-of-a-registry/p-ch04-key-messages.jsonld",
-          "bytes": 1309,
+          "bytes": 1343,
           "size": "1.3 KB"
         },
         {
@@ -899,13 +899,13 @@
         },
         {
           "path": "dth-hrh/ch04-purpose-and-role-of-a-registry/p-ch04-key-messages.ts",
-          "bytes": 794,
-          "size": "794 B"
+          "bytes": 793,
+          "size": "793 B"
         },
         {
           "path": "dth-hrh/ch04-purpose-and-role-of-a-registry/p-ch04-objectives.jsonld",
-          "bytes": 706,
-          "size": "706 B"
+          "bytes": 741,
+          "size": "741 B"
         },
         {
           "path": "dth-hrh/ch04-purpose-and-role-of-a-registry/p-ch04-objectives.md",
@@ -919,8 +919,8 @@
         },
         {
           "path": "dth-hrh/ch04-purpose-and-role-of-a-registry/p-ch04-outputs.jsonld",
-          "bytes": 709,
-          "size": "709 B"
+          "bytes": 744,
+          "size": "744 B"
         },
         {
           "path": "dth-hrh/ch04-purpose-and-role-of-a-registry/p-ch04-outputs.md",
@@ -934,8 +934,8 @@
         },
         {
           "path": "dth-hrh/ch04-purpose-and-role-of-a-registry/p-ch04-part-purpose.jsonld",
-          "bytes": 722,
-          "size": "722 B"
+          "bytes": 757,
+          "size": "757 B"
         },
         {
           "path": "dth-hrh/ch04-purpose-and-role-of-a-registry/p-ch04-part-purpose.md",
@@ -949,7 +949,7 @@
         },
         {
           "path": "dth-hrh/ch04-purpose-and-role-of-a-registry/p-ch04-strategic-uses.jsonld",
-          "bytes": 1467,
+          "bytes": 1478,
           "size": "1.4 KB"
         },
         {
@@ -959,13 +959,13 @@
         },
         {
           "path": "dth-hrh/ch04-purpose-and-role-of-a-registry/p-ch04-strategic-uses.ts",
-          "bytes": 910,
-          "size": "910 B"
+          "bytes": 886,
+          "size": "886 B"
         },
         {
           "path": "dth-hrh/ch04-purpose-and-role-of-a-registry/p-ch04-tools.jsonld",
-          "bytes": 708,
-          "size": "708 B"
+          "bytes": 743,
+          "size": "743 B"
         },
         {
           "path": "dth-hrh/ch04-purpose-and-role-of-a-registry/p-ch04-tools.md",
@@ -979,83 +979,83 @@
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/bp-hrh-bp-02-register-and-license-graduate.bpmn",
-          "bytes": 11160,
+          "bytes": 11175,
           "size": "10.9 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/bp-hrh-bp-02-register-and-license-graduate.jsonld",
-          "bytes": 3800,
-          "size": "3.7 KB"
+          "bytes": 3870,
+          "size": "3.8 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/bp-hrh-bp-02-register-and-license-graduate.md",
-          "bytes": 3950,
+          "bytes": 3985,
           "size": "3.9 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/bp-hrh-bp-02-register-and-license-graduate.ts",
-          "bytes": 2739,
+          "bytes": 2774,
           "size": "2.7 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/bp-hrh-bp-03-renew-licence-and-verify-status.bpmn",
-          "bytes": 11079,
+          "bytes": 11094,
           "size": "10.8 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/bp-hrh-bp-03-renew-licence-and-verify-status.jsonld",
-          "bytes": 3809,
-          "size": "3.7 KB"
+          "bytes": 3864,
+          "size": "3.8 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/bp-hrh-bp-03-renew-licence-and-verify-status.md",
-          "bytes": 4080,
+          "bytes": 4100,
           "size": "4.0 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/bp-hrh-bp-03-renew-licence-and-verify-status.ts",
-          "bytes": 2723,
+          "bytes": 2743,
           "size": "2.7 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/bp-hrh-bp-04-update-employment-and-deployment.bpmn",
-          "bytes": 10270,
+          "bytes": 10285,
           "size": "10.0 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/bp-hrh-bp-04-update-employment-and-deployment.jsonld",
-          "bytes": 3958,
+          "bytes": 4013,
           "size": "3.9 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/bp-hrh-bp-04-update-employment-and-deployment.md",
-          "bytes": 3511,
+          "bytes": 3531,
           "size": "3.4 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/bp-hrh-bp-04-update-employment-and-deployment.ts",
-          "bytes": 2854,
+          "bytes": 2874,
           "size": "2.8 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/bp-hrh-bp-05-workforce-analytics-and-nhwa-reporting.bpmn",
-          "bytes": 7947,
+          "bytes": 7962,
           "size": "7.8 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/bp-hrh-bp-05-workforce-analytics-and-nhwa-reporting.jsonld",
-          "bytes": 3318,
-          "size": "3.2 KB"
+          "bytes": 3411,
+          "size": "3.3 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/bp-hrh-bp-05-workforce-analytics-and-nhwa-reporting.md",
-          "bytes": 3145,
+          "bytes": 3203,
           "size": "3.1 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/bp-hrh-bp-05-workforce-analytics-and-nhwa-reporting.ts",
-          "bytes": 2395,
-          "size": "2.3 KB"
+          "bytes": 2453,
+          "size": "2.4 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/ch05-user-personas-and-use-cases.ts",
@@ -1064,8 +1064,8 @@
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/p-ch05-figures.jsonld",
-          "bytes": 707,
-          "size": "707 B"
+          "bytes": 742,
+          "size": "742 B"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/p-ch05-figures.md",
@@ -1079,8 +1079,8 @@
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/p-ch05-key-messages.jsonld",
-          "bytes": 706,
-          "size": "706 B"
+          "bytes": 741,
+          "size": "741 B"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/p-ch05-key-messages.md",
@@ -1094,8 +1094,8 @@
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/p-ch05-objectives.jsonld",
-          "bytes": 706,
-          "size": "706 B"
+          "bytes": 741,
+          "size": "741 B"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/p-ch05-objectives.md",
@@ -1109,8 +1109,8 @@
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/p-ch05-outputs.jsonld",
-          "bytes": 709,
-          "size": "709 B"
+          "bytes": 744,
+          "size": "744 B"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/p-ch05-outputs.md",
@@ -1124,7 +1124,7 @@
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/p-ch05-personas.jsonld",
-          "bytes": 2032,
+          "bytes": 2019,
           "size": "2.0 KB"
         },
         {
@@ -1134,12 +1134,12 @@
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/p-ch05-personas.ts",
-          "bytes": 1359,
+          "bytes": 1311,
           "size": "1.3 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/p-ch05-priority-use-cases.jsonld",
-          "bytes": 2352,
+          "bytes": 2346,
           "size": "2.3 KB"
         },
         {
@@ -1149,13 +1149,13 @@
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/p-ch05-priority-use-cases.ts",
-          "bytes": 1635,
+          "bytes": 1594,
           "size": "1.6 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/p-ch05-requirements-derivation.jsonld",
-          "bytes": 754,
-          "size": "754 B"
+          "bytes": 789,
+          "size": "789 B"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/p-ch05-requirements-derivation.md",
@@ -1169,8 +1169,8 @@
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/p-ch05-tools.jsonld",
-          "bytes": 708,
-          "size": "708 B"
+          "bytes": 743,
+          "size": "743 B"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/p-ch05-tools.md",
@@ -1184,8 +1184,8 @@
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/p-ch05-user-stories.jsonld",
-          "bytes": 710,
-          "size": "710 B"
+          "bytes": 745,
+          "size": "745 B"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/p-ch05-user-stories.md",
@@ -1199,203 +1199,203 @@
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-emergency-coordinator.jsonld",
-          "bytes": 2194,
-          "size": "2.1 KB"
+          "bytes": 2235,
+          "size": "2.2 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-emergency-coordinator.md",
-          "bytes": 1349,
+          "bytes": 1363,
           "size": "1.3 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-emergency-coordinator.ts",
-          "bytes": 1487,
+          "bytes": 1493,
           "size": "1.5 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-employer-hr-manager.jsonld",
-          "bytes": 2568,
+          "bytes": 2609,
           "size": "2.5 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-employer-hr-manager.md",
-          "bytes": 1622,
+          "bytes": 1636,
           "size": "1.6 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-employer-hr-manager.ts",
-          "bytes": 1798,
+          "bytes": 1804,
           "size": "1.8 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-health-worker.jsonld",
-          "bytes": 3225,
-          "size": "3.1 KB"
+          "bytes": 3266,
+          "size": "3.2 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-health-worker.md",
-          "bytes": 2142,
+          "bytes": 2156,
           "size": "2.1 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-health-worker.ts",
-          "bytes": 2345,
+          "bytes": 2351,
           "size": "2.3 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-member-of-public.jsonld",
-          "bytes": 2175,
+          "bytes": 2201,
           "size": "2.1 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-member-of-public.md",
-          "bytes": 1157,
+          "bytes": 1156,
           "size": "1.1 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-member-of-public.ts",
-          "bytes": 1472,
+          "bytes": 1463,
           "size": "1.4 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-registration-officer.jsonld",
-          "bytes": 3285,
-          "size": "3.2 KB"
+          "bytes": 3341,
+          "size": "3.3 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-registration-officer.md",
-          "bytes": 1885,
-          "size": "1.8 KB"
+          "bytes": 1914,
+          "size": "1.9 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-registration-officer.ts",
-          "bytes": 2390,
-          "size": "2.3 KB"
+          "bytes": 2411,
+          "size": "2.4 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-system-emr.jsonld",
-          "bytes": 2001,
+          "bytes": 2020,
           "size": "2.0 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-system-emr.md",
-          "bytes": 1104,
+          "bytes": 1096,
           "size": "1.1 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-system-emr.ts",
-          "bytes": 1364,
+          "bytes": 1348,
           "size": "1.3 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-system-facility-registry.jsonld",
-          "bytes": 2216,
+          "bytes": 2227,
           "size": "2.2 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-system-facility-registry.md",
-          "bytes": 1130,
+          "bytes": 1114,
           "size": "1.1 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-system-facility-registry.ts",
-          "bytes": 1503,
-          "size": "1.5 KB"
+          "bytes": 1479,
+          "size": "1.4 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-system-hris.jsonld",
-          "bytes": 2247,
+          "bytes": 2273,
           "size": "2.2 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-system-hris.md",
-          "bytes": 1514,
+          "bytes": 1513,
           "size": "1.5 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-system-hris.ts",
-          "bytes": 1560,
+          "bytes": 1551,
           "size": "1.5 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-system-national-id.jsonld",
-          "bytes": 2263,
+          "bytes": 2289,
           "size": "2.2 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-system-national-id.md",
-          "bytes": 1306,
+          "bytes": 1305,
           "size": "1.3 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-system-national-id.ts",
-          "bytes": 1556,
+          "bytes": 1547,
           "size": "1.5 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-system-nhwa-platform.jsonld",
-          "bytes": 2288,
-          "size": "2.2 KB"
+          "bytes": 2314,
+          "size": "2.3 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-system-nhwa-platform.md",
-          "bytes": 1296,
+          "bytes": 1295,
           "size": "1.3 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-system-nhwa-platform.ts",
-          "bytes": 1577,
+          "bytes": 1568,
           "size": "1.5 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-system-payroll.jsonld",
-          "bytes": 2202,
+          "bytes": 2228,
           "size": "2.2 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-system-payroll.md",
-          "bytes": 1228,
+          "bytes": 1227,
           "size": "1.2 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-system-payroll.ts",
-          "bytes": 1509,
+          "bytes": 1500,
           "size": "1.5 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-training-institution-registrar.jsonld",
-          "bytes": 2349,
+          "bytes": 2398,
           "size": "2.3 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-training-institution-registrar.md",
-          "bytes": 1262,
-          "size": "1.2 KB"
+          "bytes": 1284,
+          "size": "1.3 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-training-institution-registrar.ts",
-          "bytes": 1617,
+          "bytes": 1631,
           "size": "1.6 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-workforce-planner.jsonld",
-          "bytes": 2298,
-          "size": "2.2 KB"
+          "bytes": 2339,
+          "size": "2.3 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-workforce-planner.md",
-          "bytes": 1577,
-          "size": "1.5 KB"
+          "bytes": 1591,
+          "size": "1.6 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/pers-workforce-planner.ts",
-          "bytes": 1593,
+          "bytes": 1599,
           "size": "1.6 KB"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/scen-register-and-license-new-graduate.jsonld",
-          "bytes": 869,
-          "size": "869 B"
+          "bytes": 904,
+          "size": "904 B"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/scen-register-and-license-new-graduate.md",
@@ -1409,8 +1409,8 @@
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/scen-renew-licence.jsonld",
-          "bytes": 794,
-          "size": "794 B"
+          "bytes": 829,
+          "size": "829 B"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/scen-renew-licence.md",
@@ -1424,8 +1424,8 @@
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/scen-update-employment.jsonld",
-          "bytes": 830,
-          "size": "830 B"
+          "bytes": 865,
+          "size": "865 B"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/scen-update-employment.md",
@@ -1439,8 +1439,8 @@
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/scen-verify-status.jsonld",
-          "bytes": 815,
-          "size": "815 B"
+          "bytes": 850,
+          "size": "850 B"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/scen-verify-status.md",
@@ -1454,8 +1454,8 @@
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/scen-workforce-counts-and-nhwa-reporting.jsonld",
-          "bytes": 930,
-          "size": "930 B"
+          "bytes": 965,
+          "size": "965 B"
         },
         {
           "path": "dth-hrh/ch05-user-personas-and-use-cases/scen-workforce-counts-and-nhwa-reporting.md",
@@ -1469,22 +1469,22 @@
         },
         {
           "path": "dth-hrh/ch06-governance-and-stewardship/bp-hrh-bp-06-governance-and-stewardship-review.bpmn",
-          "bytes": 10655,
+          "bytes": 10670,
           "size": "10.4 KB"
         },
         {
           "path": "dth-hrh/ch06-governance-and-stewardship/bp-hrh-bp-06-governance-and-stewardship-review.jsonld",
-          "bytes": 3857,
+          "bytes": 3882,
           "size": "3.8 KB"
         },
         {
           "path": "dth-hrh/ch06-governance-and-stewardship/bp-hrh-bp-06-governance-and-stewardship-review.md",
-          "bytes": 3769,
+          "bytes": 3759,
           "size": "3.7 KB"
         },
         {
           "path": "dth-hrh/ch06-governance-and-stewardship/bp-hrh-bp-06-governance-and-stewardship-review.ts",
-          "bytes": 2711,
+          "bytes": 2701,
           "size": "2.6 KB"
         },
         {
@@ -1494,7 +1494,7 @@
         },
         {
           "path": "dth-hrh/ch06-governance-and-stewardship/p-ch06-data-stewardship.jsonld",
-          "bytes": 1095,
+          "bytes": 1122,
           "size": "1.1 KB"
         },
         {
@@ -1504,13 +1504,13 @@
         },
         {
           "path": "dth-hrh/ch06-governance-and-stewardship/p-ch06-data-stewardship.ts",
-          "bytes": 610,
-          "size": "610 B"
+          "bytes": 602,
+          "size": "602 B"
         },
         {
           "path": "dth-hrh/ch06-governance-and-stewardship/p-ch06-figures.jsonld",
-          "bytes": 707,
-          "size": "707 B"
+          "bytes": 742,
+          "size": "742 B"
         },
         {
           "path": "dth-hrh/ch06-governance-and-stewardship/p-ch06-figures.md",
@@ -1524,7 +1524,7 @@
         },
         {
           "path": "dth-hrh/ch06-governance-and-stewardship/p-ch06-institutions.jsonld",
-          "bytes": 1256,
+          "bytes": 1275,
           "size": "1.2 KB"
         },
         {
@@ -1534,13 +1534,13 @@
         },
         {
           "path": "dth-hrh/ch06-governance-and-stewardship/p-ch06-institutions.ts",
-          "bytes": 741,
-          "size": "741 B"
+          "bytes": 725,
+          "size": "725 B"
         },
         {
           "path": "dth-hrh/ch06-governance-and-stewardship/p-ch06-key-messages.jsonld",
-          "bytes": 706,
-          "size": "706 B"
+          "bytes": 741,
+          "size": "741 B"
         },
         {
           "path": "dth-hrh/ch06-governance-and-stewardship/p-ch06-key-messages.md",
@@ -1554,8 +1554,8 @@
         },
         {
           "path": "dth-hrh/ch06-governance-and-stewardship/p-ch06-legal-foundations.jsonld",
-          "bytes": 730,
-          "size": "730 B"
+          "bytes": 765,
+          "size": "765 B"
         },
         {
           "path": "dth-hrh/ch06-governance-and-stewardship/p-ch06-legal-foundations.md",
@@ -1569,8 +1569,8 @@
         },
         {
           "path": "dth-hrh/ch06-governance-and-stewardship/p-ch06-objectives.jsonld",
-          "bytes": 706,
-          "size": "706 B"
+          "bytes": 741,
+          "size": "741 B"
         },
         {
           "path": "dth-hrh/ch06-governance-and-stewardship/p-ch06-objectives.md",
@@ -1584,8 +1584,8 @@
         },
         {
           "path": "dth-hrh/ch06-governance-and-stewardship/p-ch06-outputs.jsonld",
-          "bytes": 709,
-          "size": "709 B"
+          "bytes": 744,
+          "size": "744 B"
         },
         {
           "path": "dth-hrh/ch06-governance-and-stewardship/p-ch06-outputs.md",
@@ -1599,8 +1599,8 @@
         },
         {
           "path": "dth-hrh/ch06-governance-and-stewardship/p-ch06-sustainability.jsonld",
-          "bytes": 718,
-          "size": "718 B"
+          "bytes": 753,
+          "size": "753 B"
         },
         {
           "path": "dth-hrh/ch06-governance-and-stewardship/p-ch06-sustainability.md",
@@ -1614,8 +1614,8 @@
         },
         {
           "path": "dth-hrh/ch06-governance-and-stewardship/p-ch06-tools.jsonld",
-          "bytes": 708,
-          "size": "708 B"
+          "bytes": 743,
+          "size": "743 B"
         },
         {
           "path": "dth-hrh/ch06-governance-and-stewardship/p-ch06-tools.md",
@@ -1629,32 +1629,32 @@
         },
         {
           "path": "dth-hrh/ch06-governance-and-stewardship/pers-registry-custodian.jsonld",
-          "bytes": 2286,
-          "size": "2.2 KB"
+          "bytes": 2312,
+          "size": "2.3 KB"
         },
         {
           "path": "dth-hrh/ch06-governance-and-stewardship/pers-registry-custodian.md",
-          "bytes": 1947,
+          "bytes": 1946,
           "size": "1.9 KB"
         },
         {
           "path": "dth-hrh/ch06-governance-and-stewardship/pers-registry-custodian.ts",
-          "bytes": 1579,
+          "bytes": 1570,
           "size": "1.5 KB"
         },
         {
           "path": "dth-hrh/ch06-governance-and-stewardship/pers-registry-governance-body.jsonld",
-          "bytes": 2254,
+          "bytes": 2280,
           "size": "2.2 KB"
         },
         {
           "path": "dth-hrh/ch06-governance-and-stewardship/pers-registry-governance-body.md",
-          "bytes": 1737,
+          "bytes": 1736,
           "size": "1.7 KB"
         },
         {
           "path": "dth-hrh/ch06-governance-and-stewardship/pers-registry-governance-body.ts",
-          "bytes": 1535,
+          "bytes": 1526,
           "size": "1.5 KB"
         },
         {
@@ -1664,67 +1664,67 @@
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/dt-hrh-dt-01-registration-eligibility.dmn",
-          "bytes": 8950,
-          "size": "8.7 KB"
+          "bytes": 8965,
+          "size": "8.8 KB"
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/dt-hrh-dt-01-registration-eligibility.jsonld",
-          "bytes": 3270,
-          "size": "3.2 KB"
+          "bytes": 3333,
+          "size": "3.3 KB"
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/dt-hrh-dt-01-registration-eligibility.md",
-          "bytes": 3058,
+          "bytes": 3086,
           "size": "3.0 KB"
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/dt-hrh-dt-01-registration-eligibility.ts",
-          "bytes": 2391,
-          "size": "2.3 KB"
+          "bytes": 2419,
+          "size": "2.4 KB"
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/dt-hrh-dt-02-lifecycle-status-transition.dmn",
-          "bytes": 9474,
+          "bytes": 9489,
           "size": "9.3 KB"
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/dt-hrh-dt-02-lifecycle-status-transition.jsonld",
-          "bytes": 3221,
-          "size": "3.1 KB"
+          "bytes": 3269,
+          "size": "3.2 KB"
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/dt-hrh-dt-02-lifecycle-status-transition.md",
-          "bytes": 2661,
+          "bytes": 2674,
           "size": "2.6 KB"
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/dt-hrh-dt-02-lifecycle-status-transition.ts",
-          "bytes": 2345,
+          "bytes": 2358,
           "size": "2.3 KB"
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/dt-hrh-dt-03-verification-and-access-response.dmn",
-          "bytes": 8128,
-          "size": "7.9 KB"
+          "bytes": 8143,
+          "size": "8.0 KB"
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/dt-hrh-dt-03-verification-and-access-response.jsonld",
-          "bytes": 3829,
-          "size": "3.7 KB"
+          "bytes": 3869,
+          "size": "3.8 KB"
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/dt-hrh-dt-03-verification-and-access-response.md",
-          "bytes": 3796,
+          "bytes": 3801,
           "size": "3.7 KB"
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/dt-hrh-dt-03-verification-and-access-response.ts",
-          "bytes": 2801,
+          "bytes": 2806,
           "size": "2.7 KB"
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/f-nhwa-hwr.jsonld",
-          "bytes": 1123,
+          "bytes": 1165,
           "size": "1.1 KB"
         },
         {
@@ -1734,13 +1734,13 @@
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/f-nhwa-hwr.ts",
-          "bytes": 830,
-          "size": "830 B"
+          "bytes": 837,
+          "size": "837 B"
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/f-nhwa-poster.jsonld",
-          "bytes": 1152,
-          "size": "1.1 KB"
+          "bytes": 1194,
+          "size": "1.2 KB"
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/f-nhwa-poster.md",
@@ -1749,13 +1749,13 @@
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/f-nhwa-poster.ts",
-          "bytes": 885,
-          "size": "885 B"
+          "bytes": 892,
+          "size": "892 B"
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/fr-an-01.jsonld",
-          "bytes": 4035,
-          "size": "3.9 KB"
+          "bytes": 4145,
+          "size": "4.0 KB"
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/fr-an-01.md",
@@ -1764,13 +1764,13 @@
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/fr-an-01.ts",
-          "bytes": 3123,
-          "size": "3.0 KB"
+          "bytes": 3198,
+          "size": "3.1 KB"
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/fr-an-02.jsonld",
-          "bytes": 5604,
-          "size": "5.5 KB"
+          "bytes": 5691,
+          "size": "5.6 KB"
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/fr-an-02.md",
@@ -1779,13 +1779,13 @@
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/fr-an-02.ts",
-          "bytes": 4406,
-          "size": "4.3 KB"
+          "bytes": 4458,
+          "size": "4.4 KB"
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/fr-an-03.jsonld",
-          "bytes": 2438,
-          "size": "2.4 KB"
+          "bytes": 2525,
+          "size": "2.5 KB"
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/fr-an-03.md",
@@ -1794,13 +1794,13 @@
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/fr-an-03.ts",
-          "bytes": 1814,
+          "bytes": 1866,
           "size": "1.8 KB"
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/fr-id-01.jsonld",
-          "bytes": 2337,
-          "size": "2.3 KB"
+          "bytes": 2409,
+          "size": "2.4 KB"
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/fr-id-01.md",
@@ -1809,13 +1809,13 @@
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/fr-id-01.ts",
-          "bytes": 1751,
+          "bytes": 1788,
           "size": "1.7 KB"
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/fr-id-02.jsonld",
-          "bytes": 1952,
-          "size": "1.9 KB"
+          "bytes": 2032,
+          "size": "2.0 KB"
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/fr-id-02.md",
@@ -1824,13 +1824,13 @@
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/fr-id-02.ts",
-          "bytes": 1440,
-          "size": "1.4 KB"
+          "bytes": 1485,
+          "size": "1.5 KB"
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/fr-id-03.jsonld",
-          "bytes": 1066,
-          "size": "1.0 KB"
+          "bytes": 1101,
+          "size": "1.1 KB"
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/fr-id-03.md",
@@ -1844,8 +1844,8 @@
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/fr-lc-01.jsonld",
-          "bytes": 1959,
-          "size": "1.9 KB"
+          "bytes": 2039,
+          "size": "2.0 KB"
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/fr-lc-01.md",
@@ -1854,13 +1854,13 @@
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/fr-lc-01.ts",
-          "bytes": 1447,
-          "size": "1.4 KB"
+          "bytes": 1492,
+          "size": "1.5 KB"
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/fr-lc-02.jsonld",
-          "bytes": 2341,
-          "size": "2.3 KB"
+          "bytes": 2413,
+          "size": "2.4 KB"
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/fr-lc-02.md",
@@ -1869,13 +1869,13 @@
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/fr-lc-02.ts",
-          "bytes": 1755,
-          "size": "1.7 KB"
+          "bytes": 1792,
+          "size": "1.8 KB"
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/fr-lc-03.jsonld",
-          "bytes": 1065,
-          "size": "1.0 KB"
+          "bytes": 1100,
+          "size": "1.1 KB"
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/fr-lc-03.md",
@@ -1889,8 +1889,8 @@
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/fr-rec-01.jsonld",
-          "bytes": 2697,
-          "size": "2.6 KB"
+          "bytes": 2791,
+          "size": "2.7 KB"
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/fr-rec-01.md",
@@ -1899,13 +1899,13 @@
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/fr-rec-01.ts",
-          "bytes": 2033,
+          "bytes": 2092,
           "size": "2.0 KB"
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/fr-rec-02.jsonld",
-          "bytes": 1045,
-          "size": "1.0 KB"
+          "bytes": 1080,
+          "size": "1.1 KB"
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/fr-rec-02.md",
@@ -1919,7 +1919,7 @@
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/fr-rec-03.jsonld",
-          "bytes": 1027,
+          "bytes": 1062,
           "size": "1.0 KB"
         },
         {
@@ -1934,8 +1934,8 @@
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/fr-ver-01.jsonld",
-          "bytes": 2479,
-          "size": "2.4 KB"
+          "bytes": 2566,
+          "size": "2.5 KB"
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/fr-ver-01.md",
@@ -1944,12 +1944,12 @@
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/fr-ver-01.ts",
-          "bytes": 1853,
-          "size": "1.8 KB"
+          "bytes": 1905,
+          "size": "1.9 KB"
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/fr-ver-02.jsonld",
-          "bytes": 1081,
+          "bytes": 1116,
           "size": "1.1 KB"
         },
         {
@@ -1964,8 +1964,8 @@
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/fr-ver-03.jsonld",
-          "bytes": 1064,
-          "size": "1.0 KB"
+          "bytes": 1099,
+          "size": "1.1 KB"
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/fr-ver-03.md",
@@ -1979,8 +1979,8 @@
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/nfr-availability.jsonld",
-          "bytes": 724,
-          "size": "724 B"
+          "bytes": 759,
+          "size": "759 B"
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/nfr-availability.md",
@@ -1994,8 +1994,8 @@
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/nfr-languages.jsonld",
-          "bytes": 718,
-          "size": "718 B"
+          "bytes": 753,
+          "size": "753 B"
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/nfr-languages.md",
@@ -2009,8 +2009,8 @@
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/nfr-offline-use.jsonld",
-          "bytes": 743,
-          "size": "743 B"
+          "bytes": 778,
+          "size": "778 B"
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/nfr-offline-use.md",
@@ -2024,8 +2024,8 @@
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/nfr-security.jsonld",
-          "bytes": 716,
-          "size": "716 B"
+          "bytes": 751,
+          "size": "751 B"
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/nfr-security.md",
@@ -2039,8 +2039,8 @@
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/nfr-testability.jsonld",
-          "bytes": 732,
-          "size": "732 B"
+          "bytes": 767,
+          "size": "767 B"
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/nfr-testability.md",
@@ -2054,8 +2054,8 @@
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/p-ch07-analytics.jsonld",
-          "bytes": 1483,
-          "size": "1.4 KB"
+          "bytes": 1509,
+          "size": "1.5 KB"
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/p-ch07-analytics.md",
@@ -2064,13 +2064,13 @@
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/p-ch07-analytics.ts",
-          "bytes": 936,
-          "size": "936 B"
+          "bytes": 927,
+          "size": "927 B"
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/p-ch07-figures.jsonld",
-          "bytes": 707,
-          "size": "707 B"
+          "bytes": 742,
+          "size": "742 B"
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/p-ch07-figures.md",
@@ -2084,7 +2084,7 @@
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/p-ch07-identity-management.jsonld",
-          "bytes": 1312,
+          "bytes": 1331,
           "size": "1.3 KB"
         },
         {
@@ -2094,13 +2094,13 @@
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/p-ch07-identity-management.ts",
-          "bytes": 783,
-          "size": "783 B"
+          "bytes": 767,
+          "size": "767 B"
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/p-ch07-key-messages.jsonld",
-          "bytes": 706,
-          "size": "706 B"
+          "bytes": 741,
+          "size": "741 B"
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/p-ch07-key-messages.md",
@@ -2114,7 +2114,7 @@
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/p-ch07-lifecycle-management.jsonld",
-          "bytes": 1503,
+          "bytes": 1514,
           "size": "1.5 KB"
         },
         {
@@ -2124,13 +2124,13 @@
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/p-ch07-lifecycle-management.ts",
-          "bytes": 934,
-          "size": "934 B"
+          "bytes": 910,
+          "size": "910 B"
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/p-ch07-nfr-intro.jsonld",
-          "bytes": 712,
-          "size": "712 B"
+          "bytes": 747,
+          "size": "747 B"
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/p-ch07-nfr-intro.md",
@@ -2144,8 +2144,8 @@
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/p-ch07-objectives.jsonld",
-          "bytes": 706,
-          "size": "706 B"
+          "bytes": 741,
+          "size": "741 B"
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/p-ch07-objectives.md",
@@ -2159,8 +2159,8 @@
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/p-ch07-outputs.jsonld",
-          "bytes": 709,
-          "size": "709 B"
+          "bytes": 744,
+          "size": "744 B"
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/p-ch07-outputs.md",
@@ -2174,8 +2174,8 @@
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/p-ch07-records.jsonld",
-          "bytes": 1684,
-          "size": "1.6 KB"
+          "bytes": 1702,
+          "size": "1.7 KB"
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/p-ch07-records.md",
@@ -2184,13 +2184,13 @@
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/p-ch07-records.ts",
-          "bytes": 1103,
+          "bytes": 1086,
           "size": "1.1 KB"
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/p-ch07-tools.jsonld",
-          "bytes": 708,
-          "size": "708 B"
+          "bytes": 743,
+          "size": "743 B"
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/p-ch07-tools.md",
@@ -2204,7 +2204,7 @@
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/p-ch07-verification-services.jsonld",
-          "bytes": 1684,
+          "bytes": 1687,
           "size": "1.6 KB"
         },
         {
@@ -2214,7 +2214,7 @@
         },
         {
           "path": "dth-hrh/ch07-functional-requirements/p-ch07-verification-services.ts",
-          "bytes": 1075,
+          "bytes": 1043,
           "size": "1.0 KB"
         },
         {
@@ -2224,7 +2224,7 @@
         },
         {
           "path": "dth-hrh/ch08-digital-architecture-principles/p-ch08-architecture-patterns.jsonld",
-          "bytes": 1313,
+          "bytes": 1332,
           "size": "1.3 KB"
         },
         {
@@ -2234,13 +2234,13 @@
         },
         {
           "path": "dth-hrh/ch08-digital-architecture-principles/p-ch08-architecture-patterns.ts",
-          "bytes": 766,
-          "size": "766 B"
+          "bytes": 750,
+          "size": "750 B"
         },
         {
           "path": "dth-hrh/ch08-digital-architecture-principles/p-ch08-federation.jsonld",
-          "bytes": 1071,
-          "size": "1.0 KB"
+          "bytes": 1098,
+          "size": "1.1 KB"
         },
         {
           "path": "dth-hrh/ch08-digital-architecture-principles/p-ch08-federation.md",
@@ -2249,13 +2249,13 @@
         },
         {
           "path": "dth-hrh/ch08-digital-architecture-principles/p-ch08-federation.ts",
-          "bytes": 598,
-          "size": "598 B"
+          "bytes": 590,
+          "size": "590 B"
         },
         {
           "path": "dth-hrh/ch08-digital-architecture-principles/p-ch08-figures.jsonld",
-          "bytes": 707,
-          "size": "707 B"
+          "bytes": 742,
+          "size": "742 B"
         },
         {
           "path": "dth-hrh/ch08-digital-architecture-principles/p-ch08-figures.md",
@@ -2269,8 +2269,8 @@
         },
         {
           "path": "dth-hrh/ch08-digital-architecture-principles/p-ch08-key-messages.jsonld",
-          "bytes": 706,
-          "size": "706 B"
+          "bytes": 741,
+          "size": "741 B"
         },
         {
           "path": "dth-hrh/ch08-digital-architecture-principles/p-ch08-key-messages.md",
@@ -2284,8 +2284,8 @@
         },
         {
           "path": "dth-hrh/ch08-digital-architecture-principles/p-ch08-objectives.jsonld",
-          "bytes": 706,
-          "size": "706 B"
+          "bytes": 741,
+          "size": "741 B"
         },
         {
           "path": "dth-hrh/ch08-digital-architecture-principles/p-ch08-objectives.md",
@@ -2299,8 +2299,8 @@
         },
         {
           "path": "dth-hrh/ch08-digital-architecture-principles/p-ch08-outputs.jsonld",
-          "bytes": 709,
-          "size": "709 B"
+          "bytes": 744,
+          "size": "744 B"
         },
         {
           "path": "dth-hrh/ch08-digital-architecture-principles/p-ch08-outputs.md",
@@ -2314,8 +2314,8 @@
         },
         {
           "path": "dth-hrh/ch08-digital-architecture-principles/p-ch08-scalability.jsonld",
-          "bytes": 706,
-          "size": "706 B"
+          "bytes": 741,
+          "size": "741 B"
         },
         {
           "path": "dth-hrh/ch08-digital-architecture-principles/p-ch08-scalability.md",
@@ -2329,8 +2329,8 @@
         },
         {
           "path": "dth-hrh/ch08-digital-architecture-principles/p-ch08-technology-neutrality.jsonld",
-          "bytes": 746,
-          "size": "746 B"
+          "bytes": 781,
+          "size": "781 B"
         },
         {
           "path": "dth-hrh/ch08-digital-architecture-principles/p-ch08-technology-neutrality.md",
@@ -2344,8 +2344,8 @@
         },
         {
           "path": "dth-hrh/ch08-digital-architecture-principles/p-ch08-tools.jsonld",
-          "bytes": 708,
-          "size": "708 B"
+          "bytes": 743,
+          "size": "743 B"
         },
         {
           "path": "dth-hrh/ch08-digital-architecture-principles/p-ch08-tools.md",
@@ -2364,8 +2364,8 @@
         },
         {
           "path": "dth-hrh/ch09-registry-within-ecosystem/p-ch09-architecture-examples.jsonld",
-          "bytes": 746,
-          "size": "746 B"
+          "bytes": 781,
+          "size": "781 B"
         },
         {
           "path": "dth-hrh/ch09-registry-within-ecosystem/p-ch09-architecture-examples.md",
@@ -2379,8 +2379,8 @@
         },
         {
           "path": "dth-hrh/ch09-registry-within-ecosystem/p-ch09-data-flows.jsonld",
-          "bytes": 702,
-          "size": "702 B"
+          "bytes": 737,
+          "size": "737 B"
         },
         {
           "path": "dth-hrh/ch09-registry-within-ecosystem/p-ch09-data-flows.md",
@@ -2394,8 +2394,8 @@
         },
         {
           "path": "dth-hrh/ch09-registry-within-ecosystem/p-ch09-figures.jsonld",
-          "bytes": 707,
-          "size": "707 B"
+          "bytes": 742,
+          "size": "742 B"
         },
         {
           "path": "dth-hrh/ch09-registry-within-ecosystem/p-ch09-figures.md",
@@ -2409,8 +2409,8 @@
         },
         {
           "path": "dth-hrh/ch09-registry-within-ecosystem/p-ch09-key-messages.jsonld",
-          "bytes": 706,
-          "size": "706 B"
+          "bytes": 741,
+          "size": "741 B"
         },
         {
           "path": "dth-hrh/ch09-registry-within-ecosystem/p-ch09-key-messages.md",
@@ -2424,8 +2424,8 @@
         },
         {
           "path": "dth-hrh/ch09-registry-within-ecosystem/p-ch09-objectives.jsonld",
-          "bytes": 706,
-          "size": "706 B"
+          "bytes": 741,
+          "size": "741 B"
         },
         {
           "path": "dth-hrh/ch09-registry-within-ecosystem/p-ch09-objectives.md",
@@ -2439,8 +2439,8 @@
         },
         {
           "path": "dth-hrh/ch09-registry-within-ecosystem/p-ch09-outputs.jsonld",
-          "bytes": 709,
-          "size": "709 B"
+          "bytes": 744,
+          "size": "744 B"
         },
         {
           "path": "dth-hrh/ch09-registry-within-ecosystem/p-ch09-outputs.md",
@@ -2454,8 +2454,8 @@
         },
         {
           "path": "dth-hrh/ch09-registry-within-ecosystem/p-ch09-part-purpose.jsonld",
-          "bytes": 727,
-          "size": "727 B"
+          "bytes": 762,
+          "size": "762 B"
         },
         {
           "path": "dth-hrh/ch09-registry-within-ecosystem/p-ch09-part-purpose.md",
@@ -2469,8 +2469,8 @@
         },
         {
           "path": "dth-hrh/ch09-registry-within-ecosystem/p-ch09-system-landscape.jsonld",
-          "bytes": 726,
-          "size": "726 B"
+          "bytes": 761,
+          "size": "761 B"
         },
         {
           "path": "dth-hrh/ch09-registry-within-ecosystem/p-ch09-system-landscape.md",
@@ -2484,8 +2484,8 @@
         },
         {
           "path": "dth-hrh/ch09-registry-within-ecosystem/p-ch09-tools.jsonld",
-          "bytes": 708,
-          "size": "708 B"
+          "bytes": 743,
+          "size": "743 B"
         },
         {
           "path": "dth-hrh/ch09-registry-within-ecosystem/p-ch09-tools.md",
@@ -2504,8 +2504,8 @@
         },
         {
           "path": "dth-hrh/ch10-interoperability/p-ch10-apis.jsonld",
-          "bytes": 679,
-          "size": "679 B"
+          "bytes": 714,
+          "size": "714 B"
         },
         {
           "path": "dth-hrh/ch10-interoperability/p-ch10-apis.md",
@@ -2519,8 +2519,8 @@
         },
         {
           "path": "dth-hrh/ch10-interoperability/p-ch10-data-exchange-patterns.jsonld",
-          "bytes": 751,
-          "size": "751 B"
+          "bytes": 786,
+          "size": "786 B"
         },
         {
           "path": "dth-hrh/ch10-interoperability/p-ch10-data-exchange-patterns.md",
@@ -2534,8 +2534,8 @@
         },
         {
           "path": "dth-hrh/ch10-interoperability/p-ch10-figures.jsonld",
-          "bytes": 707,
-          "size": "707 B"
+          "bytes": 742,
+          "size": "742 B"
         },
         {
           "path": "dth-hrh/ch10-interoperability/p-ch10-figures.md",
@@ -2549,8 +2549,8 @@
         },
         {
           "path": "dth-hrh/ch10-interoperability/p-ch10-governance.jsonld",
-          "bytes": 703,
-          "size": "703 B"
+          "bytes": 738,
+          "size": "738 B"
         },
         {
           "path": "dth-hrh/ch10-interoperability/p-ch10-governance.md",
@@ -2564,8 +2564,8 @@
         },
         {
           "path": "dth-hrh/ch10-interoperability/p-ch10-key-messages.jsonld",
-          "bytes": 706,
-          "size": "706 B"
+          "bytes": 741,
+          "size": "741 B"
         },
         {
           "path": "dth-hrh/ch10-interoperability/p-ch10-key-messages.md",
@@ -2579,8 +2579,8 @@
         },
         {
           "path": "dth-hrh/ch10-interoperability/p-ch10-objectives.jsonld",
-          "bytes": 706,
-          "size": "706 B"
+          "bytes": 741,
+          "size": "741 B"
         },
         {
           "path": "dth-hrh/ch10-interoperability/p-ch10-objectives.md",
@@ -2594,8 +2594,8 @@
         },
         {
           "path": "dth-hrh/ch10-interoperability/p-ch10-outputs.jsonld",
-          "bytes": 709,
-          "size": "709 B"
+          "bytes": 744,
+          "size": "744 B"
         },
         {
           "path": "dth-hrh/ch10-interoperability/p-ch10-outputs.md",
@@ -2609,8 +2609,8 @@
         },
         {
           "path": "dth-hrh/ch10-interoperability/p-ch10-standards.jsonld",
-          "bytes": 699,
-          "size": "699 B"
+          "bytes": 734,
+          "size": "734 B"
         },
         {
           "path": "dth-hrh/ch10-interoperability/p-ch10-standards.md",
@@ -2624,8 +2624,8 @@
         },
         {
           "path": "dth-hrh/ch10-interoperability/p-ch10-tools.jsonld",
-          "bytes": 708,
-          "size": "708 B"
+          "bytes": 743,
+          "size": "743 B"
         },
         {
           "path": "dth-hrh/ch10-interoperability/p-ch10-tools.md",
@@ -2644,8 +2644,8 @@
         },
         {
           "path": "dth-hrh/ch11-data-standards-and-minimum-dataset/de-address.jsonld",
-          "bytes": 719,
-          "size": "719 B"
+          "bytes": 754,
+          "size": "754 B"
         },
         {
           "path": "dth-hrh/ch11-data-standards-and-minimum-dataset/de-address.md",
@@ -2659,8 +2659,8 @@
         },
         {
           "path": "dth-hrh/ch11-data-standards-and-minimum-dataset/de-birth-history.jsonld",
-          "bytes": 743,
-          "size": "743 B"
+          "bytes": 778,
+          "size": "778 B"
         },
         {
           "path": "dth-hrh/ch11-data-standards-and-minimum-dataset/de-birth-history.md",
@@ -2674,8 +2674,8 @@
         },
         {
           "path": "dth-hrh/ch11-data-standards-and-minimum-dataset/de-citizenship-and-language.jsonld",
-          "bytes": 787,
-          "size": "787 B"
+          "bytes": 822,
+          "size": "822 B"
         },
         {
           "path": "dth-hrh/ch11-data-standards-and-minimum-dataset/de-citizenship-and-language.md",
@@ -2689,8 +2689,8 @@
         },
         {
           "path": "dth-hrh/ch11-data-standards-and-minimum-dataset/de-contact-information.jsonld",
-          "bytes": 767,
-          "size": "767 B"
+          "bytes": 802,
+          "size": "802 B"
         },
         {
           "path": "dth-hrh/ch11-data-standards-and-minimum-dataset/de-contact-information.md",
@@ -2704,8 +2704,8 @@
         },
         {
           "path": "dth-hrh/ch11-data-standards-and-minimum-dataset/de-data-submission-institution.jsonld",
-          "bytes": 799,
-          "size": "799 B"
+          "bytes": 834,
+          "size": "834 B"
         },
         {
           "path": "dth-hrh/ch11-data-standards-and-minimum-dataset/de-data-submission-institution.md",
@@ -2719,8 +2719,8 @@
         },
         {
           "path": "dth-hrh/ch11-data-standards-and-minimum-dataset/de-employment-address.jsonld",
-          "bytes": 763,
-          "size": "763 B"
+          "bytes": 798,
+          "size": "798 B"
         },
         {
           "path": "dth-hrh/ch11-data-standards-and-minimum-dataset/de-employment-address.md",
@@ -2734,8 +2734,8 @@
         },
         {
           "path": "dth-hrh/ch11-data-standards-and-minimum-dataset/de-employment-status.jsonld",
-          "bytes": 759,
-          "size": "759 B"
+          "bytes": 794,
+          "size": "794 B"
         },
         {
           "path": "dth-hrh/ch11-data-standards-and-minimum-dataset/de-employment-status.md",
@@ -2749,8 +2749,8 @@
         },
         {
           "path": "dth-hrh/ch11-data-standards-and-minimum-dataset/de-identification-number.jsonld",
-          "bytes": 775,
-          "size": "775 B"
+          "bytes": 810,
+          "size": "810 B"
         },
         {
           "path": "dth-hrh/ch11-data-standards-and-minimum-dataset/de-identification-number.md",
@@ -2764,8 +2764,8 @@
         },
         {
           "path": "dth-hrh/ch11-data-standards-and-minimum-dataset/de-name.jsonld",
-          "bytes": 707,
-          "size": "707 B"
+          "bytes": 742,
+          "size": "742 B"
         },
         {
           "path": "dth-hrh/ch11-data-standards-and-minimum-dataset/de-name.md",
@@ -2779,8 +2779,8 @@
         },
         {
           "path": "dth-hrh/ch11-data-standards-and-minimum-dataset/de-professional-licence-and-certification.jsonld",
-          "bytes": 843,
-          "size": "843 B"
+          "bytes": 878,
+          "size": "878 B"
         },
         {
           "path": "dth-hrh/ch11-data-standards-and-minimum-dataset/de-professional-licence-and-certification.md",
@@ -2794,8 +2794,8 @@
         },
         {
           "path": "dth-hrh/ch11-data-standards-and-minimum-dataset/p-ch11-classifications.jsonld",
-          "bytes": 723,
-          "size": "723 B"
+          "bytes": 758,
+          "size": "758 B"
         },
         {
           "path": "dth-hrh/ch11-data-standards-and-minimum-dataset/p-ch11-classifications.md",
@@ -2809,8 +2809,8 @@
         },
         {
           "path": "dth-hrh/ch11-data-standards-and-minimum-dataset/p-ch11-core-dataset.jsonld",
-          "bytes": 711,
-          "size": "711 B"
+          "bytes": 746,
+          "size": "746 B"
         },
         {
           "path": "dth-hrh/ch11-data-standards-and-minimum-dataset/p-ch11-core-dataset.md",
@@ -2824,8 +2824,8 @@
         },
         {
           "path": "dth-hrh/ch11-data-standards-and-minimum-dataset/p-ch11-figures.jsonld",
-          "bytes": 707,
-          "size": "707 B"
+          "bytes": 742,
+          "size": "742 B"
         },
         {
           "path": "dth-hrh/ch11-data-standards-and-minimum-dataset/p-ch11-figures.md",
@@ -2839,8 +2839,8 @@
         },
         {
           "path": "dth-hrh/ch11-data-standards-and-minimum-dataset/p-ch11-key-messages.jsonld",
-          "bytes": 706,
-          "size": "706 B"
+          "bytes": 741,
+          "size": "741 B"
         },
         {
           "path": "dth-hrh/ch11-data-standards-and-minimum-dataset/p-ch11-key-messages.md",
@@ -2854,8 +2854,8 @@
         },
         {
           "path": "dth-hrh/ch11-data-standards-and-minimum-dataset/p-ch11-metadata.jsonld",
-          "bytes": 695,
-          "size": "695 B"
+          "bytes": 730,
+          "size": "730 B"
         },
         {
           "path": "dth-hrh/ch11-data-standards-and-minimum-dataset/p-ch11-metadata.md",
@@ -2869,8 +2869,8 @@
         },
         {
           "path": "dth-hrh/ch11-data-standards-and-minimum-dataset/p-ch11-nhwa-mapping.jsonld",
-          "bytes": 711,
-          "size": "711 B"
+          "bytes": 746,
+          "size": "746 B"
         },
         {
           "path": "dth-hrh/ch11-data-standards-and-minimum-dataset/p-ch11-nhwa-mapping.md",
@@ -2884,8 +2884,8 @@
         },
         {
           "path": "dth-hrh/ch11-data-standards-and-minimum-dataset/p-ch11-objectives.jsonld",
-          "bytes": 706,
-          "size": "706 B"
+          "bytes": 741,
+          "size": "741 B"
         },
         {
           "path": "dth-hrh/ch11-data-standards-and-minimum-dataset/p-ch11-objectives.md",
@@ -2899,8 +2899,8 @@
         },
         {
           "path": "dth-hrh/ch11-data-standards-and-minimum-dataset/p-ch11-outputs.jsonld",
-          "bytes": 709,
-          "size": "709 B"
+          "bytes": 744,
+          "size": "744 B"
         },
         {
           "path": "dth-hrh/ch11-data-standards-and-minimum-dataset/p-ch11-outputs.md",
@@ -2914,8 +2914,8 @@
         },
         {
           "path": "dth-hrh/ch11-data-standards-and-minimum-dataset/p-ch11-tools.jsonld",
-          "bytes": 708,
-          "size": "708 B"
+          "bytes": 743,
+          "size": "743 B"
         },
         {
           "path": "dth-hrh/ch11-data-standards-and-minimum-dataset/p-ch11-tools.md",
@@ -2934,8 +2934,8 @@
         },
         {
           "path": "dth-hrh/ch12-privacy-security-and-trust/p-ch12-access-control.jsonld",
-          "bytes": 719,
-          "size": "719 B"
+          "bytes": 754,
+          "size": "754 B"
         },
         {
           "path": "dth-hrh/ch12-privacy-security-and-trust/p-ch12-access-control.md",
@@ -2949,8 +2949,8 @@
         },
         {
           "path": "dth-hrh/ch12-privacy-security-and-trust/p-ch12-audit-trails.jsonld",
-          "bytes": 711,
-          "size": "711 B"
+          "bytes": 746,
+          "size": "746 B"
         },
         {
           "path": "dth-hrh/ch12-privacy-security-and-trust/p-ch12-audit-trails.md",
@@ -2964,8 +2964,8 @@
         },
         {
           "path": "dth-hrh/ch12-privacy-security-and-trust/p-ch12-cybersecurity.jsonld",
-          "bytes": 715,
-          "size": "715 B"
+          "bytes": 750,
+          "size": "750 B"
         },
         {
           "path": "dth-hrh/ch12-privacy-security-and-trust/p-ch12-cybersecurity.md",
@@ -2979,8 +2979,8 @@
         },
         {
           "path": "dth-hrh/ch12-privacy-security-and-trust/p-ch12-figures.jsonld",
-          "bytes": 707,
-          "size": "707 B"
+          "bytes": 742,
+          "size": "742 B"
         },
         {
           "path": "dth-hrh/ch12-privacy-security-and-trust/p-ch12-figures.md",
@@ -2994,8 +2994,8 @@
         },
         {
           "path": "dth-hrh/ch12-privacy-security-and-trust/p-ch12-key-messages.jsonld",
-          "bytes": 706,
-          "size": "706 B"
+          "bytes": 741,
+          "size": "741 B"
         },
         {
           "path": "dth-hrh/ch12-privacy-security-and-trust/p-ch12-key-messages.md",
@@ -3009,8 +3009,8 @@
         },
         {
           "path": "dth-hrh/ch12-privacy-security-and-trust/p-ch12-objectives.jsonld",
-          "bytes": 706,
-          "size": "706 B"
+          "bytes": 741,
+          "size": "741 B"
         },
         {
           "path": "dth-hrh/ch12-privacy-security-and-trust/p-ch12-objectives.md",
@@ -3024,8 +3024,8 @@
         },
         {
           "path": "dth-hrh/ch12-privacy-security-and-trust/p-ch12-outputs.jsonld",
-          "bytes": 709,
-          "size": "709 B"
+          "bytes": 744,
+          "size": "744 B"
         },
         {
           "path": "dth-hrh/ch12-privacy-security-and-trust/p-ch12-outputs.md",
@@ -3039,8 +3039,8 @@
         },
         {
           "path": "dth-hrh/ch12-privacy-security-and-trust/p-ch12-privacy-by-design.jsonld",
-          "bytes": 731,
-          "size": "731 B"
+          "bytes": 766,
+          "size": "766 B"
         },
         {
           "path": "dth-hrh/ch12-privacy-security-and-trust/p-ch12-privacy-by-design.md",
@@ -3054,8 +3054,8 @@
         },
         {
           "path": "dth-hrh/ch12-privacy-security-and-trust/p-ch12-tools.jsonld",
-          "bytes": 708,
-          "size": "708 B"
+          "bytes": 743,
+          "size": "743 B"
         },
         {
           "path": "dth-hrh/ch12-privacy-security-and-trust/p-ch12-tools.md",
@@ -3074,8 +3074,8 @@
         },
         {
           "path": "dth-hrh/ch13-data-quality-management/p-ch13-figures.jsonld",
-          "bytes": 707,
-          "size": "707 B"
+          "bytes": 742,
+          "size": "742 B"
         },
         {
           "path": "dth-hrh/ch13-data-quality-management/p-ch13-figures.md",
@@ -3089,8 +3089,8 @@
         },
         {
           "path": "dth-hrh/ch13-data-quality-management/p-ch13-key-messages.jsonld",
-          "bytes": 706,
-          "size": "706 B"
+          "bytes": 741,
+          "size": "741 B"
         },
         {
           "path": "dth-hrh/ch13-data-quality-management/p-ch13-key-messages.md",
@@ -3104,8 +3104,8 @@
         },
         {
           "path": "dth-hrh/ch13-data-quality-management/p-ch13-monitoring.jsonld",
-          "bytes": 703,
-          "size": "703 B"
+          "bytes": 738,
+          "size": "738 B"
         },
         {
           "path": "dth-hrh/ch13-data-quality-management/p-ch13-monitoring.md",
@@ -3119,8 +3119,8 @@
         },
         {
           "path": "dth-hrh/ch13-data-quality-management/p-ch13-objectives.jsonld",
-          "bytes": 706,
-          "size": "706 B"
+          "bytes": 741,
+          "size": "741 B"
         },
         {
           "path": "dth-hrh/ch13-data-quality-management/p-ch13-objectives.md",
@@ -3134,8 +3134,8 @@
         },
         {
           "path": "dth-hrh/ch13-data-quality-management/p-ch13-outputs.jsonld",
-          "bytes": 709,
-          "size": "709 B"
+          "bytes": 744,
+          "size": "744 B"
         },
         {
           "path": "dth-hrh/ch13-data-quality-management/p-ch13-outputs.md",
@@ -3149,8 +3149,8 @@
         },
         {
           "path": "dth-hrh/ch13-data-quality-management/p-ch13-quality-dimensions.jsonld",
-          "bytes": 735,
-          "size": "735 B"
+          "bytes": 770,
+          "size": "770 B"
         },
         {
           "path": "dth-hrh/ch13-data-quality-management/p-ch13-quality-dimensions.md",
@@ -3164,8 +3164,8 @@
         },
         {
           "path": "dth-hrh/ch13-data-quality-management/p-ch13-tools.jsonld",
-          "bytes": 708,
-          "size": "708 B"
+          "bytes": 743,
+          "size": "743 B"
         },
         {
           "path": "dth-hrh/ch13-data-quality-management/p-ch13-tools.md",
@@ -3179,8 +3179,8 @@
         },
         {
           "path": "dth-hrh/ch13-data-quality-management/p-ch13-validation.jsonld",
-          "bytes": 703,
-          "size": "703 B"
+          "bytes": 738,
+          "size": "738 B"
         },
         {
           "path": "dth-hrh/ch13-data-quality-management/p-ch13-validation.md",
@@ -3199,8 +3199,8 @@
         },
         {
           "path": "dth-hrh/ch14-preparing-for-transformation/p-ch14-figures.jsonld",
-          "bytes": 707,
-          "size": "707 B"
+          "bytes": 742,
+          "size": "742 B"
         },
         {
           "path": "dth-hrh/ch14-preparing-for-transformation/p-ch14-figures.md",
@@ -3214,8 +3214,8 @@
         },
         {
           "path": "dth-hrh/ch14-preparing-for-transformation/p-ch14-key-messages.jsonld",
-          "bytes": 706,
-          "size": "706 B"
+          "bytes": 741,
+          "size": "741 B"
         },
         {
           "path": "dth-hrh/ch14-preparing-for-transformation/p-ch14-key-messages.md",
@@ -3229,8 +3229,8 @@
         },
         {
           "path": "dth-hrh/ch14-preparing-for-transformation/p-ch14-leadership.jsonld",
-          "bytes": 703,
-          "size": "703 B"
+          "bytes": 738,
+          "size": "738 B"
         },
         {
           "path": "dth-hrh/ch14-preparing-for-transformation/p-ch14-leadership.md",
@@ -3244,8 +3244,8 @@
         },
         {
           "path": "dth-hrh/ch14-preparing-for-transformation/p-ch14-objectives.jsonld",
-          "bytes": 706,
-          "size": "706 B"
+          "bytes": 741,
+          "size": "741 B"
         },
         {
           "path": "dth-hrh/ch14-preparing-for-transformation/p-ch14-objectives.md",
@@ -3259,8 +3259,8 @@
         },
         {
           "path": "dth-hrh/ch14-preparing-for-transformation/p-ch14-outputs.jsonld",
-          "bytes": 709,
-          "size": "709 B"
+          "bytes": 744,
+          "size": "744 B"
         },
         {
           "path": "dth-hrh/ch14-preparing-for-transformation/p-ch14-outputs.md",
@@ -3274,8 +3274,8 @@
         },
         {
           "path": "dth-hrh/ch14-preparing-for-transformation/p-ch14-part-purpose.jsonld",
-          "bytes": 733,
-          "size": "733 B"
+          "bytes": 768,
+          "size": "768 B"
         },
         {
           "path": "dth-hrh/ch14-preparing-for-transformation/p-ch14-part-purpose.md",
@@ -3289,8 +3289,8 @@
         },
         {
           "path": "dth-hrh/ch14-preparing-for-transformation/p-ch14-readiness.jsonld",
-          "bytes": 699,
-          "size": "699 B"
+          "bytes": 734,
+          "size": "734 B"
         },
         {
           "path": "dth-hrh/ch14-preparing-for-transformation/p-ch14-readiness.md",
@@ -3304,8 +3304,8 @@
         },
         {
           "path": "dth-hrh/ch14-preparing-for-transformation/p-ch14-stakeholder-engagement.jsonld",
-          "bytes": 751,
-          "size": "751 B"
+          "bytes": 786,
+          "size": "786 B"
         },
         {
           "path": "dth-hrh/ch14-preparing-for-transformation/p-ch14-stakeholder-engagement.md",
@@ -3319,8 +3319,8 @@
         },
         {
           "path": "dth-hrh/ch14-preparing-for-transformation/p-ch14-teams.jsonld",
-          "bytes": 683,
-          "size": "683 B"
+          "bytes": 718,
+          "size": "718 B"
         },
         {
           "path": "dth-hrh/ch14-preparing-for-transformation/p-ch14-teams.md",
@@ -3334,8 +3334,8 @@
         },
         {
           "path": "dth-hrh/ch14-preparing-for-transformation/p-ch14-tools.jsonld",
-          "bytes": 708,
-          "size": "708 B"
+          "bytes": 743,
+          "size": "743 B"
         },
         {
           "path": "dth-hrh/ch14-preparing-for-transformation/p-ch14-tools.md",
@@ -3354,8 +3354,8 @@
         },
         {
           "path": "dth-hrh/ch15-business-process-redesign/p-ch15-current-state-mapping.jsonld",
-          "bytes": 747,
-          "size": "747 B"
+          "bytes": 782,
+          "size": "782 B"
         },
         {
           "path": "dth-hrh/ch15-business-process-redesign/p-ch15-current-state-mapping.md",
@@ -3369,8 +3369,8 @@
         },
         {
           "path": "dth-hrh/ch15-business-process-redesign/p-ch15-figures.jsonld",
-          "bytes": 707,
-          "size": "707 B"
+          "bytes": 742,
+          "size": "742 B"
         },
         {
           "path": "dth-hrh/ch15-business-process-redesign/p-ch15-figures.md",
@@ -3384,8 +3384,8 @@
         },
         {
           "path": "dth-hrh/ch15-business-process-redesign/p-ch15-future-workflows.jsonld",
-          "bytes": 727,
-          "size": "727 B"
+          "bytes": 762,
+          "size": "762 B"
         },
         {
           "path": "dth-hrh/ch15-business-process-redesign/p-ch15-future-workflows.md",
@@ -3399,8 +3399,8 @@
         },
         {
           "path": "dth-hrh/ch15-business-process-redesign/p-ch15-key-messages.jsonld",
-          "bytes": 706,
-          "size": "706 B"
+          "bytes": 741,
+          "size": "741 B"
         },
         {
           "path": "dth-hrh/ch15-business-process-redesign/p-ch15-key-messages.md",
@@ -3414,8 +3414,8 @@
         },
         {
           "path": "dth-hrh/ch15-business-process-redesign/p-ch15-objectives.jsonld",
-          "bytes": 706,
-          "size": "706 B"
+          "bytes": 741,
+          "size": "741 B"
         },
         {
           "path": "dth-hrh/ch15-business-process-redesign/p-ch15-objectives.md",
@@ -3429,8 +3429,8 @@
         },
         {
           "path": "dth-hrh/ch15-business-process-redesign/p-ch15-outputs.jsonld",
-          "bytes": 709,
-          "size": "709 B"
+          "bytes": 744,
+          "size": "744 B"
         },
         {
           "path": "dth-hrh/ch15-business-process-redesign/p-ch15-outputs.md",
@@ -3444,8 +3444,8 @@
         },
         {
           "path": "dth-hrh/ch15-business-process-redesign/p-ch15-requirements.jsonld",
-          "bytes": 711,
-          "size": "711 B"
+          "bytes": 746,
+          "size": "746 B"
         },
         {
           "path": "dth-hrh/ch15-business-process-redesign/p-ch15-requirements.md",
@@ -3459,8 +3459,8 @@
         },
         {
           "path": "dth-hrh/ch15-business-process-redesign/p-ch15-tools.jsonld",
-          "bytes": 708,
-          "size": "708 B"
+          "bytes": 743,
+          "size": "743 B"
         },
         {
           "path": "dth-hrh/ch15-business-process-redesign/p-ch15-tools.md",
@@ -3479,8 +3479,8 @@
         },
         {
           "path": "dth-hrh/ch16-planning-and-procurement/p-ch16-figures.jsonld",
-          "bytes": 707,
-          "size": "707 B"
+          "bytes": 742,
+          "size": "742 B"
         },
         {
           "path": "dth-hrh/ch16-planning-and-procurement/p-ch16-figures.md",
@@ -3494,8 +3494,8 @@
         },
         {
           "path": "dth-hrh/ch16-planning-and-procurement/p-ch16-key-messages.jsonld",
-          "bytes": 706,
-          "size": "706 B"
+          "bytes": 741,
+          "size": "741 B"
         },
         {
           "path": "dth-hrh/ch16-planning-and-procurement/p-ch16-key-messages.md",
@@ -3509,8 +3509,8 @@
         },
         {
           "path": "dth-hrh/ch16-planning-and-procurement/p-ch16-objectives.jsonld",
-          "bytes": 706,
-          "size": "706 B"
+          "bytes": 741,
+          "size": "741 B"
         },
         {
           "path": "dth-hrh/ch16-planning-and-procurement/p-ch16-objectives.md",
@@ -3524,8 +3524,8 @@
         },
         {
           "path": "dth-hrh/ch16-planning-and-procurement/p-ch16-options-analysis.jsonld",
-          "bytes": 727,
-          "size": "727 B"
+          "bytes": 762,
+          "size": "762 B"
         },
         {
           "path": "dth-hrh/ch16-planning-and-procurement/p-ch16-options-analysis.md",
@@ -3539,8 +3539,8 @@
         },
         {
           "path": "dth-hrh/ch16-planning-and-procurement/p-ch16-outputs.jsonld",
-          "bytes": 709,
-          "size": "709 B"
+          "bytes": 744,
+          "size": "744 B"
         },
         {
           "path": "dth-hrh/ch16-planning-and-procurement/p-ch16-outputs.md",
@@ -3554,8 +3554,8 @@
         },
         {
           "path": "dth-hrh/ch16-planning-and-procurement/p-ch16-procurement-approaches.jsonld",
-          "bytes": 751,
-          "size": "751 B"
+          "bytes": 786,
+          "size": "786 B"
         },
         {
           "path": "dth-hrh/ch16-planning-and-procurement/p-ch16-procurement-approaches.md",
@@ -3569,8 +3569,8 @@
         },
         {
           "path": "dth-hrh/ch16-planning-and-procurement/p-ch16-risk-management.jsonld",
-          "bytes": 723,
-          "size": "723 B"
+          "bytes": 758,
+          "size": "758 B"
         },
         {
           "path": "dth-hrh/ch16-planning-and-procurement/p-ch16-risk-management.md",
@@ -3584,8 +3584,8 @@
         },
         {
           "path": "dth-hrh/ch16-planning-and-procurement/p-ch16-tools.jsonld",
-          "bytes": 708,
-          "size": "708 B"
+          "bytes": 743,
+          "size": "743 B"
         },
         {
           "path": "dth-hrh/ch16-planning-and-procurement/p-ch16-tools.md",
@@ -3604,8 +3604,8 @@
         },
         {
           "path": "dth-hrh/ch17-implementation-and-deployment/p-ch17-figures.jsonld",
-          "bytes": 707,
-          "size": "707 B"
+          "bytes": 742,
+          "size": "742 B"
         },
         {
           "path": "dth-hrh/ch17-implementation-and-deployment/p-ch17-figures.md",
@@ -3619,8 +3619,8 @@
         },
         {
           "path": "dth-hrh/ch17-implementation-and-deployment/p-ch17-key-messages.jsonld",
-          "bytes": 706,
-          "size": "706 B"
+          "bytes": 741,
+          "size": "741 B"
         },
         {
           "path": "dth-hrh/ch17-implementation-and-deployment/p-ch17-key-messages.md",
@@ -3634,8 +3634,8 @@
         },
         {
           "path": "dth-hrh/ch17-implementation-and-deployment/p-ch17-migration.jsonld",
-          "bytes": 699,
-          "size": "699 B"
+          "bytes": 734,
+          "size": "734 B"
         },
         {
           "path": "dth-hrh/ch17-implementation-and-deployment/p-ch17-migration.md",
@@ -3649,8 +3649,8 @@
         },
         {
           "path": "dth-hrh/ch17-implementation-and-deployment/p-ch17-objectives.jsonld",
-          "bytes": 706,
-          "size": "706 B"
+          "bytes": 741,
+          "size": "741 B"
         },
         {
           "path": "dth-hrh/ch17-implementation-and-deployment/p-ch17-objectives.md",
@@ -3664,8 +3664,8 @@
         },
         {
           "path": "dth-hrh/ch17-implementation-and-deployment/p-ch17-operations.jsonld",
-          "bytes": 703,
-          "size": "703 B"
+          "bytes": 738,
+          "size": "738 B"
         },
         {
           "path": "dth-hrh/ch17-implementation-and-deployment/p-ch17-operations.md",
@@ -3679,8 +3679,8 @@
         },
         {
           "path": "dth-hrh/ch17-implementation-and-deployment/p-ch17-outputs.jsonld",
-          "bytes": 709,
-          "size": "709 B"
+          "bytes": 744,
+          "size": "744 B"
         },
         {
           "path": "dth-hrh/ch17-implementation-and-deployment/p-ch17-outputs.md",
@@ -3694,8 +3694,8 @@
         },
         {
           "path": "dth-hrh/ch17-implementation-and-deployment/p-ch17-rollout.jsonld",
-          "bytes": 691,
-          "size": "691 B"
+          "bytes": 726,
+          "size": "726 B"
         },
         {
           "path": "dth-hrh/ch17-implementation-and-deployment/p-ch17-rollout.md",
@@ -3709,8 +3709,8 @@
         },
         {
           "path": "dth-hrh/ch17-implementation-and-deployment/p-ch17-testing.jsonld",
-          "bytes": 691,
-          "size": "691 B"
+          "bytes": 726,
+          "size": "726 B"
         },
         {
           "path": "dth-hrh/ch17-implementation-and-deployment/p-ch17-testing.md",
@@ -3724,8 +3724,8 @@
         },
         {
           "path": "dth-hrh/ch17-implementation-and-deployment/p-ch17-tools.jsonld",
-          "bytes": 708,
-          "size": "708 B"
+          "bytes": 743,
+          "size": "743 B"
         },
         {
           "path": "dth-hrh/ch17-implementation-and-deployment/p-ch17-tools.md",
@@ -3744,8 +3744,8 @@
         },
         {
           "path": "dth-hrh/ch18-change-management/p-ch18-adoption.jsonld",
-          "bytes": 695,
-          "size": "695 B"
+          "bytes": 730,
+          "size": "730 B"
         },
         {
           "path": "dth-hrh/ch18-change-management/p-ch18-adoption.md",
@@ -3759,8 +3759,8 @@
         },
         {
           "path": "dth-hrh/ch18-change-management/p-ch18-capacity-strengthening.jsonld",
-          "bytes": 751,
-          "size": "751 B"
+          "bytes": 786,
+          "size": "786 B"
         },
         {
           "path": "dth-hrh/ch18-change-management/p-ch18-capacity-strengthening.md",
@@ -3774,8 +3774,8 @@
         },
         {
           "path": "dth-hrh/ch18-change-management/p-ch18-communications.jsonld",
-          "bytes": 719,
-          "size": "719 B"
+          "bytes": 754,
+          "size": "754 B"
         },
         {
           "path": "dth-hrh/ch18-change-management/p-ch18-communications.md",
@@ -3789,8 +3789,8 @@
         },
         {
           "path": "dth-hrh/ch18-change-management/p-ch18-figures.jsonld",
-          "bytes": 707,
-          "size": "707 B"
+          "bytes": 742,
+          "size": "742 B"
         },
         {
           "path": "dth-hrh/ch18-change-management/p-ch18-figures.md",
@@ -3804,8 +3804,8 @@
         },
         {
           "path": "dth-hrh/ch18-change-management/p-ch18-key-messages.jsonld",
-          "bytes": 706,
-          "size": "706 B"
+          "bytes": 741,
+          "size": "741 B"
         },
         {
           "path": "dth-hrh/ch18-change-management/p-ch18-key-messages.md",
@@ -3819,8 +3819,8 @@
         },
         {
           "path": "dth-hrh/ch18-change-management/p-ch18-objectives.jsonld",
-          "bytes": 706,
-          "size": "706 B"
+          "bytes": 741,
+          "size": "741 B"
         },
         {
           "path": "dth-hrh/ch18-change-management/p-ch18-objectives.md",
@@ -3834,8 +3834,8 @@
         },
         {
           "path": "dth-hrh/ch18-change-management/p-ch18-outputs.jsonld",
-          "bytes": 709,
-          "size": "709 B"
+          "bytes": 744,
+          "size": "744 B"
         },
         {
           "path": "dth-hrh/ch18-change-management/p-ch18-outputs.md",
@@ -3849,8 +3849,8 @@
         },
         {
           "path": "dth-hrh/ch18-change-management/p-ch18-tools.jsonld",
-          "bytes": 708,
-          "size": "708 B"
+          "bytes": 743,
+          "size": "743 B"
         },
         {
           "path": "dth-hrh/ch18-change-management/p-ch18-tools.md",
@@ -3869,8 +3869,8 @@
         },
         {
           "path": "dth-hrh/ch19-monitoring-and-continuous-improvement/p-ch19-evaluation.jsonld",
-          "bytes": 703,
-          "size": "703 B"
+          "bytes": 738,
+          "size": "738 B"
         },
         {
           "path": "dth-hrh/ch19-monitoring-and-continuous-improvement/p-ch19-evaluation.md",
@@ -3884,8 +3884,8 @@
         },
         {
           "path": "dth-hrh/ch19-monitoring-and-continuous-improvement/p-ch19-figures.jsonld",
-          "bytes": 707,
-          "size": "707 B"
+          "bytes": 742,
+          "size": "742 B"
         },
         {
           "path": "dth-hrh/ch19-monitoring-and-continuous-improvement/p-ch19-figures.md",
@@ -3899,8 +3899,8 @@
         },
         {
           "path": "dth-hrh/ch19-monitoring-and-continuous-improvement/p-ch19-key-messages.jsonld",
-          "bytes": 706,
-          "size": "706 B"
+          "bytes": 741,
+          "size": "741 B"
         },
         {
           "path": "dth-hrh/ch19-monitoring-and-continuous-improvement/p-ch19-key-messages.md",
@@ -3914,8 +3914,8 @@
         },
         {
           "path": "dth-hrh/ch19-monitoring-and-continuous-improvement/p-ch19-kpis.jsonld",
-          "bytes": 679,
-          "size": "679 B"
+          "bytes": 714,
+          "size": "714 B"
         },
         {
           "path": "dth-hrh/ch19-monitoring-and-continuous-improvement/p-ch19-kpis.md",
@@ -3929,8 +3929,8 @@
         },
         {
           "path": "dth-hrh/ch19-monitoring-and-continuous-improvement/p-ch19-maturity.jsonld",
-          "bytes": 695,
-          "size": "695 B"
+          "bytes": 730,
+          "size": "730 B"
         },
         {
           "path": "dth-hrh/ch19-monitoring-and-continuous-improvement/p-ch19-maturity.md",
@@ -3944,8 +3944,8 @@
         },
         {
           "path": "dth-hrh/ch19-monitoring-and-continuous-improvement/p-ch19-objectives.jsonld",
-          "bytes": 706,
-          "size": "706 B"
+          "bytes": 741,
+          "size": "741 B"
         },
         {
           "path": "dth-hrh/ch19-monitoring-and-continuous-improvement/p-ch19-objectives.md",
@@ -3959,8 +3959,8 @@
         },
         {
           "path": "dth-hrh/ch19-monitoring-and-continuous-improvement/p-ch19-outputs.jsonld",
-          "bytes": 709,
-          "size": "709 B"
+          "bytes": 744,
+          "size": "744 B"
         },
         {
           "path": "dth-hrh/ch19-monitoring-and-continuous-improvement/p-ch19-outputs.md",
@@ -3974,8 +3974,8 @@
         },
         {
           "path": "dth-hrh/ch19-monitoring-and-continuous-improvement/p-ch19-tools.jsonld",
-          "bytes": 708,
-          "size": "708 B"
+          "bytes": 743,
+          "size": "743 B"
         },
         {
           "path": "dth-hrh/ch19-monitoring-and-continuous-improvement/p-ch19-tools.md",
@@ -3994,8 +3994,8 @@
         },
         {
           "path": "dth-hrh/ch20-illustrative-use-cases/p-ch20-figures.jsonld",
-          "bytes": 707,
-          "size": "707 B"
+          "bytes": 742,
+          "size": "742 B"
         },
         {
           "path": "dth-hrh/ch20-illustrative-use-cases/p-ch20-figures.md",
@@ -4009,8 +4009,8 @@
         },
         {
           "path": "dth-hrh/ch20-illustrative-use-cases/p-ch20-key-messages.jsonld",
-          "bytes": 706,
-          "size": "706 B"
+          "bytes": 741,
+          "size": "741 B"
         },
         {
           "path": "dth-hrh/ch20-illustrative-use-cases/p-ch20-key-messages.md",
@@ -4024,8 +4024,8 @@
         },
         {
           "path": "dth-hrh/ch20-illustrative-use-cases/p-ch20-objectives.jsonld",
-          "bytes": 706,
-          "size": "706 B"
+          "bytes": 741,
+          "size": "741 B"
         },
         {
           "path": "dth-hrh/ch20-illustrative-use-cases/p-ch20-objectives.md",
@@ -4039,8 +4039,8 @@
         },
         {
           "path": "dth-hrh/ch20-illustrative-use-cases/p-ch20-outputs.jsonld",
-          "bytes": 709,
-          "size": "709 B"
+          "bytes": 744,
+          "size": "744 B"
         },
         {
           "path": "dth-hrh/ch20-illustrative-use-cases/p-ch20-outputs.md",
@@ -4054,8 +4054,8 @@
         },
         {
           "path": "dth-hrh/ch20-illustrative-use-cases/p-ch20-part-purpose.jsonld",
-          "bytes": 733,
-          "size": "733 B"
+          "bytes": 768,
+          "size": "768 B"
         },
         {
           "path": "dth-hrh/ch20-illustrative-use-cases/p-ch20-part-purpose.md",
@@ -4069,8 +4069,8 @@
         },
         {
           "path": "dth-hrh/ch20-illustrative-use-cases/p-ch20-tools.jsonld",
-          "bytes": 708,
-          "size": "708 B"
+          "bytes": 743,
+          "size": "743 B"
         },
         {
           "path": "dth-hrh/ch20-illustrative-use-cases/p-ch20-tools.md",
@@ -4084,8 +4084,8 @@
         },
         {
           "path": "dth-hrh/ch20-illustrative-use-cases/scen-emergency-response.jsonld",
-          "bytes": 679,
-          "size": "679 B"
+          "bytes": 714,
+          "size": "714 B"
         },
         {
           "path": "dth-hrh/ch20-illustrative-use-cases/scen-emergency-response.md",
@@ -4099,8 +4099,8 @@
         },
         {
           "path": "dth-hrh/ch20-illustrative-use-cases/scen-licensing.jsonld",
-          "bytes": 643,
-          "size": "643 B"
+          "bytes": 678,
+          "size": "678 B"
         },
         {
           "path": "dth-hrh/ch20-illustrative-use-cases/scen-licensing.md",
@@ -4114,8 +4114,8 @@
         },
         {
           "path": "dth-hrh/ch20-illustrative-use-cases/scen-mobility.jsonld",
-          "bytes": 639,
-          "size": "639 B"
+          "bytes": 674,
+          "size": "674 B"
         },
         {
           "path": "dth-hrh/ch20-illustrative-use-cases/scen-mobility.md",
@@ -4129,8 +4129,8 @@
         },
         {
           "path": "dth-hrh/ch20-illustrative-use-cases/scen-verification.jsonld",
-          "bytes": 655,
-          "size": "655 B"
+          "bytes": 690,
+          "size": "690 B"
         },
         {
           "path": "dth-hrh/ch20-illustrative-use-cases/scen-verification.md",
@@ -4149,8 +4149,8 @@
         },
         {
           "path": "dth-hrh/ch21-country-case-studies/p-ch21-centralized.jsonld",
-          "bytes": 707,
-          "size": "707 B"
+          "bytes": 742,
+          "size": "742 B"
         },
         {
           "path": "dth-hrh/ch21-country-case-studies/p-ch21-centralized.md",
@@ -4164,8 +4164,8 @@
         },
         {
           "path": "dth-hrh/ch21-country-case-studies/p-ch21-federated.jsonld",
-          "bytes": 699,
-          "size": "699 B"
+          "bytes": 734,
+          "size": "734 B"
         },
         {
           "path": "dth-hrh/ch21-country-case-studies/p-ch21-federated.md",
@@ -4179,8 +4179,8 @@
         },
         {
           "path": "dth-hrh/ch21-country-case-studies/p-ch21-figures.jsonld",
-          "bytes": 707,
-          "size": "707 B"
+          "bytes": 742,
+          "size": "742 B"
         },
         {
           "path": "dth-hrh/ch21-country-case-studies/p-ch21-figures.md",
@@ -4194,8 +4194,8 @@
         },
         {
           "path": "dth-hrh/ch21-country-case-studies/p-ch21-fragile-settings.jsonld",
-          "bytes": 727,
-          "size": "727 B"
+          "bytes": 762,
+          "size": "762 B"
         },
         {
           "path": "dth-hrh/ch21-country-case-studies/p-ch21-fragile-settings.md",
@@ -4209,8 +4209,8 @@
         },
         {
           "path": "dth-hrh/ch21-country-case-studies/p-ch21-key-messages.jsonld",
-          "bytes": 706,
-          "size": "706 B"
+          "bytes": 741,
+          "size": "741 B"
         },
         {
           "path": "dth-hrh/ch21-country-case-studies/p-ch21-key-messages.md",
@@ -4224,8 +4224,8 @@
         },
         {
           "path": "dth-hrh/ch21-country-case-studies/p-ch21-lessons-learned.jsonld",
-          "bytes": 723,
-          "size": "723 B"
+          "bytes": 758,
+          "size": "758 B"
         },
         {
           "path": "dth-hrh/ch21-country-case-studies/p-ch21-lessons-learned.md",
@@ -4239,8 +4239,8 @@
         },
         {
           "path": "dth-hrh/ch21-country-case-studies/p-ch21-objectives.jsonld",
-          "bytes": 706,
-          "size": "706 B"
+          "bytes": 741,
+          "size": "741 B"
         },
         {
           "path": "dth-hrh/ch21-country-case-studies/p-ch21-objectives.md",
@@ -4254,8 +4254,8 @@
         },
         {
           "path": "dth-hrh/ch21-country-case-studies/p-ch21-outputs.jsonld",
-          "bytes": 709,
-          "size": "709 B"
+          "bytes": 744,
+          "size": "744 B"
         },
         {
           "path": "dth-hrh/ch21-country-case-studies/p-ch21-outputs.md",
@@ -4269,8 +4269,8 @@
         },
         {
           "path": "dth-hrh/ch21-country-case-studies/p-ch21-tools.jsonld",
-          "bytes": 708,
-          "size": "708 B"
+          "bytes": 743,
+          "size": "743 B"
         },
         {
           "path": "dth-hrh/ch21-country-case-studies/p-ch21-tools.md",
@@ -4289,8 +4289,8 @@
         },
         {
           "path": "dth-hrh/ch22-tools-and-templates/p-ch22-assessment-tools.jsonld",
-          "bytes": 727,
-          "size": "727 B"
+          "bytes": 762,
+          "size": "762 B"
         },
         {
           "path": "dth-hrh/ch22-tools-and-templates/p-ch22-assessment-tools.md",
@@ -4304,8 +4304,8 @@
         },
         {
           "path": "dth-hrh/ch22-tools-and-templates/p-ch22-checklists.jsonld",
-          "bytes": 703,
-          "size": "703 B"
+          "bytes": 738,
+          "size": "738 B"
         },
         {
           "path": "dth-hrh/ch22-tools-and-templates/p-ch22-checklists.md",
@@ -4319,8 +4319,8 @@
         },
         {
           "path": "dth-hrh/ch22-tools-and-templates/p-ch22-figures.jsonld",
-          "bytes": 707,
-          "size": "707 B"
+          "bytes": 742,
+          "size": "742 B"
         },
         {
           "path": "dth-hrh/ch22-tools-and-templates/p-ch22-figures.md",
@@ -4334,8 +4334,8 @@
         },
         {
           "path": "dth-hrh/ch22-tools-and-templates/p-ch22-key-messages.jsonld",
-          "bytes": 706,
-          "size": "706 B"
+          "bytes": 741,
+          "size": "741 B"
         },
         {
           "path": "dth-hrh/ch22-tools-and-templates/p-ch22-key-messages.md",
@@ -4349,8 +4349,8 @@
         },
         {
           "path": "dth-hrh/ch22-tools-and-templates/p-ch22-objectives.jsonld",
-          "bytes": 706,
-          "size": "706 B"
+          "bytes": 741,
+          "size": "741 B"
         },
         {
           "path": "dth-hrh/ch22-tools-and-templates/p-ch22-objectives.md",
@@ -4364,8 +4364,8 @@
         },
         {
           "path": "dth-hrh/ch22-tools-and-templates/p-ch22-outputs.jsonld",
-          "bytes": 709,
-          "size": "709 B"
+          "bytes": 744,
+          "size": "744 B"
         },
         {
           "path": "dth-hrh/ch22-tools-and-templates/p-ch22-outputs.md",
@@ -4379,8 +4379,8 @@
         },
         {
           "path": "dth-hrh/ch22-tools-and-templates/p-ch22-roadmaps.jsonld",
-          "bytes": 695,
-          "size": "695 B"
+          "bytes": 730,
+          "size": "730 B"
         },
         {
           "path": "dth-hrh/ch22-tools-and-templates/p-ch22-roadmaps.md",
@@ -4394,8 +4394,8 @@
         },
         {
           "path": "dth-hrh/ch22-tools-and-templates/p-ch22-tools.jsonld",
-          "bytes": 708,
-          "size": "708 B"
+          "bytes": 743,
+          "size": "743 B"
         },
         {
           "path": "dth-hrh/ch22-tools-and-templates/p-ch22-tools.md",
@@ -4414,8 +4414,8 @@
         },
         {
           "path": "dth-hrh/glossary/g-accreditation.jsonld",
-          "bytes": 614,
-          "size": "614 B"
+          "bytes": 649,
+          "size": "649 B"
         },
         {
           "path": "dth-hrh/glossary/g-accreditation.md",
@@ -4429,8 +4429,8 @@
         },
         {
           "path": "dth-hrh/glossary/g-active-health-worker.jsonld",
-          "bytes": 649,
-          "size": "649 B"
+          "bytes": 684,
+          "size": "684 B"
         },
         {
           "path": "dth-hrh/glossary/g-active-health-worker.md",
@@ -4444,8 +4444,8 @@
         },
         {
           "path": "dth-hrh/glossary/g-activity-level.jsonld",
-          "bytes": 619,
-          "size": "619 B"
+          "bytes": 654,
+          "size": "654 B"
         },
         {
           "path": "dth-hrh/glossary/g-activity-level.md",
@@ -4459,8 +4459,8 @@
         },
         {
           "path": "dth-hrh/glossary/g-attrition.jsonld",
-          "bytes": 594,
-          "size": "594 B"
+          "bytes": 629,
+          "size": "629 B"
         },
         {
           "path": "dth-hrh/glossary/g-attrition.md",
@@ -4474,8 +4474,8 @@
         },
         {
           "path": "dth-hrh/glossary/g-certification.jsonld",
-          "bytes": 614,
-          "size": "614 B"
+          "bytes": 649,
+          "size": "649 B"
         },
         {
           "path": "dth-hrh/glossary/g-certification.md",
@@ -4489,8 +4489,8 @@
         },
         {
           "path": "dth-hrh/glossary/g-community-health-workers.jsonld",
-          "bytes": 669,
-          "size": "669 B"
+          "bytes": 704,
+          "size": "704 B"
         },
         {
           "path": "dth-hrh/glossary/g-community-health-workers.md",
@@ -4504,8 +4504,8 @@
         },
         {
           "path": "dth-hrh/glossary/g-competence.jsonld",
-          "bytes": 599,
-          "size": "599 B"
+          "bytes": 634,
+          "size": "634 B"
         },
         {
           "path": "dth-hrh/glossary/g-competence.md",
@@ -4519,8 +4519,8 @@
         },
         {
           "path": "dth-hrh/glossary/g-competencies.jsonld",
-          "bytes": 609,
-          "size": "609 B"
+          "bytes": 644,
+          "size": "644 B"
         },
         {
           "path": "dth-hrh/glossary/g-competencies.md",
@@ -4534,8 +4534,8 @@
         },
         {
           "path": "dth-hrh/glossary/g-continuing-professional-development.jsonld",
-          "bytes": 730,
-          "size": "730 B"
+          "bytes": 765,
+          "size": "765 B"
         },
         {
           "path": "dth-hrh/glossary/g-continuing-professional-development.md",
@@ -4549,8 +4549,8 @@
         },
         {
           "path": "dth-hrh/glossary/g-contract-type.jsonld",
-          "bytes": 614,
-          "size": "614 B"
+          "bytes": 649,
+          "size": "649 B"
         },
         {
           "path": "dth-hrh/glossary/g-contract-type.md",
@@ -4564,8 +4564,8 @@
         },
         {
           "path": "dth-hrh/glossary/g-deployment.jsonld",
-          "bytes": 599,
-          "size": "599 B"
+          "bytes": 634,
+          "size": "634 B"
         },
         {
           "path": "dth-hrh/glossary/g-deployment.md",
@@ -4579,8 +4579,8 @@
         },
         {
           "path": "dth-hrh/glossary/g-distribution.jsonld",
-          "bytes": 609,
-          "size": "609 B"
+          "bytes": 644,
+          "size": "644 B"
         },
         {
           "path": "dth-hrh/glossary/g-distribution.md",
@@ -4594,8 +4594,8 @@
         },
         {
           "path": "dth-hrh/glossary/g-dual-practice.jsonld",
-          "bytes": 614,
-          "size": "614 B"
+          "bytes": 649,
+          "size": "649 B"
         },
         {
           "path": "dth-hrh/glossary/g-dual-practice.md",
@@ -4609,8 +4609,8 @@
         },
         {
           "path": "dth-hrh/glossary/g-education-and-training-institution.jsonld",
-          "bytes": 738,
-          "size": "738 B"
+          "bytes": 773,
+          "size": "773 B"
         },
         {
           "path": "dth-hrh/glossary/g-education-and-training-institution.md",
@@ -4624,8 +4624,8 @@
         },
         {
           "path": "dth-hrh/glossary/g-education.jsonld",
-          "bytes": 615,
-          "size": "615 B"
+          "bytes": 650,
+          "size": "650 B"
         },
         {
           "path": "dth-hrh/glossary/g-education.md",
@@ -4639,8 +4639,8 @@
         },
         {
           "path": "dth-hrh/glossary/g-educational-institution.jsonld",
-          "bytes": 664,
-          "size": "664 B"
+          "bytes": 699,
+          "size": "699 B"
         },
         {
           "path": "dth-hrh/glossary/g-educational-institution.md",
@@ -4654,8 +4654,8 @@
         },
         {
           "path": "dth-hrh/glossary/g-employment-status-full-time-part-time-temporary-permanent.jsonld",
-          "bytes": 838,
-          "size": "838 B"
+          "bytes": 873,
+          "size": "873 B"
         },
         {
           "path": "dth-hrh/glossary/g-employment-status-full-time-part-time-temporary-permanent.md",
@@ -4669,8 +4669,8 @@
         },
         {
           "path": "dth-hrh/glossary/g-health-labour-market.jsonld",
-          "bytes": 649,
-          "size": "649 B"
+          "bytes": 684,
+          "size": "684 B"
         },
         {
           "path": "dth-hrh/glossary/g-health-labour-market.md",
@@ -4684,8 +4684,8 @@
         },
         {
           "path": "dth-hrh/glossary/g-health-practitioner.jsonld",
-          "bytes": 644,
-          "size": "644 B"
+          "bytes": 679,
+          "size": "679 B"
         },
         {
           "path": "dth-hrh/glossary/g-health-practitioner.md",
@@ -4699,8 +4699,8 @@
         },
         {
           "path": "dth-hrh/glossary/g-health-professional.jsonld",
-          "bytes": 644,
-          "size": "644 B"
+          "bytes": 679,
+          "size": "679 B"
         },
         {
           "path": "dth-hrh/glossary/g-health-professional.md",
@@ -4714,8 +4714,8 @@
         },
         {
           "path": "dth-hrh/glossary/g-health-professions-education-accreditation-agency.jsonld",
-          "bytes": 794,
-          "size": "794 B"
+          "bytes": 829,
+          "size": "829 B"
         },
         {
           "path": "dth-hrh/glossary/g-health-professions-education-accreditation-agency.md",
@@ -4729,8 +4729,8 @@
         },
         {
           "path": "dth-hrh/glossary/g-health-services-licensing-agency.jsonld",
-          "bytes": 709,
-          "size": "709 B"
+          "bytes": 744,
+          "size": "744 B"
         },
         {
           "path": "dth-hrh/glossary/g-health-services-licensing-agency.md",
@@ -4744,8 +4744,8 @@
         },
         {
           "path": "dth-hrh/glossary/g-health-workers.jsonld",
-          "bytes": 619,
-          "size": "619 B"
+          "bytes": 654,
+          "size": "654 B"
         },
         {
           "path": "dth-hrh/glossary/g-health-workers.md",
@@ -4759,8 +4759,8 @@
         },
         {
           "path": "dth-hrh/glossary/g-health-workforce-observatory.jsonld",
-          "bytes": 689,
-          "size": "689 B"
+          "bytes": 724,
+          "size": "724 B"
         },
         {
           "path": "dth-hrh/glossary/g-health-workforce-observatory.md",
@@ -4774,8 +4774,8 @@
         },
         {
           "path": "dth-hrh/glossary/g-health-workforce-planning.jsonld",
-          "bytes": 674,
-          "size": "674 B"
+          "bytes": 709,
+          "size": "709 B"
         },
         {
           "path": "dth-hrh/glossary/g-health-workforce-planning.md",
@@ -4789,8 +4789,8 @@
         },
         {
           "path": "dth-hrh/glossary/g-health-workforce-registry.jsonld",
-          "bytes": 674,
-          "size": "674 B"
+          "bytes": 709,
+          "size": "709 B"
         },
         {
           "path": "dth-hrh/glossary/g-health-workforce-registry.md",
@@ -4804,8 +4804,8 @@
         },
         {
           "path": "dth-hrh/glossary/g-health-workforce.jsonld",
-          "bytes": 635,
-          "size": "635 B"
+          "bytes": 670,
+          "size": "670 B"
         },
         {
           "path": "dth-hrh/glossary/g-health-workforce.md",
@@ -4819,8 +4819,8 @@
         },
         {
           "path": "dth-hrh/glossary/g-human-resources-for-health-information-system.jsonld",
-          "bytes": 774,
-          "size": "774 B"
+          "bytes": 809,
+          "size": "809 B"
         },
         {
           "path": "dth-hrh/glossary/g-human-resources-for-health-information-system.md",
@@ -4834,8 +4834,8 @@
         },
         {
           "path": "dth-hrh/glossary/g-human-resources-management.jsonld",
-          "bytes": 679,
-          "size": "679 B"
+          "bytes": 714,
+          "size": "714 B"
         },
         {
           "path": "dth-hrh/glossary/g-human-resources-management.md",
@@ -4849,8 +4849,8 @@
         },
         {
           "path": "dth-hrh/glossary/g-in-service-training.jsonld",
-          "bytes": 644,
-          "size": "644 B"
+          "bytes": 679,
+          "size": "679 B"
         },
         {
           "path": "dth-hrh/glossary/g-in-service-training.md",
@@ -4864,8 +4864,8 @@
         },
         {
           "path": "dth-hrh/glossary/g-international-standard-classification-of-occupations.jsonld",
-          "bytes": 816,
-          "size": "816 B"
+          "bytes": 851,
+          "size": "851 B"
         },
         {
           "path": "dth-hrh/glossary/g-international-standard-classification-of-occupations.md",
@@ -4879,8 +4879,8 @@
         },
         {
           "path": "dth-hrh/glossary/g-labour-force-survey.jsonld",
-          "bytes": 644,
-          "size": "644 B"
+          "bytes": 679,
+          "size": "679 B"
         },
         {
           "path": "dth-hrh/glossary/g-labour-force-survey.md",
@@ -4894,8 +4894,8 @@
         },
         {
           "path": "dth-hrh/glossary/g-licensing.jsonld",
-          "bytes": 594,
-          "size": "594 B"
+          "bytes": 629,
+          "size": "629 B"
         },
         {
           "path": "dth-hrh/glossary/g-licensing.md",
@@ -4909,8 +4909,8 @@
         },
         {
           "path": "dth-hrh/glossary/g-migration.jsonld",
-          "bytes": 594,
-          "size": "594 B"
+          "bytes": 629,
+          "size": "629 B"
         },
         {
           "path": "dth-hrh/glossary/g-migration.md",
@@ -4924,8 +4924,8 @@
         },
         {
           "path": "dth-hrh/glossary/g-mobility-flow.jsonld",
-          "bytes": 614,
-          "size": "614 B"
+          "bytes": 649,
+          "size": "649 B"
         },
         {
           "path": "dth-hrh/glossary/g-mobility-flow.md",
@@ -4939,8 +4939,8 @@
         },
         {
           "path": "dth-hrh/glossary/g-national-health-workforce-accounts.jsonld",
-          "bytes": 726,
-          "size": "726 B"
+          "bytes": 761,
+          "size": "761 B"
         },
         {
           "path": "dth-hrh/glossary/g-national-health-workforce-accounts.md",
@@ -4954,8 +4954,8 @@
         },
         {
           "path": "dth-hrh/glossary/g-occupation.jsonld",
-          "bytes": 599,
-          "size": "599 B"
+          "bytes": 634,
+          "size": "634 B"
         },
         {
           "path": "dth-hrh/glossary/g-occupation.md",
@@ -4969,8 +4969,8 @@
         },
         {
           "path": "dth-hrh/glossary/g-place-of-training.jsonld",
-          "bytes": 634,
-          "size": "634 B"
+          "bytes": 669,
+          "size": "669 B"
         },
         {
           "path": "dth-hrh/glossary/g-place-of-training.md",
@@ -4984,8 +4984,8 @@
         },
         {
           "path": "dth-hrh/glossary/g-pre-service-education.jsonld",
-          "bytes": 654,
-          "size": "654 B"
+          "bytes": 689,
+          "size": "689 B"
         },
         {
           "path": "dth-hrh/glossary/g-pre-service-education.md",
@@ -4999,8 +4999,8 @@
         },
         {
           "path": "dth-hrh/glossary/g-professional-council.jsonld",
-          "bytes": 649,
-          "size": "649 B"
+          "bytes": 684,
+          "size": "684 B"
         },
         {
           "path": "dth-hrh/glossary/g-professional-council.md",
@@ -5014,8 +5014,8 @@
         },
         {
           "path": "dth-hrh/glossary/g-qualification.jsonld",
-          "bytes": 614,
-          "size": "614 B"
+          "bytes": 649,
+          "size": "649 B"
         },
         {
           "path": "dth-hrh/glossary/g-qualification.md",
@@ -5029,8 +5029,8 @@
         },
         {
           "path": "dth-hrh/glossary/g-recruitment.jsonld",
-          "bytes": 604,
-          "size": "604 B"
+          "bytes": 639,
+          "size": "639 B"
         },
         {
           "path": "dth-hrh/glossary/g-recruitment.md",
@@ -5044,8 +5044,8 @@
         },
         {
           "path": "dth-hrh/glossary/g-registration.jsonld",
-          "bytes": 609,
-          "size": "609 B"
+          "bytes": 644,
+          "size": "644 B"
         },
         {
           "path": "dth-hrh/glossary/g-registration.md",
@@ -5059,8 +5059,8 @@
         },
         {
           "path": "dth-hrh/glossary/g-regulation.jsonld",
-          "bytes": 599,
-          "size": "599 B"
+          "bytes": 634,
+          "size": "634 B"
         },
         {
           "path": "dth-hrh/glossary/g-regulation.md",
@@ -5074,8 +5074,8 @@
         },
         {
           "path": "dth-hrh/glossary/g-retention.jsonld",
-          "bytes": 614,
-          "size": "614 B"
+          "bytes": 649,
+          "size": "649 B"
         },
         {
           "path": "dth-hrh/glossary/g-retention.md",
@@ -5089,8 +5089,8 @@
         },
         {
           "path": "dth-hrh/glossary/g-scope-of-practice.jsonld",
-          "bytes": 634,
-          "size": "634 B"
+          "bytes": 669,
+          "size": "669 B"
         },
         {
           "path": "dth-hrh/glossary/g-scope-of-practice.md",
@@ -5104,8 +5104,8 @@
         },
         {
           "path": "dth-hrh/glossary/g-stewardship.jsonld",
-          "bytes": 604,
-          "size": "604 B"
+          "bytes": 639,
+          "size": "639 B"
         },
         {
           "path": "dth-hrh/glossary/g-stewardship.md",
@@ -5119,8 +5119,8 @@
         },
         {
           "path": "dth-hrh/glossary/g-stock.jsonld",
-          "bytes": 594,
-          "size": "594 B"
+          "bytes": 629,
+          "size": "629 B"
         },
         {
           "path": "dth-hrh/glossary/g-stock.md",
@@ -5134,8 +5134,8 @@
         },
         {
           "path": "dth-hrh/glossary/g-supply.jsonld",
-          "bytes": 599,
-          "size": "599 B"
+          "bytes": 634,
+          "size": "634 B"
         },
         {
           "path": "dth-hrh/glossary/g-supply.md",
@@ -5154,8 +5154,8 @@
         },
         {
           "path": "dth-hrh/glossary/p-glossary-about.jsonld",
-          "bytes": 513,
-          "size": "513 B"
+          "bytes": 548,
+          "size": "548 B"
         },
         {
           "path": "dth-hrh/glossary/p-glossary-about.md",
@@ -5169,8 +5169,8 @@
         },
         {
           "path": "dth-hrh/glossary/t-compare-health-workforce-registry.jsonld",
-          "bytes": 530,
-          "size": "530 B"
+          "bytes": 565,
+          "size": "565 B"
         },
         {
           "path": "dth-hrh/glossary/t-compare-health-workforce-registry.md",
@@ -5184,8 +5184,8 @@
         },
         {
           "path": "dth-hrh/glossary/t-compare-human-resources-for-health-information-system.jsonld",
-          "bytes": 590,
-          "size": "590 B"
+          "bytes": 625,
+          "size": "625 B"
         },
         {
           "path": "dth-hrh/glossary/t-compare-human-resources-for-health-information-system.md",
@@ -5199,8 +5199,8 @@
         },
         {
           "path": "dth-hrh/glossary/t-compare-professional-council.jsonld",
-          "bytes": 515,
-          "size": "515 B"
+          "bytes": 550,
+          "size": "550 B"
         },
         {
           "path": "dth-hrh/glossary/t-compare-professional-council.md",
@@ -5214,8 +5214,8 @@
         },
         {
           "path": "dth-hrh/glossary/t-professional-council-examples.jsonld",
-          "bytes": 518,
-          "size": "518 B"
+          "bytes": 553,
+          "size": "553 B"
         },
         {
           "path": "dth-hrh/glossary/t-professional-council-examples.md",
@@ -5279,7 +5279,7 @@
         },
         {
           "path": "dth-hrh/references/p-references.jsonld",
-          "bytes": 1422,
+          "bytes": 1457,
           "size": "1.4 KB"
         },
         {

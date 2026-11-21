@@ -4,7 +4,7 @@
     "schema": "https://schema.org/",
     "dcterms": "http://purl.org/dc/terms/"
   },
-  "@id": "https://litlfred.github.io/dth-hrh/archimate/0.1.0-draft.1/element/id-d4539867eb074f9383ede25c9318a5eb",
+  "@id": "https://worldhealthorganization.github.io/dth-hrh/archimate/0.1.0-draft.1/element/id-d4539867eb074f9383ede25c9318a5eb",
   "@type": "archimate:Capability",
   "schema:identifier": "id-d4539867eb074f9383ede25c9318a5eb",
   "schema:name": "Privacy / Concent/ Trust",
@@ -12,5 +12,5 @@
   "dcterms:source": {
     "@id": "https://litlfred.github.io/smart-ra/archimate/0.2.0/element/id-d4539867eb074f9383ede25c9318a5eb"
   },
-  "dcterms:isPartOf": "https://litlfred.github.io/dth-hrh/archimate/0.1.0-draft.1"
+  "dcterms:isPartOf": "https://worldhealthorganization.github.io/dth-hrh/archimate/0.1.0-draft.1"
 }

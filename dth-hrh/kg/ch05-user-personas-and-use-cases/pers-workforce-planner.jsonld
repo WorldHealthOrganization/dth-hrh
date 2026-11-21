@@ -1,8 +1,8 @@
 {
   "@context": [
-    "https://litlfred.github.io/dth-hrh/ns/context/v1.jsonld",
+    "https://worldhealthorganization.github.io/dth-hrh/ns/context/v1.jsonld",
     {
-      "@base": "https://litlfred.github.io/folio/",
+      "@base": "https://worldhealthorganization.github.io/dth-hrh/v0/",
       "smart-base": "https://litlfred.github.io/smart-base/v0/ns/"
     }
   ],
@@ -37,26 +37,26 @@
       "basis": "agent-proposed by name, for working-group review (dth-hrh#47)",
       "elements": [
         {
-          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/elements/id-1c5c0bc9234e4282b654dbc71b9da706.jsonld",
+          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/element/id-1c5c0bc9234e4282b654dbc71b9da706",
           "name": "Ministry of Health",
           "type": "BusinessRole"
         },
         {
-          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/elements/id-8852987c90c84071ae92ad3621548adf.jsonld",
+          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/element/id-8852987c90c84071ae92ad3621548adf",
           "name": "Workforce Data Analytics",
           "type": "ApplicationFunction"
         }
       ],
       "views": [
         {
-          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/views/id-19be800d18a34a618d6e1955cf58e956.jsonld",
+          "iri": "https://litlfred.github.io/smart-ra/archimate/0.2.0/view/id-19be800d18a34a618d6e1955cf58e956",
           "name": "ALL High Level - Health Workforce"
         }
       ]
     },
     "glossaryTerms": [
-      "https://litlfred.github.io/dth-hrh/v0/ns#glossary/dth-hrh/health-workforce-planning",
-      "https://litlfred.github.io/dth-hrh/v0/ns#glossary/dth-hrh/national-health-workforce-accounts"
+      "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/dth-hrh/health-workforce-planning",
+      "https://worldhealthorganization.github.io/dth-hrh/v0/ns#glossary/dth-hrh/national-health-workforce-accounts"
     ],
     "relatedBlocks": [
       "bp:hrh-bp-05-workforce-analytics-and-nhwa-reporting"

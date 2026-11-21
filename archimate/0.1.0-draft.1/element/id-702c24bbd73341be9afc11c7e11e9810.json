@@ -4,7 +4,7 @@
     "schema": "https://schema.org/",
     "dcterms": "http://purl.org/dc/terms/"
   },
-  "@id": "https://litlfred.github.io/dth-hrh/archimate/0.1.0-draft.1/element/id-702c24bbd73341be9afc11c7e11e9810",
+  "@id": "https://worldhealthorganization.github.io/dth-hrh/archimate/0.1.0-draft.1/element/id-702c24bbd73341be9afc11c7e11e9810",
   "@type": "archimate:DataObject",
   "schema:identifier": "id-702c24bbd73341be9afc11c7e11e9810",
   "schema:name": "Health Worker",
@@ -12,5 +12,5 @@
   "dcterms:source": {
     "@id": "https://litlfred.github.io/smart-ra/archimate/0.2.0/element/id-702c24bbd73341be9afc11c7e11e9810"
   },
-  "dcterms:isPartOf": "https://litlfred.github.io/dth-hrh/archimate/0.1.0-draft.1"
+  "dcterms:isPartOf": "https://worldhealthorganization.github.io/dth-hrh/archimate/0.1.0-draft.1"
 }
