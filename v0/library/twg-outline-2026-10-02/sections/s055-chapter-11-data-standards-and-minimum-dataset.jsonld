@@ -1,0 +1,19 @@
+{
+  "@context": [
+    "https://worldhealthorganization.github.io/dth-hrh/ns/context/v1.jsonld",
+    {
+      "@base": "https://worldhealthorganization.github.io/dth-hrh/v0/"
+    }
+  ],
+  "@id": "library/twg-outline-2026-10-02/sections/s055-chapter-11-data-standards-and-minimum-dataset",
+  "@type": [
+    "doco:Section"
+  ],
+  "title": "**Chapter 11\\. Data Standards and Minimum Dataset**",
+  "contains": [
+    "library/twg-outline-2026-10-02/blocks/prose-s055-chapter-11-data-standards-and-minimum-dataset"
+  ],
+  "derivedFrom": "https://litlfred.github.io/folio-assistant/assets/library/jsonld/dth-hrh/source/twg-outline-2026-10-02",
+  "sourceDocument": "https://litlfred.github.io/folio-assistant/assets/library/jsonld/dth-hrh/source/twg-outline-2026-10-02",
+  "provenance": "ingested"
+}

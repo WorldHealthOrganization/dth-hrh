@@ -1,0 +1,19 @@
+{
+  "@context": [
+    "https://worldhealthorganization.github.io/dth-hrh/ns/context/v1.jsonld",
+    {
+      "@base": "https://worldhealthorganization.github.io/dth-hrh/v0/"
+    }
+  ],
+  "@id": "library/twg-outline-2026-10-02/sections/s098-20-1-licensing",
+  "@type": [
+    "doco:Section"
+  ],
+  "title": "**20.1 Licensing**",
+  "contains": [
+    "library/twg-outline-2026-10-02/blocks/prose-s098-20-1-licensing"
+  ],
+  "derivedFrom": "https://litlfred.github.io/folio-assistant/assets/library/jsonld/dth-hrh/source/twg-outline-2026-10-02",
+  "sourceDocument": "https://litlfred.github.io/folio-assistant/assets/library/jsonld/dth-hrh/source/twg-outline-2026-10-02",
+  "provenance": "ingested"
+}

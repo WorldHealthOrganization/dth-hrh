@@ -1,0 +1,26 @@
+{
+  "@context": [
+    "https://worldhealthorganization.github.io/dth-hrh/ns/context/v1.jsonld",
+    {
+      "@base": "https://worldhealthorganization.github.io/dth-hrh/v0/",
+      "folio-assistant-core": "https://litlfred.github.io/folio-assistant-core/v0/ns/"
+    }
+  ],
+  "@id": "papers/dth-hrh/blocks/prose-title-page",
+  "@type": [
+    "folio-assistant-core:Prose",
+    "doco:Section"
+  ],
+  "label": "prose:title-page",
+  "kind": "prose",
+  "text": "p-title-page.md",
+  "meta": {
+    "title": "Title page",
+    "source": {
+      "file": "folio/dth-hrh/dth-hrh.ts",
+      "method": "from the document manifest"
+    },
+    "decision": "owner card 2026-11-17 (covers for the dth-* folios, B): a plain text title page for the dth-hrh draft"
+  },
+  "provenance": "authored"
+}

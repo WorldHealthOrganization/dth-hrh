@@ -1,0 +1,19 @@
+{
+  "@context": [
+    "https://worldhealthorganization.github.io/dth-hrh/ns/context/v1.jsonld",
+    {
+      "@base": "https://worldhealthorganization.github.io/dth-hrh/v0/"
+    }
+  ],
+  "@id": "library/twg-glossary-2026-09-29/sheets/sheet-001",
+  "@type": [
+    "doco:Section"
+  ],
+  "title": "TWG instructions",
+  "contains": [
+    "library/twg-glossary-2026-09-29/blocks/table-001"
+  ],
+  "derivedFrom": "https://litlfred.github.io/folio-assistant/assets/library/jsonld/dth-hrh/source/twg-glossary-2026-09-29",
+  "sourceDocument": "https://litlfred.github.io/folio-assistant/assets/library/jsonld/dth-hrh/source/twg-glossary-2026-09-29",
+  "provenance": "ingested"
+}

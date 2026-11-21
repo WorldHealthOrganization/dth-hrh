@@ -1,0 +1,19 @@
+{
+  "@context": [
+    "https://worldhealthorganization.github.io/dth-hrh/ns/context/v1.jsonld",
+    {
+      "@base": "https://worldhealthorganization.github.io/dth-hrh/v0/"
+    }
+  ],
+  "@id": "library/twg-outline-2026-10-02/sections/s059-11-4-nhwa-mapping",
+  "@type": [
+    "doco:Section"
+  ],
+  "title": "**11.4 NHWA mapping**",
+  "contains": [
+    "library/twg-outline-2026-10-02/blocks/prose-s059-11-4-nhwa-mapping"
+  ],
+  "derivedFrom": "https://litlfred.github.io/folio-assistant/assets/library/jsonld/dth-hrh/source/twg-outline-2026-10-02",
+  "sourceDocument": "https://litlfred.github.io/folio-assistant/assets/library/jsonld/dth-hrh/source/twg-outline-2026-10-02",
+  "provenance": "ingested"
+}

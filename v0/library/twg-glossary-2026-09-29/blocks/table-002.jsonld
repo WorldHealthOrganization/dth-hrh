@@ -1,0 +1,22 @@
+{
+  "@context": [
+    "https://worldhealthorganization.github.io/dth-hrh/ns/context/v1.jsonld",
+    {
+      "@base": "https://worldhealthorganization.github.io/dth-hrh/v0/"
+    }
+  ],
+  "@id": "library/twg-glossary-2026-09-29/blocks/table-002",
+  "@type": [
+    "cat-harness:Block",
+    "doco:Table"
+  ],
+  "kind": "table",
+  "label": "Notes",
+  "headers": [
+    "Focus: ",
+    "Health workforce glossary terms (glossary for digital health is addressed separately)"
+  ],
+  "derivedFrom": "https://litlfred.github.io/folio-assistant/assets/library/jsonld/dth-hrh/source/twg-glossary-2026-09-29",
+  "sourceDocument": "https://litlfred.github.io/folio-assistant/assets/library/jsonld/dth-hrh/source/twg-glossary-2026-09-29",
+  "provenance": "ingested"
+}

@@ -1,0 +1,19 @@
+{
+  "@context": [
+    "https://worldhealthorganization.github.io/dth-hrh/ns/context/v1.jsonld",
+    {
+      "@base": "https://worldhealthorganization.github.io/dth-hrh/v0/"
+    }
+  ],
+  "@id": "library/twg-outline-2026-10-02/sections/s014-chapter-3-digital-transformation-approach",
+  "@type": [
+    "doco:Section"
+  ],
+  "title": "**Chapter 3\\. Digital Transformation Approach**",
+  "contains": [
+    "library/twg-outline-2026-10-02/blocks/prose-s014-chapter-3-digital-transformation-approach"
+  ],
+  "derivedFrom": "https://litlfred.github.io/folio-assistant/assets/library/jsonld/dth-hrh/source/twg-outline-2026-10-02",
+  "sourceDocument": "https://litlfred.github.io/folio-assistant/assets/library/jsonld/dth-hrh/source/twg-outline-2026-10-02",
+  "provenance": "ingested"
+}

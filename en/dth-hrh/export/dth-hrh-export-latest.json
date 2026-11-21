@@ -2,7 +2,7 @@
   "$schema": "document-export/v1",
   "document": "dth-hrh",
   "title": "Digital Transformation Handbook: Planning for Human Resources for Health and Health Worker Registries",
-  "commit": "3ec33d5b1518a25d878d66c011f91a25822b35d1",
+  "commit": "ca131e46e8128531732cf3e1fcdcfe0e23ec32eb",
   "dirty": false,
   "commitDate": "2026-11-21",
   "date": "2026-11-21",
@@ -14,7 +14,7 @@
   "files": [
     {
       "kind": "review-docx",
-      "file": "dth-hrh-public-comment-3ec33d5-2026-11-21.docx",
+      "file": "dth-hrh-public-comment-ca131e4-2026-11-21.docx",
       "latest": "dth-hrh-public-comment-latest.docx",
       "format": "Word (.docx)",
       "mediaType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
@@ -29,18 +29,18 @@
       "parameters": {
         "document": "dth-hrh",
         "export kind": "release",
-        "source commit": "3ec33d5",
+        "source commit": "ca131e4",
         "date": "2026-11-21",
         "line numbers": "on",
         "track changes": "off"
       },
-      "sha256": "4b66f24aca12add76d86745ab43f7dc6c1280c7908d6dabdf4658c739dc2527e",
-      "bytes": 1976646,
+      "sha256": "6eebfe0afb287f501c45932a6d27069b304e06c3ec601d3c6d31fcfd55bf1a77",
+      "bytes": 1976644,
       "bookmarks": 508
     },
     {
       "kind": "pdf",
-      "file": "dth-hrh-public-comment-3ec33d5-2026-11-21.pdf",
+      "file": "dth-hrh-public-comment-ca131e4-2026-11-21.pdf",
       "latest": "dth-hrh-public-comment-latest.pdf",
       "format": "PDF",
       "mediaType": "application/pdf",
@@ -56,19 +56,19 @@
       "parameters": {
         "document": "dth-hrh",
         "export kind": "release",
-        "source commit": "3ec33d5",
+        "source commit": "ca131e4",
         "date": "2026-11-21",
         "line numbers": "on",
-        "laid out from": "dth-hrh-public-comment-3ec33d5-2026-11-21.docx"
+        "laid out from": "dth-hrh-public-comment-ca131e4-2026-11-21.docx"
       },
-      "sha256": "149396f4695c33ecad982a6458cb083abaa63e8b79591832424a234d3089d734",
-      "bytes": 3554760,
+      "sha256": "29bf59597a6022786cc0a2b461c8a65cde966fa86217ac94547abf4eab7239a5",
+      "bytes": 3554733,
       "pages": 162,
       "lines": 2408
     },
     {
       "kind": "offline-docx",
-      "file": "dth-hrh-offline-3ec33d5.docx",
+      "file": "dth-hrh-offline-ca131e4.docx",
       "latest": "dth-hrh-offline-latest.docx",
       "format": "Word (.docx)",
       "mediaType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
@@ -84,13 +84,13 @@
       "parameters": {
         "document": "dth-hrh",
         "export kind": "release",
-        "source commit": "3ec33d5",
+        "source commit": "ca131e4",
         "date": "2026-11-21",
         "line numbers": "on",
         "track changes": "on"
       },
-      "sha256": "11135c4f9a51c8d187d8f18959b4e41cd90cd0dcda0ca956231b945ab48c7fe5",
-      "bytes": 1976713,
+      "sha256": "783bbda868f559aa3c8f658bd95c920eedf68dbb4c0308a657816a04c8baa7b5",
+      "bytes": 1976712,
       "bookmarks": 508
     }
   ]
