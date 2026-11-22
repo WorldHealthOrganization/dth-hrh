@@ -60,7 +60,7 @@
       "source": {
         "remote": {
           "repository": "litlfred/who-iris",
-          "ref": "bc7e22c3f6ee56bcf59b4f9a24edfa34df8ab707",
+          "ref": "1ae63149a4389ccaaeefd0d981a05d408163e04e",
           "overrides": {
             "who-iris": {
               "whole": true
@@ -84,9 +84,14 @@
           "trust": {
             "consent": {
               "by": "litlfred",
-              "on": "2026-11-18",
-              "ref": "bc7e22c3f6ee56bcf59b4f9a24edfa34df8ab707",
-              "evidence": "litlfred 2026-11-18 ~19:55Z in session session_01EucfRmKLrFezKp16GjTKi4 (card 'Re-pin tools', option 'Separate re-pin PR'): re-pin every followed layer to its current main so dth-hrh#154 picks up cat-harness-tools#2427 (prov-qaqc publishes in the root layer's own site)"
+              "on": "2026-11-22",
+              "ref": "1ae63149a4389ccaaeefd0d981a05d408163e04e",
+              "evidence": "standing consent by litlfred given 2026-11-12: follow `main` (green commits only) — litlfred, 2026-11-12 09:07Z, project thread 'Nest bibliography entries under Bibliography' (Q-BIBNAV-2): 'B' = re-pin now and switch on standing re-pin so platform fixes reach the site by themselves (cat-harness-tools standing-repin.yml).",
+              "standing": {
+                "follows": "main",
+                "consentAt": "2026-11-12",
+                "require": "green"
+              }
             },
             "standing": {
               "follows": "main",
@@ -104,7 +109,7 @@
       "source": {
         "remote": {
           "repository": "litlfred/smart-base",
-          "ref": "0b45b934abf523a21faed6328cccde4a367b7131",
+          "ref": "3d64496a5eefa525ae968de6f3151cba1002fcff",
           "overrides": {
             "smart-base": {
               "path": "smart-base",
@@ -137,9 +142,14 @@
           "trust": {
             "consent": {
               "by": "litlfred",
-              "on": "2026-11-21",
-              "ref": "0b45b934abf523a21faed6328cccde4a367b7131",
-              "evidence": "litlfred 2026-11-21 17:48:37Z in session session_01Qmmkt8uBwv6vsMUHNmy7AQ, thread 'Stop content sites missing pages' (decision cmsg_017WNUkNK8kdDziPK58Pv6G9JpZ1T7DgP986NtMcW8jkYL, 'A. Re-pin all layers (rec.)' on 'Re-pin the five site PRs to current main?'): re-pin every layer to current main so the site picks up cat-harness-tools#2483 and folio-assistant-core#857 and passes links: refuse (cat-harness-tools#2345)"
+              "on": "2026-11-22",
+              "ref": "3d64496a5eefa525ae968de6f3151cba1002fcff",
+              "evidence": "standing consent by litlfred given 2026-11-12: follow `main` (green commits only) — litlfred, 2026-11-12 09:07Z, project thread 'Nest bibliography entries under Bibliography' (Q-BIBNAV-2): 'B' = re-pin now and switch on standing re-pin so platform fixes reach the site by themselves (cat-harness-tools standing-repin.yml).",
+              "standing": {
+                "follows": "main",
+                "consentAt": "2026-11-12",
+                "require": "green"
+              }
             },
             "standing": {
               "follows": "main",
@@ -186,7 +196,7 @@
       "source": {
         "remote": {
           "repository": "litlfred/folio-assistant-core",
-          "ref": "d0e98403408161df09a90d2b8bcf6e67a5b7623f",
+          "ref": "6a436cf884a846932cb5eb7c8c1ac9ac160de34f",
           "overrides": {
             "folio-assistant-core": {
               "whole": true
@@ -201,9 +211,14 @@
           "trust": {
             "consent": {
               "by": "litlfred",
-              "on": "2026-11-21",
-              "ref": "d0e98403408161df09a90d2b8bcf6e67a5b7623f",
-              "evidence": "litlfred 2026-11-21 17:48:37Z in session session_01Qmmkt8uBwv6vsMUHNmy7AQ, thread 'Stop content sites missing pages' (decision cmsg_017WNUkNK8kdDziPK58Pv6G9JpZ1T7DgP986NtMcW8jkYL, 'A. Re-pin all layers (rec.)' on 'Re-pin the five site PRs to current main?'): re-pin every layer to current main so the site picks up cat-harness-tools#2483 and folio-assistant-core#857 and passes links: refuse (cat-harness-tools#2345)"
+              "on": "2026-11-22",
+              "ref": "6a436cf884a846932cb5eb7c8c1ac9ac160de34f",
+              "evidence": "standing consent by litlfred given 2026-11-12: follow `main` (green commits only) — litlfred, 2026-11-12 09:07Z, project thread 'Nest bibliography entries under Bibliography' (Q-BIBNAV-2): 'B' = re-pin now and switch on standing re-pin so platform fixes reach the site by themselves (cat-harness-tools standing-repin.yml).",
+              "standing": {
+                "follows": "main",
+                "consentAt": "2026-11-12",
+                "require": "green"
+              }
             },
             "standing": {
               "follows": "main",
@@ -221,7 +236,7 @@
       "source": {
         "remote": {
           "repository": "litlfred/cat-harness",
-          "ref": "44f3c050ce5565cab593436a2450004e6dc7a4bb",
+          "ref": "8ab72ec6658e1514c7c2a187144c9362c1d4331a",
           "overrides": {
             "cat-harness": {
               "whole": true
@@ -236,9 +251,14 @@
           "trust": {
             "consent": {
               "by": "litlfred",
-              "on": "2026-11-21",
-              "ref": "44f3c050ce5565cab593436a2450004e6dc7a4bb",
-              "evidence": "litlfred 2026-11-21 17:48:37Z in session session_01Qmmkt8uBwv6vsMUHNmy7AQ, thread 'Stop content sites missing pages' (decision cmsg_017WNUkNK8kdDziPK58Pv6G9JpZ1T7DgP986NtMcW8jkYL, 'A. Re-pin all layers (rec.)' on 'Re-pin the five site PRs to current main?'): re-pin every layer to current main so the site picks up cat-harness-tools#2483 and folio-assistant-core#857 and passes links: refuse (cat-harness-tools#2345)"
+              "on": "2026-11-22",
+              "ref": "8ab72ec6658e1514c7c2a187144c9362c1d4331a",
+              "evidence": "standing consent by litlfred given 2026-11-12: follow `main` (green commits only) — litlfred, 2026-11-12 09:07Z, project thread 'Nest bibliography entries under Bibliography' (Q-BIBNAV-2): 'B' = re-pin now and switch on standing re-pin so platform fixes reach the site by themselves (cat-harness-tools standing-repin.yml).",
+              "standing": {
+                "follows": "main",
+                "consentAt": "2026-11-12",
+                "require": "green"
+              }
             },
             "standing": {
               "follows": "main",
@@ -256,7 +276,7 @@
       "source": {
         "remote": {
           "repository": "litlfred/cat-harness-tools",
-          "ref": "85c74e0c27b7f5a049922ffc20063df0a463806e",
+          "ref": "286f8bdaca801c9f88c884b70420149044df7ddd",
           "overrides": {
             "cat-harness-tools": {
               "whole": true
@@ -268,9 +288,14 @@
           "trust": {
             "consent": {
               "by": "litlfred",
-              "on": "2026-11-21",
-              "ref": "85c74e0c27b7f5a049922ffc20063df0a463806e",
-              "evidence": "litlfred 2026-11-21 17:48:37Z in session session_01Qmmkt8uBwv6vsMUHNmy7AQ, thread 'Stop content sites missing pages' (decision cmsg_017WNUkNK8kdDziPK58Pv6G9JpZ1T7DgP986NtMcW8jkYL, 'A. Re-pin all layers (rec.)' on 'Re-pin the five site PRs to current main?'): re-pin every layer to current main so the site picks up cat-harness-tools#2483 and folio-assistant-core#857 and passes links: refuse (cat-harness-tools#2345)"
+              "on": "2026-11-22",
+              "ref": "286f8bdaca801c9f88c884b70420149044df7ddd",
+              "evidence": "standing consent by litlfred given 2026-11-12: follow `main` (green commits only) — litlfred, 2026-11-12 09:07Z, project thread 'Nest bibliography entries under Bibliography' (Q-BIBNAV-2): 'B' = re-pin now and switch on standing re-pin so platform fixes reach the site by themselves (cat-harness-tools standing-repin.yml).",
+              "standing": {
+                "follows": "main",
+                "consentAt": "2026-11-12",
+                "require": "green"
+              }
             },
             "standing": {
               "follows": "main",
